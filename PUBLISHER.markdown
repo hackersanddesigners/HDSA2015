@@ -34,10 +34,8 @@ or Downloading Github Desktop here: [https://mac.github.com/](https://mac.github
 Step 4.
 Change the markdown files as you wish or create new ones. Github user "bobtaco" added this sentence. He is collaborating with "bgraves".  He will then commit his sentence, and sync w/ his repository, also known as "pushing".
 
-`
-git commit -am "This is comment about what I changed!"
-git push origin master
-`
+`git commit -am "This is comment about what I changed!"`
+`git push origin master`
 
 Step 5.
 "bobtaco" will ask "bgraves" (the editor) to check his addition to the publication via a "Pull request".  You can do this on the Github website.
@@ -46,13 +44,11 @@ Step 5.
 Step 6.
 "bgraves" will review the change in a branch, and merge them if it's good content.
 
-`
-git checkout -b bobtaco-master master
-git pull https://github.com/bobtaco/publisher.git master
-git checkout master
-git merge --no-ff bobtaco-master
-git push origin master
-`
+`git checkout -b bobtaco-master master`
+`git pull https://github.com/bobtaco/publisher.git master`
+`git checkout master`
+`git merge --no-ff bobtaco-master`
+`git push origin master`
 
 Step 7.
 When the publication is complete "editors" can publish it.  This is done first by adding the publishing destination repository, YOU ONLY EVER HAVE TO DO THIS ONCE.  And you will have to be given a key to access the server.
@@ -67,5 +63,5 @@ Publish the PDF.
 The end
 =======
 
-
+I also created this document with Publisher.
 
