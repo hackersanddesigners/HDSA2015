@@ -37,6 +37,11 @@ or by just adding it to Desktop app as follows:
 
 ![Clone image](clone2.png "Clone Desktop")
 
+Step 4.
+Change the markdown files as you wish or create new ones.
+
+
+
 
 
 
