@@ -35,6 +35,7 @@ Step 4.
 Change the markdown files as you wish or create new ones. Github user "bobtaco" added this sentence. He is collaborating with "bgraves".  He will then commit his sentence, and sync w/ his repository, also known as "pushing".
 
 `git commit -am "This is comment about what I changed!"`
+
 `git push origin master`
 
 Step 5.
@@ -45,9 +46,13 @@ Step 6.
 "bgraves" will review the change in a branch, and merge them if it's good content.
 
 `git checkout -b bobtaco-master master`
+
 `git pull https://github.com/bobtaco/publisher.git master`
+
 `git checkout master`
+
 `git merge --no-ff bobtaco-master`
+
 `git push origin master`
 
 Step 7.
