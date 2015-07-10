@@ -22,7 +22,26 @@ Sign up at [github.com](http://github.com).
 Step 2.
 Visit the main publisher repository here: [https://github.com/bgraves/publisher](https://github.com/bgraves/publisher).  Click the "Fork" button.
 
-![Fork image](fork.png "Fork"))
+![Fork image](fork.png "Fork")
+
+Step 3.
+Clone the repository.  You can do this in the Terminal be executing:
+
+`git clone https://github.com/bobtaco/publisher.git`
+
+or Downloading Github Desktop here: [https://mac.github.com/](https://mac.github.com/) and clicking "Clone in Desktop" on the website.
+
+![Clone image](clone.png "Clone")
+
+or by just adding it to Desktop app as follows:
+
+![Clone image](clone2.png "Clone Desktop")
+
+
+
+
+
+
 
 
 
