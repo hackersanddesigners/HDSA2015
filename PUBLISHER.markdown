@@ -11,3 +11,4 @@ Publisher is a digital publishing platform based on git in order to facilitate o
 * Test 3
 * Test 4
 * Test 5
+* Test 6
