@@ -38,13 +38,23 @@ or by just adding it to Desktop app as follows:
 ![Clone image](clone2.png "Clone Desktop")
 
 Step 4.
-Change the markdown files as you wish or create new ones.
+Change the markdown files as you wish or create new ones. Github user "bobtaco" added this sentence. He is collaborating with "bgraves".  He will then commit his sentence, and sync w/ his repository, also known as "pushing".
 
+![Commit image](commit.png "Commit Desktop")
 
+Step 5.
+"bobtaco" will ask "bgraves" (the editor) to check his addition to the publication via a "Pull request".
 
+Step 6.
+"bgraves" will review the change in a branch, and merge them if it's good content.
 
-
-
+`
+git checkout -b bobtaco-master master
+git pull https://github.com/bobtaco/publisher.git master
+git checkout master
+git merge --no-ff bobtaco-master
+git push origin master
+`
 
 
 
