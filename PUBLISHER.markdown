@@ -60,6 +60,8 @@ When the publication is complete "editors" can publish it.  This is done first b
 
 `git remote add publish ubuntu@52.17.56.97:publisher.git`
 
+
+
 **Step 8.**
 Publish the PDF.  The markdown is automatically translated to PDF, and published immediately to the web.
 
