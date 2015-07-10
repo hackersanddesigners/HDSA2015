@@ -70,5 +70,5 @@ Publish the PDF.  The markdown is automatically translated to PDF, and published
 The end
 =======
 
-I also created this document with Publisher.
+I also created this document with Publisher. - James Bryan Graves
 
