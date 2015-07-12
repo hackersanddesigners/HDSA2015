@@ -30,6 +30,9 @@ I order to contextualize the
 - approach: experimentation and self-initiation, satire, humor 
 - content: behavior, the digital self, „the obligation to self-design“, algorithms, big data & discrimination, anomaly detection, 
 
+Hackers & Designers Summery Academy, just as in it’s professional meetups, has approached means and goals as the same entities by intentionally encouraging experimentation with new tools and collaborations through workshop based scenarios.  We believe, in this context, the output is not necessarily important as the input.  Individuals are welcome to draw their on subjective ethical, political or any other viewpoints or conclusions from working together in a community attempting to be objective with a satirical or humorous spin.
+
+In this spirit, Hackers & Designers has invited cross-displinary speakers to take the community and the public into a deeper conversation around many of the topics which have inevitably arose in our modern techno society and will have likely breached over the course of the academy.  The speakers promise an evening of developed perspectives from their research, professional and artistic practices, but all the while maintaining the satirical and humorous approach of Hackers & Designers.
 
 The public lecture program serves as a concluding convention of the H&D Summer Academy. After a presentation of some of the results from the Summer Academy speakers from different backgrounds (art, design, technology, social sciences, …) will contextualize the hands-on workshop program.
 
