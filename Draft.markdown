@@ -4,11 +4,12 @@ About Bugs, Bots and Bytes
 Hackers & Designers public summer program
 --------------------------------------
 
-> Thursday 30 July: Underground Cinema, Jeffrey Babkock	
-> Friday 7 August: About Bugs Bots and Bytes – Summer Talks
+> Thursday 30 July, 19:30–22:00: Underground Cinema, Jeffrey Babkock	
+>
+> Friday 7 August, 18:00–3:00: About Bugs Bots and Bytes – Summer Talks
 
 
-Hackers & Designes Summer Talks
+Hackers & Designers Summer Talks
 -------------------------------
 
 Hackers & Designers is a non-profit cross-disciplinary community of technologists, designers, and artists. During the summer of 2015 Hackers & Designers invited an international group of ambitious participants for a 10 full-day immersive program of hands-on workshops in which the focus lies on learning by creating, researching, and discussing.   
@@ -42,8 +43,6 @@ The speakers promise an informed evening offering insights and diverse perspecti
 > 22:15: DJ’s
 
 
-
-
 The speakers: 
 
 Jeremy Bailey is a Toronto-based “Famous New Media Artist whose work explores custom
@@ -61,32 +60,10 @@ Ramon Amaro:
 [Anticipating Behavior](https://www.ica.org.uk/whats-on/fig-2-2250-anticipating-behaviour)
 [Big Data SOC](http://bigdatasoc.blogspot.nl/p/editoial-team.html)
 
-
-Quotes: 
-
-About Art Hack Day: „The event, though well attended, was criticized by many—including invitee Constant Dullaart, who wrote an open letter explaining his reasons for not attending. He argued that, rather than hyperspeed artistic production, today "we desperately need art that deals with contemporary cultural issues relating to technology and media that has had a chance to ripen outside of this techie neoliberal pressure cooker format."
-
-„a space without tangible results is not necessarily a space without agency“
-
-„how does an independent space resist instrumentalizating discourse while managing still to engage systems of power?“
-
-http://rhizome.org/editorial/2015/feb/18/transmediale-2015-capture-all/
-
-
-Algorithm under fire: 
-http://www.transmediale.de/de/content/algorithms-under-fire-at-conference
-
-
-
 About Ramon: 
 https://www.ica.org.uk/whats-on/fig-2-2250-anticipating-behaviour
 http://bigdatasoc.blogspot.nl/p/editoial-team.html
 
-
-About the speakers: 
-
-ROSA MENKMAN
->>>>>>> origin/master
 Rosa Menkman is a Dutch artist and theorist who likes to focus on visual artifacts created by accidents in both analogue and digital media. The visuals she makes are the result of glitches, compressions, feedback and other forms of noise. Although many people perceive these accidents as negative experiences, Rosa emphasizes their positive consequences: I believe that these artifacts facilitate an important insight into the otherwise obscure world of media resolutions.
 By combining both her practical as well as my academic background, she intends to merge her practice into a grand theory artifacts (a study of glitch ecologies). 
 Wrote: [The Glitch Momentum](http://issuu.com/instituteofnetworkcultures/docs/glitchmomentum?e=3130431/2681915)
