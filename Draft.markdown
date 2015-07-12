@@ -17,7 +17,7 @@ Hackers & Designers is a non-profit cross-disciplinary community of technologist
 The Hackers & Designers Summer Academy approaches means and goals as same entities by encouraging self-initiation and experimentation with unusual tools and cross-disciplinary collaborations through workshopping. We believe, in this context, the output is not necessarily as important as the input. 
 
 In this spirit, Hackers & Designers has invited cross-disciplinary speakers to take the participants and the public into a deeper conversation around topics, which have inevitably arose in our modern techno society and will have likely breached over the course of the Summer Academy. Please feel warmly invited to join and evening of learning and unlearning notions such as behavioral pattern and habits when it comes to algorithmic work, life, and even death. 
-The speakers promise an informed evening offering insights and diverse perspectives into their research, professional and artistic practices, but all the while maintaining the satirical and humorous approach of Hackers & Designers.
+The speakers promise an informed evening offering insights and diverse perspectives into their research, professional and artistic practices, but all the while maintaining the satirical and humorous approach of Hackers & Designers. Lol.
 
 
 
