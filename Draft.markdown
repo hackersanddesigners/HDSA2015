@@ -4,7 +4,7 @@ About Bugs, Bots and Bytes
 Hackers & Designers public summer program
 --------------------------------------
 
-> Thursday 30 July, 19:30–22:00: Underground Cinema, Jeffrey Babkock	
+> Thursday 30 July, 19:30–22:00: Underground Cinema, Jeffrey Babcock	
 >
 > Friday 7 August, 18:00–3:00: About Bugs Bots and Bytes – Summer Talks
 
@@ -16,8 +16,9 @@ Hackers & Designers is a non-profit cross-disciplinary community of technologist
 
 The Hackers & Designers Summer Academy approaches means and goals as same entities by encouraging self-initiation and experimentation with unusual tools and cross-disciplinary collaborations through workshopping. We believe, in this context, the output is not necessarily as important as the input. 
 
-In this spirit, Hackers & Designers has invited cross-disciplinary speakers to take the participants and the public into a deeper conversation around topics which have inevitably arose in our modern techno society and will have likely breached over the course of the Summer Academy. Please feel warmly invited to join an evening of learning and unlearning notions such as behavioral pattern and habits when it comes to algorithmic work, life, and even death. 
-The speakers promise an informed evening offering insights and diverse perspectives into their research, professional and artistic practices, but all the while maintaining the satirical and humorous approach of Hackers & Designers.   
+In this spirit, Hackers & Designers has invited cross-disciplinary speakers to take the participants and the public into a deeper conversation around topics, which have inevitably arose in our modern techno society and will have likely breached over the course of the Summer Academy. Please feel warmly invited to join and evening of learning and unlearning notions such as behavioral patterns and habits when it comes to algorithmic work, life, and death. 
+The speakers promise an informed evening offering insights and diverse perspectives into their research, professional and artistic practices, but all the while maintaining the satirical and humorous approach of Hackers & Designers. Lol.
+
 
 
 > Hackers & Designers Summer Academy 2015 – Summer Talks:
@@ -25,21 +26,21 @@ The speakers promise an informed evening offering insights and diverse perspecti
 > 
 > 18:00 Welcome   
 >
-> 18:30-19:30 Presentation H&D Summer Academy   
+> 18:30-19:15 Presentation H&D Summer Academy   
 >		
-> 19:30 15-minute break   
+> 19:15 15-minute break   
 >   
-> 19:45 Stefan Schäfer on „Digital Death & Post Mortem Selfies“
+> 19:30 Stefan Schäfer on „Digital Death & Post Mortem Selfies“
 >   
-> 20:30 Jeremy Bailey on „…“ (The possibilities of satire about Face Detection Technology)   
+> 20:00 Jeremy Bailey on „…“ (The possibilities of satire about Face Detection Technology)   
 >   
-> 20:30 15-minute break
+> 20:45 15-minute break
 >
-> 20:45 Ramon Amaro: The ethical and philosophical dimensions of mathematical modeling and machine learning processes.
+> 21:00 Ramon Amaro: The ethical and philosophical dimensions of mathematical modeling and machine learning processes.
 >
-> 21:30 Rosa Menkman 
+> 21:15 Rosa Menkman 
 >
-> 22:15: DJ’s
+> 22:30: DJ’s
 
 
 **The speakers:** 
