@@ -35,11 +35,11 @@ The speakers promise an informed evening offering insights and diverse perspecti
 > 20:30 Jeremy Bailey on „…“ (The possibilities of satire about Face Detection Technology)   
 >   
 > 20:30 15-minute break
-
+>
 > 20:45 Ramon Amaro: The ethical and philosophical dimensions of mathematical modeling and machine learning processes.
-
+>
 > 21:30 Rosa Menkman 
-
+>
 > 22:15: DJ’s
 
 
@@ -67,10 +67,10 @@ by Pari Nadimi Gallery in Toronto. (From: mediamatic.net/360327/en/jeremy-bailey
    
    
 Rosa Menkman is a Dutch artist and theorist who likes to focus on visual artifacts created by accidents in both analogue and digital media. The visuals she makes are the result of glitches, compressions, feedback and other forms of noise. Although many people perceive these accidents as negative experiences, Rosa emphasizes their positive consequences: I believe that these artifacts facilitate an important insight into the otherwise obscure world of media resolutions.
-By combining both her practical as well as my academic background, she intends to merge her practice into a grand theory artifacts (a study of glitch ecologies). 
+By combining both her practical as well as my academic background, she intends to merge her practice into a grand theory artifacts (a study of glitch ecologies).   
    
-Rosa wrote: [The Glitch Momentum](http://issuu.com/instituteofnetworkcultures/docs/glitchmomentum?e=3130431/2681915)   
-
+Rosa wrote: [The Glitch Momentum](http://issuu.com/instituteofnetworkcultures/docs/glitchmomentum?e=3130431/2681915)      
+   
    
 Stëfan Schäfer is a designer and researcher based in Amsterdam. His research deals with the conversion of images from representative objects to participative subjects. This includes modes of image production and distribution as well as occuring consequences and shifts of meaning while traversing divers media. At this moment Schäfer is investigating the "compensation of physical absence with virtual presence" and vice versa. 
    
