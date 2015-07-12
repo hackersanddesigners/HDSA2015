@@ -12,7 +12,7 @@ Hackers & Designers public summer program
 Hackers & Designers Summer Talks
 -------------------------------
 
-Hackers & Designers is a non-profit cross-disciplinary community of technologists, designers, and artists. During the summer of 2015 Hackers & Designers invited an international group of ambitious participants for a 10 full-day immersive program of hands-on workshops in which the focus lies on learning by creating, researching, and discussing.   
+Hackers & Designers is a non-profit cross-disciplinary community of technologists, designers, and artists. During the summer of 2015 Hackers & Designers invited an international group of ambitious participants for a 10 full-day immersive program of hands-on workshops in which the focus lies on learning, researching, and discussing by creating.   
 
 The Hackers & Designers Summer Academy approaches means and goals as same entities by encouraging self-initiation and experimentation with unusual tools and cross-disciplinary collaborations through workshopping. We believe, in this context, the output is not necessarily as important as the input. 
 
