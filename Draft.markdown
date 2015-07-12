@@ -75,5 +75,3 @@ Rosa wrote: [The Glitch Momentum](http://issuu.com/instituteofnetworkcultures/do
 Stëfan Schäfer is a designer and researcher based in Amsterdam. His research deals with the conversion of images from representative objects to participative subjects. This includes modes of image production and distribution as well as occuring consequences and shifts of meaning while traversing divers media. At this moment Schäfer is investigating the "compensation of physical absence with virtual presence" and vice versa. 
    
 [stefanschafer.net](http://stefanschafer.net/)
-
-Testing again
