@@ -46,17 +46,17 @@ The public lecture program serves as a concluding convention of the H&D Summer A
 > 18:30-19:30 Presentation Summer Academy
 >		
 > 19:30 15-minute break
->
+
 > 19:45 Stefan Schäfer on „Digital Death & Post Mortem Selfies“
 
 > 20:30 Jeremy Bailey „On the possibilities of satire about Face Detection Technology“
->
+
 > 20:30 15-minute break
->
+
 > 20:45 Ramon Amaro: The ethical and philosophical dimensions of mathematical modeling and machine learning processes.
->
+
 > 21:30 Rosa Menkman 
->
+
 > 22:15: DJ’s
 
 
@@ -85,7 +85,7 @@ Notes:
 - quantified labor in the context of mass production and automation 
 
 - The future of algortihmic work and life 
-- „What is the point of all this talk?“— on learning by doing?
+- "What is the point of all this talk?" — on learning by doing?
 > using the lecture to learn and reflect on H&D as a non-profit initiative 
 
 - what spaces can be shaped by the interaction between digital technology and creative practice?
