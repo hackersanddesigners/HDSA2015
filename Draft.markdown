@@ -115,7 +115,7 @@ http://bigdatasoc.blogspot.nl/p/editoial-team.html
 
 About the speakers: 
 
-»ЯOSΛ MEИKMΛN
+ROSA MENKMAN
 Rosa Menkman is a Dutch artist and theorist who likes to focus on visual artifacts created by accidents in both analogue and digital media. The visuals she makes are the result of glitches, compressions, feedback and other forms of noise. Although many people perceive these accidents as negative experiences, Rosa emphasizes their positive consequences: I believe that these artifacts facilitate an important insight into the otherwise obscure world of media resolutions.
 By combining both her practical as well as my academic background, she intends to merge her practice into a grand theory artifacts (a study of glitch ecologies). 
 
