@@ -32,7 +32,7 @@ The speakers promise an informed evening offering insights and diverse perspecti
 >   
 > 19:30 Stefan Schäfer on „Digital Death & Post Mortem Selfies“
 >   
-> 20:00 Jeremy Bailey about the possibilities of satire about face detection technology   
+> 20:00 Jeremy Bailey on Gestural Interfacing   
 >   
 > 20:30 Short break
 >
@@ -53,13 +53,15 @@ Ramon graduated from the University of Essex with an MA in Sociological Research
 [Anticipating Behavior](https://www.ica.org.uk/whats-on/fig-2-2250-anticipating-behaviour)  
    
    
-Jeremy Bailey is a Toronto-based “Famous New Media Artist whose work explores custom
-software in a performative context. His work is often confidently self-deprecating in offering
-hilarious parodies of new media vocabularies.” (Marisa Olson, Rhizome)
+Jeremy Bailey is a Toronto-based Famous New Media Artist whose work explores custom
+software in a performative context. 
+
+„Since the early noughties Bailey has ploughed a compelling, and often hilarious, road through the various developments of digital communications technologies. Ostensibly a satire on, and parody of, the practices and language of "new media," the jocose surface of Bailey’s work hides an incisive exploration of the critical intersection between video, computing, performance, and the body. The unique terrain of Bailey’s work sits between a collision of the rarefied and the populist.“ 
+[Rhizome about Jeremy](http://rhizome.org/editorial/2013/apr/17/patents-pending/)
+
 Recent projects include performances for Rhizome’s Seven on Seven in New York,
 the Stedelijk Museum in Amsterdam, and Tate Liverpool. His work has been shown widely
-including recent solo and group exhibitions at Transmediale in Berlin, Mediamatic in Amsterdam, Museums Quartier in Vienna, Balice Hertling in Paris and The Polytechnic Museum in
-Moscow. Recent commissions include performances and exhibitions for FACT in Liverpool,
+including recent solo and group exhibitions at Transmediale in Berlin, Mediamatic in Amsterdam, Museums Quartier in Vienna, Balice Hertling in Paris and The Polytechnic Museum in Moscow. Recent commissions include performances and exhibitions for FACT in Liverpool,
 Turner Contemporary in Margate UK, and The New Museum in New York. Bailey is represented
 by Pari Nadimi Gallery in Toronto. (From: mediamatic.net/360327/en/jeremy-bailey)
    
