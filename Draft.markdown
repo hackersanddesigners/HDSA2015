@@ -38,7 +38,7 @@ The speakers promise an informed evening offering insights and diverse perspecti
 >
 > 20:45 Ramon Amaro: The ethical and philosophical dimensions of mathematical modeling and machine learning processes.
 >
-> 21:30 Rosa Menkman 
+> 21:30 Rosa Menkman on the potentials of technological flaws (title to be announced) 
 >
 > 22:30: DJ’s
 
