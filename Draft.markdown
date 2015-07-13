@@ -57,14 +57,7 @@ Jeremy Bailey is a Toronto-based Famous New Media Artist whose work explores cus
 software in a performative context. 
 
 „Since the early noughties Bailey has ploughed a compelling, and often hilarious, road through the various developments of digital communications technologies. Ostensibly a satire on, and parody of, the practices and language of "new media," the jocose surface of Bailey’s work hides an incisive exploration of the critical intersection between video, computing, performance, and the body. The unique terrain of Bailey’s work sits between a collision of the rarefied and the populist.“ 
-[Rhizome about Jeremy](http://rhizome.org/editorial/2013/apr/17/patents-pending/)
-
-Recent projects include performances for Rhizome’s Seven on Seven in New York,
-the Stedelijk Museum in Amsterdam, and Tate Liverpool. His work has been shown widely
-including recent solo and group exhibitions at Transmediale in Berlin, Mediamatic in Amsterdam, Museums Quartier in Vienna, Balice Hertling in Paris and The Polytechnic Museum in Moscow. Recent commissions include performances and exhibitions for FACT in Liverpool,
-Turner Contemporary in Margate UK, and The New Museum in New York. Bailey is represented
-by Pari Nadimi Gallery in Toronto. (From: mediamatic.net/360327/en/jeremy-bailey)
-   
+[Rhizome about Jeremy](http://rhizome.org/editorial/2013/apr/17/patents-pending/)   
 [jeremybailey.net](http://www.jeremybailey.net/)   
    
    
