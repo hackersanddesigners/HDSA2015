@@ -16,31 +16,30 @@ Hackers & Designers is a non-profit cross-disciplinary community of technologist
 
 The Hackers & Designers Summer Academy approaches means and goals as same entities by encouraging self-initiation and experimentation with unusual tools and cross-disciplinary collaborations through workshopping. We believe, in this context, the output is not necessarily as important as the input. 
 
-In this spirit, Hackers & Designers has invited cross-disciplinary speakers to take the participants and the public into a deeper conversation around topics, which have inevitably arose in our modern techno society and will have likely breached over the course of the Summer Academy. Please feel warmly invited to join and evening of learning and unlearning notions such as behavioral patterns and habits when it comes to algorithmic work, life, and death. 
+In this spirit, Hackers & Designers has invited cross-disciplinary speakers to take the participants and the public into a deeper conversation around topics, which have inevitably arose in our modern techno society and likely breach over the course of the Summer Academy. Please feel warmly invited to join an evening of learning and unlearning notions such as behavioral patterns and habits when it comes to algorithmic work, life, and death. 
 The speakers promise an informed evening offering insights and diverse perspectives into their research, professional and artistic practices, but all the while maintaining the satirical and humorous approach of Hackers & Designers.
 
 
+Fr 7 August	18:00	Welcome
 
-> Hackers & Designers Summer Academy 2015 – Summer Talks:
----------------------------------------------------------
-> 
-> 18:00 Welcome   
->
-> 18:30 Presentation H&D Summer Academy   
->		
-> 19:15 Short break
->   
-> 19:30 Stefan Schäfer on „Digital Death & Post Mortem Selfies“
->   
-> 20:00 Jeremy Bailey on Gestural Interfacing   
->   
-> 20:30 Short break
->
-> 20:45 Ramon Amaro: The ethical and philosophical dimensions of mathematical modeling and machine learning processes.
->
-> 21:30 Rosa Menkman on the potentials of technological flaws (title to be announced) 
->
-> 22:30: DJ’s
+		18:30	Presentation H&D Summer Academy
+
+		19:15	Short break
+
+		19:30	Stefan Schäfer on the right to die digitally, digital euthanasia, 
+			image rights and more
+
+		20:00	Jeremy Bailey on gestural interfacing
+
+		20:30	Short break
+
+		20:45	Ramon Amaro: The ethical and philosophical dimensions
+			of mathematical modeling and machine learning processe
+
+		21:30	Rosa Menkman on the potentials of technological flaws 
+		
+	22:30-03:00	DJs
+
 
 
 **The speakers:** 
@@ -58,7 +57,7 @@ software in a performative context.
 
 „Since the early noughties Bailey has ploughed a compelling, and often hilarious, road through the various developments of digital communications technologies. Ostensibly a satire on, and parody of, the practices and language of "new media," the jocose surface of Bailey’s work hides an incisive exploration of the critical intersection between video, computing, performance, and the body. The unique terrain of Bailey’s work sits between a collision of the rarefied and the populist.“ 
 [Rhizome about Jeremy](http://rhizome.org/editorial/2013/apr/17/patents-pending/)   
-[jeremybailey.net](http://www.jeremybailey.net/)   
+o[jeremybailey.net](http://www.jeremybailey.net/)   
    
    
 Rosa Menkman is a Dutch artist and theorist who likes to focus on visual artifacts created by accidents in both analogue and digital media. The visuals she makes are the result of glitches, compressions, feedback and other forms of noise. Although many people perceive these accidents as negative experiences, Rosa emphasizes their positive consequences: I believe that these artifacts facilitate an important insight into the otherwise obscure world of media resolutions.
