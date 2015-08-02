@@ -13,10 +13,11 @@
 + cyberfeminism -
 + putti: windows version of terminal – 
 + ssh access to a server - 
-+ terminal command
++ terminal commands: 
 -> /home/your_name 
-ls /home -> gives a list of every folder in /hma
-every folder in -> /home
-to move around -> cd
-pwd -> terminal command
-man bash (manual)
+  ls /home -> gives a list of every folder in /hma
+  every folder in -> /home
+  to move around -> cd
+  pwd -> terminal command
+  man bash (manual)
++ figlet word -> visualizing a word 
