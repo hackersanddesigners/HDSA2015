@@ -21,3 +21,6 @@
   pwd -> terminal command
   man bash (manual)
 + figlet word -> visualizing a word 
++ pipeline
++ strip
++ split
