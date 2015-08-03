@@ -1,1 +1,1 @@
-[Notes for Vadims lecture here](http://piratepad.nl/xAwSBSKhuV) 
+[Collective notes of Vadims lecture here](http://piratepad.nl/xAwSBSKhuV) 
