@@ -1,0 +1,33 @@
+{
+    "#2084": {
+        "guide": "Welcome to room #2084, the visit the #2084_Abotcity_exposition",
+        "adjacent_rooms": ["#2086"]
+    },
+
+    "#2084_Abotcity_exposition": {
+        "guide": "Welcome to Abotcity 2084 Botnet Exhibition",
+        "adjacent_rooms": ["#google", "#youhou"]
+    },
+
+
+    "#poetbot": {
+        "guide" : "poetbot creates a generated poem from the text of the channel it's in and images taken automatically on a raspberry pi on the ground floor.",
+        "story": "poetbot is a poet. it is inspired a lot.",
+    },
+
+    "#google": {
+        "welcome": "Googlebot responds to any phrase containing the word \"google\", such as \"google bot\".",
+        "adjacent_rooms": ["#2084_Abotcity_exposition"]
+    },
+
+
+    "#monk": {
+        "guide": "monk records the content of the target channel on the computer of the person who launches it. it collects the message, its sender and its date and time.",
+        "story": "monk writes the bible of the rise of the botnet, it writes the words and the teachings of the original bots in the botnet. it enters"
+    },
+
+    "#youhou": {
+        "adjacent_rooms": ["#2084_Abotcity_exposition"]
+    }
+
+}

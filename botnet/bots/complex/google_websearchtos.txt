@@ -1,0 +1,156 @@
+Source: https://developers.google.com/web-search/terms
+Retrieved: April 20 2014
+
+Web Search API Terms of Service
+
+Note: The Google Web Search API has been officially deprecated as of November 1, 2010. It will continue to work as per our deprecation policy, but the number of requests you may make per day will be limited. Therefore, we encourage you to move to Custom Search, which provides an alternative solution.
+
+Thank you for using the Google Web Search API. By using the Google Web Search API (the "Service" or the "API"), you ("You") accept and agree to be bound by the following terms and conditions (the "Terms of Use").
+1. Service
+
+1.1 Description of Service. The API consists of JavaScript and associated service protocols that enable You to display results from Google searches, including text and URL results from Google Web Search and results from searches on other Google services ("Google Search Results") on your website, in your application, or in your other product expressly authorized in writing by Google (each, a "Property"), subject to the limitations and conditions described below. You are allowed to use the API only to display, and to make such uses as are necessary for You to display, Google Search Results on your Property. The API does not provide You with the ability to access, and You are not allowed to access, other underlying Google Services or data. Subject to the limitations and conditions described below, You may use the API to enable end users of your Property to designate Google Search Results for You to display in conjunction with other information that they upload or post to your Property.
+
+1.2 Modifications. Google is constantly innovating in order to provide the best possible experience for its users. Google reserves the right to change the form and nature of the Service that Google provides (e.g., to charge for access to the API or to set a maximum number of Google Search Results You may access through the API) with or without notice. In addition, Google reserves the right to release subsequent versions of the API, but in accordance with Section 1.3. Due to things like changes to the law or changes to functionality offered through the Service, Google may need to change these Terms of Use from time to time. You should look at the most current version of the Terms of Use at https://developers.google.com/web-search/terms (or such future URL as Google may designate) regularly. Google will also post notice of modified terms at this URL. The changes will become effective seven (7) days after they are posted, except if the changes apply to new functionality, in which case they will be effective immediately. If you do not agree to modified terms for the Service, You may cancel the Service by removing the JavaScript and/or other implementation of the API from your Property. If You continue to use the Service on any Property, You will be deemed to have accepted the modifications.
+
+1.3 Deprecation. If Google in its discretion chooses to cease providing the current version of the Service, whether through discontinuation of the Service or by upgrading the Service to a newer version, the current version of the Service will be deprecated and become a "Deprecated Version" of the Service. Google will issue an announcement if the current version of the Service will be deprecated. For a period of three years after an announcement (the "Deprecation Period"), Google will use commercially reasonable efforts to continue to operate the Deprecated Version of the Service and to respond to problems with the Deprecated Version of the Service deemed by Google in its discretion to be critical. During the Deprecation Period, no new features will be added to the Deprecated Version of the Service.
+
+Google reserves the right in its discretion to cease providing all or any part of a Deprecated Version of the Service immediately without any notice if:
+
+a. Google reasonably believes you have breached any provision of the Terms; or
+
+b. Google is required to do so by law (for example, due to a change to the law governing the provision of the Deprecated Version of the Service); or
+
+c. the Deprecated Version of the Service relies on data or service provided by a third party partner and the relationship with such partner (i) has expired or been terminated or (ii) requires Google to change the way Google provides the data or services through the Deprecated Version of the Service; or
+
+d. providing the Deprecated Version of the Service could create a substantial economic burden on Google as determined by Google in its reasonable good faith judgment; or
+
+e. providing the Deprecated Version of the Service could create a security risk or material technical burden upon Google as determined by Google in its reasonable good faith judgment.
+
+At any time prior to discontinuing the current version of the Service or upgrading to a new version of the Service, Google may, in its reasonable discretion as part of this continuing innovation, label certain features or functionality of the Service as "experimental". This Section 1.3 of this Terms of Use will not apply to any features or functionality labeled as "experimental".
+
+1.4 Appropriate Conduct and Prohibited Uses. The implementation of the Service on your Property must be generally accessible to users without charge and must not require a fee-based subscription or other fee-based restricted access. Your use of the Service must be in accordance with the documentation. You agree that You will not, and You will not permit your users or other third parties to: (a) modify or replace the text, images, or other content of the Google Search Results, including by (i) changing the order in which the Google Search Results appear, (ii) intermixing Search Results from sources other than Google, or (iii) intermixing other content such that it appears to be part of the Google Search Results; or (b) modify, replace, obscure, or otherwise hinder the functioning of links to Google or third party websites provided in the Google Search Results. For the avoidance of doubt, Google Search Result titles for local search results must link to the applicable URL provided in the Google Search Result, unless the title is intended to be selected only for purposes of navigation by an end user accessing your Property from a device with appropriately space-constraining user interface options. In these cases, the title linking to the Google-provided URL must be displayed as the top and primary link on the subsequent landing page or user interface component.
+
+You agree that You are responsible for your own conduct and content while using the Service and for any consequences thereof. You agree to use the Service only for purposes that are legal, proper and in accordance with these Terms of Use and any applicable policies or guidelines. By way of example, and not as a limitation, You agree that when using the Service, You will not, and will not permit users or other third parties to:
+
+    incorporate Google Search Results as the primary content on your Property or any page on your Property;
+    hide or mask from Google the identity of your service as it uses the API, including by failing to follow the identification conventions listed in the API documentation;
+    defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+    upload, post, email or transmit or otherwise make available any inappropriate, defamatory, infringing, obscene, or unlawful content;
+    upload, post, email or transmit or otherwise make available any content that infringes any patent, trademark, copyright, trade secret or other proprietary right of any party, unless You (or the user posting the content) are the owner of the rights or have the permission of the owner to post such content;
+    upload, post, email or transmit or otherwise make available messages that promote pyramid schemes, chain letters or disruptive commercial messages or advertisements, or anything else prohibited by applicable law, these Terms of Use, or any applicable policies or guidelines.
+    distribute any file posted by another that You know, or reasonably should know, cannot be legally distributed in such manner;
+    impersonate another person or entity, or falsify or delete any author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material;
+    restrict or inhibit any other user from using and enjoying Google services;
+    use Google services for any illegal or unauthorized purpose;
+    remove any copyright, trademark or other proprietary rights notices contained in or on Google services;
+    interfere with or disrupt Google services or servers or networks connected to Google services, or disobey any requirements, procedures, policies or regulations of networks connected to Google services;
+    use any robot, spider, site search/retrieval application, or other device to retrieve or index any portion of Google Search Results or to collect information about users for any unauthorized purpose;
+    submit content that falsely expresses or implies that such content is sponsored or endorsed by Google;
+    create user accounts by automated means or under false or fraudulent pretenses;
+    promote or provide instructional information about illegal activities or promote physical harm or injury against any group or individual;
+    copy, store, archive, republish, or create a database of Google Search Results, in whole or in part, directly or indirectly, except that You may display Google Search Results that have been "clipped" through an end user-requested action, provided that You comply with the attribution requirements described in Section 2.3 below;
+    display any Google Search Results to any third parties other than end users or otherwise transfer, sell, lease, syndicate, lend, or use for co-branding, timesharing, service bureau, or other unauthorized purposes the Service or access thereto;
+    display Google Search Results for local search geospatially except by using the Google Maps service; or
+    transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature.
+
+If You are located outside of the United State, You further agree to comply with Your own local rules regarding online conduct and acceptable content, including laws regulating the export of data to or from the United States or your country of residence.
+
+You agree that, when accessing the Service via calls to google.cn, if the Service sets the signal "omittedResults" as "true", you will display the following text in close proximity and adjacent to the related Google Search Results:
+
+In accordance with local laws, regulations, and policies, a portion of search results have not been displayed.
+
+1.5 Advertising. Google reserves the right to include advertising in the Google Search Results provided to You through the Service.
+2. Proprietary Rights
+
+2.1 Google Rights. For purposes of the Terms of Use, "Intellectual Property Rights" shall mean any and all rights existing from time to time under patent law, copyright law, semiconductor chip protection law, moral rights law, trade secret law, trademark law, unfair competition law, publicity rights law, privacy rights law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. As between You and Google, You acknowledge that Google owns all right, title and interest, including without limitation all Intellectual Property Rights, in and to the Service and that You shall not acquire any right, title, or interest in or to the Service, except as expressly set forth in the Terms of Use. You further acknowledge that third parties may own right, title and interest, including without limitation all Intellectual Property Rights, in and to content indexed by Google and linked to or excerpted in the Google Search Results, and that You shall not acquire any right, title, or interest in or to such content except as provided by applicable law.
+
+2.2 Brand Feature License. For purposes of the Terms of Use, "Brand Features" shall be defined as the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of each party, respectively, as secured by such party from time to time. Google hereby grants to You a nontransferable, nonsublicenseable, nonexclusive license during the Term to display Google's Brand Features for the purpose of promoting or advertising that You use the Service, provided that your use is in accordance with this Section 2.2 and for the purpose of fulfilling your obligations under Section 2.3 below. You hereby grant to Google a nontransferable, nonexclusive license during the Term to use your Brand Features to advertise that You are using the Service.
+
+In using Google Brand Features, You may not:
+
+    display a Google Brand Feature in any manner that implies a relationship or affiliation with, sponsorship, or endorsement by Google (other than your involvement in the Service) or that can be reasonably interpreted to suggest editorial content has been authored by, or represents the views or opinions of Google or Google personnel;
+    use Google Brand Features to disparage Google, its products or services;
+    display a Google Brand Feature on your Property if it contains or displays adult content or promotes illegal activities, gambling, or the sale of tobacco or alcohol to persons under twenty-one (21) years of age;
+    have the Google logo as the largest logo on your Property (except as displayed in the Google Search Results itself);
+    display a Google Brand Feature as the most prominent element on any page of your Property;
+    display a Google Brand Feature in a manner that is misleading, defamatory, infringing, libelous, disparaging, obscene or otherwise objectionable to Google;
+    display a Google Brand Feature on a Property that violates any applicable law or regulation; or
+    remove, distort or alter any element of a Google Brand Feature (this includes squeezing, stretching, inverting, discoloring, etc.).
+
+You understand and agree that Google has the sole discretion to determine whether your use of Google brand features is in accordance with the above restrictions.
+
+Except as set forth in this Section 2.2, nothing in the Terms of Use shall grant or shall be deemed to grant to one party any right, title or interest in or to the other party's Brand Features. All use by You of Google's Brand Features (including any goodwill associated therewith) shall inure to the benefit of Google. At no time during or after the Term shall You challenge or assist others to challenge the Brand Features of Google (except to the extent such restriction is prohibited by law) or the registration thereof by Google, nor shall You attempt to register any Brand Features (including domain names) that are confusingly similar in any way (including but not limited to, sound, appearance and spelling) to those of Google.
+
+2.3 Attribution. The Google Search Results provided to You through the Service may contain the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of Google, its partners, or other third party rights holders of content indexed by Google. You may not delete or in any manner alter these trade names, trademarks, service marks, logos, domain names, and other distinctive brand features.
+
+You agree to include and display the "powered by Google" attribution, and/or any other attribution(s) required by Google as described in the documentation, conspicuously on the page, in close proximity and adjacent to the Service search box and Google Search Results. If You use the standard search control, or the standard search control form, this attribution will be included automatically, and You agree not to modify or obscure this automatically-generated attribution.
+
+If You display Google Search Results that have been "clipped" through an end user-requested action (the "Clipped Google Results"), You agree to include and display an attribution "Clipped from Google – [date]" next to the Clipped Google Results to indicate the date the Clipped Google Results were first requested by end user(s) and returned by Google.
+
+You understand and agree that Google has the sole discretion to determine whether your attribution(s) is in compliance with the above requirements.
+
+2.4 Content Removal. It is Google's policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act. For directions and more information, please see http://www.google.com/dmca.html. As the host of content, including Google Search Results, posted to your Property by users, You agree to comply with the Digital Millennium Copyright Act or other appropriate process for the removal of content deemed to infringe the rights of third parties, and to remove any Google Search Results upon request from Google. You agree that your Property will provide contact information that rights-holders can use to contact You and request removals.
+3. Privacy Policy
+
+For information about Google’s data protection practices, please read Google’s privacy policy at http://www.google.com/intl/en/privacy/privacy-policy.html. This policy explains how Google treats your personal information, and protects your privacy when You use the Service. You agree to the use of your data in accordance with Google’s privacy policy.
+4. Indemnity
+
+You agree to hold harmless and indemnify Google, and its subsidiaries, affiliates, officers, agents, and employees, advertisers or partners, from and against any third party claim arising from or in any way related to your use of the Service, violation of these Terms of Use or any other actions connected with use of Google services, including any liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature. In such a case, Google will provide You with written notice of such claim, suit or action.
+5. DISCLAIMER OF WARRANTIES
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+
+a. YOUR USE OF THE SERVICE IS AT YOUR SOLE RISK. THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. GOOGLE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+b. GOOGLE MAKES NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS, AND (v) ANY ERRORS IN THE SOFTWARE WILL BE CORRECTED.
+
+c. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE SERVICE IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
+
+d. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM GOOGLE OR THROUGH OR FROM GOOGLE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS OF USE.
+6. LIMITATION OF LIABILITY
+
+YOU UNDERSTAND AND AGREE THAT GOOGLE SHALL NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF GOOGLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THE SERVICE; (ii) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO THROUGH OR FROM THE SERVICE; (iii) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (iv) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE; OR (v) ANY OTHER MATTER RELATING TO THE SERVICE.
+7. EXCLUSIONS AND LIMITATIONS
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 5 AND 6 MAY NOT APPLY TO YOU.
+8. Term and Termination
+
+8.1 Term. The term of the Terms of Use shall commence on the date upon which You agree to the Terms of Use and shall continue in force thereafter, unless terminated as provided herein.
+
+8.2 Termination.
+
+a. You may terminate these Terms of Use at any time by discontinuing your use of the Service at any time. You do not need to specifically inform Google when You stop using the Service. If You desire to terminate the Terms of Use, You must remove the Service from your Property.
+
+b. Google may, at any time, terminate your access to the Service at its discretion without prior notice to You if:
+
+(i) Google reasonably believes you have breached any provision of the Terms; or
+
+(ii) Google is required to do so by law (for example, due to change to the law governing the provision of the Service); or
+
+(iii) Providing the Service could create a substantial economic burden as determined by Google in its reasonable good faith judgment; or
+
+(iv) Providing the Service could create a security risk or material technical burden as determined by Google in its reasonable good faith judgment; or
+
+(v) You engage in any action that reflects poorly on Google or otherwise disparages or devalues Google’s reputation or goodwill.
+
+8.3 Effect of Termination. Upon the termination of the Terms of Use for any reason (a) all license rights granted herein shall terminate and (b) You shall immediately delete any and all Google Search Results and Google Brand Features.
+
+8.4 Survival. In the event of any termination or expiration of the Terms of Use for any reason, Sections 2.1, 4, 5, 6, 7, 8.3, 8.4, 8.5, and 9 shall survive termination. Neither party shall be liable to the other party for damages of any sort resulting solely from terminating the Terms of Use in accordance with its terms.
+
+8.5 Remedies. You acknowledge that your breach of service/license restrictions contained herein may cause irreparable harm to Google, the extent of which would be difficult to ascertain. Accordingly, You agree that, in addition to any other remedies to which Google may be legally entitled, Google shall have the right to seek immediate injunctive relief in the event of a breach of such sections by You or any of your officers, employees, consultants or other agents.
+
+8.6 Third Party Beneficiaries. Nothing in the Terms of Use should be construed to confer any rights to third party beneficiaries.
+9. GENERAL INFORMATION
+
+9.1 Entire Agreement. The Terms of Use and the documents referenced herein constitute the entire agreement between You and Google and govern your use of the Service, superseding any prior agreements between You and Google. You also may be subject to additional terms and conditions that may apply when You use or purchase certain other Google services, affiliate services, third-party content or third-party software.
+
+9.2 Choice of Law and Forum. The Terms of Use and the relationship between You and Google shall be governed by the laws of the State of California without regard to its conflict of law provisions. You and Google agree to submit to the personal and exclusive jurisdiction of the courts located within the county of Santa Clara, California.
+
+9.3 Waiver and Severability of Terms. The failure of Google to exercise or enforce any right or provision of the Terms of Use shall not constitute a waiver of such right or provision. If any provision of the Terms of Use is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Use remain in full force and effect.
+
+9.4 Limitations Period. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of Google services or the Terms of Use must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+
+9.5 Headings. The section headings in the Terms of Use are for convenience only and have no legal or contractual effect.
+
+November 1, 2010
+
