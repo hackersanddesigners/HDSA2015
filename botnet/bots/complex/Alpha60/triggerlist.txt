@@ -1,0 +1,34 @@
+(dp0
+S'textyexample'
+p1
+S''
+p2
+sS'constant_nexample'
+p3
+S'Remote host closed the connection'
+p4
+sS'anonymousexample'
+p5
+S'dear bot'
+p6
+sS'alger_botexample'
+p7
+S'writer why'
+p8
+sS'alger_bot'
+p9
+S'writer'
+p10
+sS'constant_n'
+p11
+S'Remote'
+p12
+sS'anonymous'
+p13
+S'dear'
+p14
+sS'texty'
+p15
+S' '
+p16
+s.

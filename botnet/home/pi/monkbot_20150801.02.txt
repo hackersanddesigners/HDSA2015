@@ -1,0 +1,476 @@
+(08:18:00) spam: ok!
+(08:18:04) automatist: ok
+(08:32:00) spam: introduction of Constant
+(08:32:14) spam: organisation for art and media in Brussels since 1998
+(08:32:27) spam: using exclusively F/LOSS software and licenses
+(08:32:51) spam: influence on art processes
+(08:33:12) spam: GNU-licenses and permissive licenses coexist
+(08:35:06) spam: inspired by mouvement of cyberfeminism
+(09:18:46) spam: presenting Public Domain Day
+(09:19:16) spam: http://www.publicdomainday.org/
+(09:19:26) spam: http://www.constantvzw.org/site/Public-Domain-Day-2015.html
+(09:20:00) spam: The Death of the Authors
+(09:20:01) spam: http://publicdomainday.constantvzw.org/
+(09:21:13) spam: http://gallery3.constantvzw.org/index.php/Constant-V-Botopera
+(09:21:23) spam: run through the botopera installation
+(09:24:48) spam: why botopera?
+(09:25:13) spam: interesting format to think about performance: image/sound/bot actors/ libretto/paticchio
+(09:26:41) spam: paticcio can have 2 different meanings in Italian
+(09:26:50) spam: 1. mixture between meat and pasta
+(09:27:02) spam: 2. I made a pasticcio: I made a mesh
+(09:28:28) spam: BREAK of 10 minutes
+(09:57:02) iconoclast: sup
+(09:57:09) maaike: o hai
+(09:58:02) lucianblankevoo: ihaeorf
+(09:58:10) helbu: Hi
+(09:58:22) eurico: Hello!
+(09:58:27) iconoclast: sup
+(09:58:44) lucianblankevoo: any bots in here?
+(09:58:47) lucianblankevoo: 1922
+(09:59:45) helbu: Go @jona
+(10:00:20) flaminiafortuna: let's dance 
+(10:00:33) flaminiafortuna: :) 
+(10:00:38) basillinder: outside?
+(10:00:54) flaminiafortuna: not very arty and original 
+(10:02:11) van: Hello
+(10:02:49) vincent: hello 
+(10:03:02) flami: who is an onion?
+(10:03:21) jbg: Woah I came here via telnet.
+(10:03:30) flami: yes 1999 or maybe even 2065 more updated ;) 
+(10:04:38) van: 🍻
+(10:05:02) vincent: 8) 
+(10:06:21) king: test
+(10:06:59) king: tonight everybody has to go to the kwaku festival
+(10:07:12) spam: Welcome all!
+(10:07:32) spam: the monkbot is recording our conversation here in a textfile :-)
+(10:08:11) van: Test
+(10:08:18) king: i like test
+(10:09:11) van: 👍
+(10:09:12) spam: any questions so long?
+(10:09:19) vin: not yet
+(10:09:30) king: no
+(10:10:02) king: make attention the lector is asking something
+(10:10:40) nani: ho
+(10:11:07) USBcharger: Ho
+(10:11:12) maaike: “You’re in a large room. To your right, there’s a Kitchen. Behind you there’s a Door.” #oldskool
+(10:12:12) jbg: Hilarious
+(10:12:21) nani: ys i know but door is closed 
+(10:12:43) maaike: :-)
+(10:13:38) lucianblankevoo: s
+(10:13:47) nani: dog is really poor ,would u like to walk out with him lol
+(10:15:40) automatist: spam is An Mertens
+(10:15:51) bieke: writing fiction
+(10:15:52) jona: (an artist since 2007)
+(10:15:53) onions_83: spam is artist and ficiton writer… 
+(10:16:09) eurico: what does it mean to be a writter in a digital age?
+(10:16:11) automatist: a writing tool in a network
+(10:16:20) flami: what does it mean to work with a computer every single day? 
+(10:16:20) automatist: jonah
+(10:16:21) USBcharger: Jona
+(10:16:21) iconoclast: research based
+(10:16:24) eurico: Jona is a developer
+(10:16:28) onions_83: spam researches into being constantly connected as a writer
+(10:16:29) jbg: I wonder what will happen in the post digital age....O_o
+(10:16:30) iconoclast: jona is a pretty cool guy
+(10:16:32) USBcharger: NERD
+(10:16:33) automatist: mirc first experience
+(10:16:33) king: she is smiling
+(10:16:37) automatist: programmers chatrooms
+(10:16:40) onions_83: jona hung out on programmer chatrooms
+(10:16:48) spam: he knows IRC well
+(10:16:51) maartjesmits: nostalgia
+(10:16:51) USBcharger: Startup Amsterdam
+(10:16:53) king: im a programmer
+(10:17:02) onions_83: jona wants to know more about designing
+(10:17:07) king: no, he is a programmer
+(10:17:08) eurico: MSN message killed mIRC
+(10:17:09) automatist: works for a startup and would like to know more about designing stuff
+(10:17:10) jbg: BUT WHY?!?!?! ;-)
+(10:17:11) jona: ndrsn.org
+(10:17:18) king: he can put it here
+(10:17:31) automatist: PERL programmer now python / nodejs
+(10:17:31) onions_83: jona is valuable!!
+(10:17:36) onions_83: python 
+(10:17:42) USBcharger: haha
+(10:17:43) automatist: Flamenia
+(10:17:44) automatist: ?
+(10:17:51) bieke: flamina
+(10:17:54) bieke: ?
+(10:17:57) helbu: Flami
+(10:17:57) lucianblankevoo: studies conservation
+(10:18:00) automatist: stdying conservation of media art in switzerland
+(10:18:08) onions_83: swiss people met in holland
+(10:18:09) spam: in Bern
+(10:18:11) king: with king
+(10:18:16) bieke: member:king
+(10:18:24) automatist: digital and art prouduction, the editing process of artists
+(10:18:29) USBcharger: lots of questions
+(10:18:31) automatist: would like to conduct interviews here
+(10:18:32) jbg: I look forward to the interviews.
+(10:18:33) onions_83: flaminia is interesed in conservating digital art… 
+(10:18:39) automatist: and enjoying Amsterdam
+(10:18:40) automatist: ;)
+(10:18:43) iconoclast: keeps bugging us about going out tonight
+(10:18:44) USBcharger: Bern flyers
+(10:18:49) maartjesmits: so they worked!
+(10:18:52) USBcharger: Burn flyers
+(10:18:59) king: in bern there were some flyers and...
+(10:19:04) eurico: king - your turn
+(10:19:15) king: flame?
+(10:19:31) onions_83: little flame is at hochschule der künste bern… and so forth
+(10:19:36) automatist: Bern University Hogshule Applied S...
+(10:19:53) bieke: basil
+(10:19:54) USBcharger: Basil is King
+(10:19:57) bieke: i was first:P
+(10:20:01) eurico: studying graphic design
+(10:20:02) onions_83: basil came hitch-hiking from bern
+(10:20:05) flami: HKB- MA Conservation of Modern Materials and Media 
+(10:20:23) bieke: he wants toi have some impression about programming 
+(10:20:28) automatist: what can programming mean for graphic designer
+(10:20:32) onions_83: basil want  to know what programming can mean for a graphic designer… 
+(10:20:35) jbg: I
+(10:20:35) automatist: overview of what exists / doesn't
+(10:20:47) iconoclast: cool guy, but forgot his laptop yesterday
+(10:20:48) automatist: no programming experience (et)
+(10:20:50) automatist: yet
+(10:21:00) spam: interested in F/LOSS programs like Gimp, Inkscape, Scribus
+(10:21:04) bieke: trained graphic designer
+(10:21:08) spam: Erico?
+(10:21:09) onions_83: eurico is graphic designer 
+(10:21:10) bieke: programming websites
+(10:21:10) jbg: I
+(10:21:18) bieke: basic stuff???
+(10:21:19) king: programming websites, just basic stuff
+(10:21:32) onions_83: dirty artist
+(10:21:34) maartjesmits: art = dirty
+(10:21:35) jbg: I broke myself.
+(10:21:46) flami: he is shifting his pathway  
+(10:21:54) helbu: Dirty Art Department is the best course in Sandberg Institute
+(10:22:04) jbg: What kind of websites. . .oh, wordpress. . .got it.
+(10:22:08) automatist: wordpress hacking php, jquery
+(10:22:12) king: nice
+(10:22:17) bieke: anja 
+(10:22:19) automatist: Anja!
+(10:22:30) automatist: 2 years ago started H&D
+(10:22:43) spam: at Sandberg
+(10:22:44) jbg: Is Weezer also an organizer?
+(10:22:48) spam: studio in the building
+(10:22:50) king: talking very fast
+(10:22:50) iconoclast: yes
+(10:22:50) automatist: some experience with website / wordpress programing
+(10:22:53) helbu: a disorganizer
+(10:22:55) flami: she is a very good organizer 
+(10:23:02) maartjesmits: but even better designer
+(10:23:05) USBcharger: JBG said your great at programming, but he's a bad teacher
+(10:23:07) spam: H&D started as evening program
+(10:23:10) automatist: hosting meetups lightning workshops with ppl with new concepts pitch to an audience
+(10:23:10) king: and the best host of amsterdam
+(10:23:22) automatist: for everyone regardless of skills
+(10:23:40) jbg: Dig dig dig!!
+(10:23:46) spam: Summerschool as way to explore technology
+(10:23:50) automatist: not enough space to dig into the technology
+(10:23:55) automatist: maaike
+(10:24:01) automatist: graphic designer from den haag
+(10:24:04) jbg: Format as in structure. . .not floppy disks.
+(10:24:05) USBcharger: 's Gravenhage
+(10:24:12) automatist: front end programming + Arduino
+(10:24:14) spam: webdesign
+(10:24:25) automatist: desire to explore artistic side of design & tech
+(10:24:30) automatist: Catherine
+(10:24:30) king: more art please
+(10:24:32) flami: she is an explorer of artistic sites
+(10:24:34) onions_83: Catherine is French living in Brussels
+(10:24:43) maartjesmits: she left france for constant
+(10:24:48) spam: writes fiction
+(10:24:55) onions_83: archivist and writer. 
+(10:25:02) eurico: what's Catherine's nickname?
+(10:25:05) spam: interest in archives, offline networks
+(10:25:08) spam: no idea....
+(10:25:12) automatist: interest in programming / usage of fiction
+(10:25:13) jbg: EXEC READ archives.archive
+(10:25:18) maaike: she’s not yet in the chat room
+(10:25:24) automatist: interested in espeak
+(10:25:26) maaike: computer troubles
+(10:25:27) onions_83: interested programming language and using it for fictional purposes
+(10:25:37) automatist: not yet connected
+(10:25:40) eurico: offline bot
+(10:25:46) spam: Michael
+(10:25:50) king: michael
+(10:25:53) onions_83: michael is computer scientist
+(10:25:54) eurico: computer science and programmer
+(10:25:55) bieke: programmer
+(10:26:00) bieke: lived in amsterdam
+(10:26:02) eurico: lived in amsterdam 97-05
+(10:26:07) bieke: teaches in rotterdam
+(10:26:10) spam: PZI
+(10:26:15) spam: Piet Zwart Institue
+(10:26:17) bieke: at wdk
+(10:26:18) onions_83: piets zwart whoop
+(10:26:18) flami: in a Media Design Program 
+(10:26:30) automatist: Vincent
+(10:26:31) king: in brussel since 6 years
+(10:26:32) USBcharger: Vince the Prince
+(10:26:33) onions_83: vincent is at hku 
+(10:26:37) automatist: Studying Graphic design in Utrecht
+(10:26:40) helbu: Vincent has a nice car
+(10:26:44) jbg: repairs stuff...
+(10:26:45) maartjesmits: repairs your heart
+(10:26:45) onions_83: repairs iphones … rich?
+(10:26:45) eurico: van?
+(10:26:47) automatist: repairs iphons, ibooks, gadgets
+(10:26:54) maaike: doesn’t do lunch
+(10:26:57) USBcharger: will it blend
+(10:27:02) onions_83: blending tech and design
+(10:27:02) automatist: blend design and technology
+(10:27:11) bieke: shit
+(10:27:13) maartjesmits: we are all looking at you!
+(10:27:15) onions_83: anjagroten.com
+(10:27:22) automatist: no real website (vincent)
+(10:27:23) onions_83: adangertootherdancers.tumblr.com
+(10:27:31) jbg: no website...
+(10:27:32) automatist: many starts
+(10:27:36) onions_83: summer.hackersanddesigners.nl
+(10:27:42) onions_83: hackersanddesigners.nl
+(10:27:43) king: he ist to complecated
+(10:27:44) eurico: #designersproblems
+(10:27:47) lucian: sirlucian.co.za
+(10:27:53) jbg: Websites are over rated anyway.
+(10:28:00) maaike: maaikedelaat.nl (not much happening)
+(10:28:01) automatist: still student
+(10:28:06) king: just a joke
+(10:28:08) spam: Scott
+(10:28:10) onions_83: scott is amsterdammer
+(10:28:20) maaike: aaah is Scott USBcharger?!
+(10:28:20) spam: freelancer, technical designer
+(10:28:20) iconoclast: has a pretty advanced beard
+(10:28:21) maartjesmits: has nice glasses
+(10:28:21) automatist: programming , more electronics
+(10:28:23) onions_83: and is into electronics
+(10:28:31) flami: He joins because he was in between the winds 
+(10:28:35) automatist: CMD Breda St Joost
+(10:28:38) automatist: (formerly)
+(10:28:41) onions_83: communicatIon multi media desiger in bredA
+(10:28:43) flami: Hackers&Designers 
+(10:29:01) automatist: arduino, sensors and installations
+(10:29:05) onions_83: builds interactive installation 
+(10:29:10) USBcharger: scottvanhaastrecht.nl
+(10:29:12) onions_83: processing
+(10:29:12) automatist: arduino + processing
+(10:29:28) automatist: Marc Jan
+(10:29:33) onions_83: van is mark jan
+(10:29:35) maaike: Mark Jan = van
+(10:29:39) onions_83: is a graphicer designer
+(10:29:44) king: sandberg
+(10:29:45) onions_83: hku and then sandberg
+(10:29:51) onions_83: is my studio mate
+(10:30:03) helbu: but he's never there
+(10:30:04) maartjesmits: collaboration is something he likes
+(10:30:11) onions_83: mark-jan just works together with a film maker
+(10:30:14) automatist: css + html skills
+(10:30:24) eurico: interested in the background of technologic
+(10:30:24) onions_83: ethical side of technology
+(10:30:25) automatist: interested in background, ethical political side
+(10:30:34) automatist: like hands on,
+(10:30:42) automatist: learning about the code
+(10:30:47) king: live in amsterdam
+(10:30:51) eurico: are you a datashredder?
+(10:30:52) USBcharger: Full 10 days
+(10:30:52) onions_83: joins the whole program
+(10:30:54) automatist: Micheala
+(10:31:00) USBcharger: PZ
+(10:31:03) flami: She lives in Rotterdam 
+(10:31:06) automatist: studied at PZI 
+(10:31:07) onions_83: michaela did piet zwart in rotterdam … media and communication
+(10:31:15) king: study media, crossmedia
+(10:31:20) iconoclast: I met her in Rotterdam several times but she doesn’t seem to recognize me
+(10:31:33) automatist: not a programmer herself, but working with python occasionally with help
+(10:31:43) onions_83: michaela works with python
+(10:31:49) onions_83: viual artist
+(10:32:22) automatist: likes to mix point of views with ppl from differeent backgrounds
+(10:32:34) automatist: "hackers & designers" both are intereting terms to pull apart
+(10:32:41) onions_83: what does „designer“ and „hacker“ actually mean
+(10:32:42) automatist: think about the roles we tak
+(10:32:46) automatist: e
+(10:33:12) automatist: commercial break
+(10:33:16) flami: smell of coco milk 
+(10:33:24) automatist: An mentions the Are You Being Served? (norebooks)
+(10:33:25) lucian: smells good
+(10:33:27) automatist: notebooks
+(10:33:29) automatist: oops
+(10:33:30) helbu: i'm really hungry
+(10:33:43) automatist: Experiment in design publishing from etherpad
+(10:33:45) onions_83: belle: this smells amazing
+(10:33:54) eurico:  — advertising break —
+(10:34:08) USBcharger: Doei James
+(10:34:15) onions_83: nani 
+(10:34:23) onions_83: member of the we are here academy
+(10:34:26) automatist: member of H&D?
+(10:34:30) onions_83: from jemen
+(10:34:35) van: Member of we are here academy
+(10:34:44) jbg: We are here!
+(10:34:56) eurico: part of We are here academy
+(10:35:16) jbg: ...what is we are here.
+(10:35:20) automatist: people without status in holland
+(10:35:26) lucian: we are here is a group for people who don’t have status in holland
+(10:35:39) lucian: so this provides such members opportunities here
+(10:35:52) onions_83: We are here is platform that helps people without status to stand up… have a voice and be visible in society
+(10:36:02) automatist: different topics cook books, acting, computers & technology
+(10:36:07) onions_83: they organize workshops and seminars for refugees
+(10:36:11) automatist: studying system administration
+(10:36:12) eurico: sysadmin
+(10:36:21) onions_83: for example: policical science, art courses, acting courses,...
+(10:36:22) USBcharger: Nice
+(10:36:29) van: heretosupport.nl
+(10:36:30) bieke: nabil?
+(10:36:31) lucian: nabi
+(10:36:33) onions_83: Nabi is from Jemen
+(10:36:37) maartjesmits: means smart
+(10:36:48) onions_83: Nani is Nabi
+(10:36:49) jbg: Yemen
+(10:37:01) bieke: abdul
+(10:37:08) onions_83: Abdul live in Amsterdam
+(10:37:11) automatist: developing websites
+(10:37:15) automatist: working with windows / microsft
+(10:37:16) USBcharger: Developer website and aplication
+(10:37:20) van: Abdel
+(10:37:23) automatist: asp.net websites
+(10:37:23) onions_83: Nabi and Abdul joined 3 of the workshops of the H&D Summer Academy
+(10:37:25) lucian: .net
+(10:37:26) maaike: ASP. .net
+(10:37:29) jbg: Windohs
+(10:37:31) automatist: database MySQL
+(10:37:39) onions_83: Abdul is also from Jemen right
+(10:37:43) eurico: experience with JAVA
+(10:37:45) automatist: some java experience
+(10:37:54) lucian: spelt Yemen AFAIK
+(10:37:57) jbg: Thank you for not saying "Yava"
+(10:38:00) automatist: first time in a group of design & programming
+(10:38:02) lucian: spelled
+(10:38:06) onions_83: Maartje!
+(10:38:07) lucian: ahem
+(10:38:10) bieke: maartje
+(10:38:18) bieke: studied with anja
+(10:38:20) onions_83: Sandberg.. poet and srtist
+(10:38:22) van: Sandberg!
+(10:38:25) USBcharger: not technical at all
+(10:38:29) onions_83: doesnt program 
+(10:38:40) onions_83: how to publish poetry
+(10:38:42) automatist: interest in potential of poetry off the printed page
+(10:38:47) maaike: without paper
+(10:38:47) automatist: what are the possibilities
+(10:38:48) USBcharger: Frustrated about books
+(10:38:51) lucian: doesn’t like the limitations of print media]
+(10:38:55) king: yeah, there is another one with not to much experience :)
+(10:38:57) onions_83: jbg
+(10:39:00) helbu: Maartje is also a bee kepper
+(10:39:04) helbu: keeper
+(10:39:08) automatist: James
+(10:39:08) bieke: has a nice dog
+(10:39:10) king: (in coding i mean)
+(10:39:11) king: ¨
+(10:39:11) eurico: james organizer of H&D
+(10:39:14) lucian: James is jbg
+(10:39:16) automatist: also orging H&D
+(10:39:17) maaike: American
+(10:39:17) onions_83: is a developer
+(10:39:18) flami: technical background 
+(10:39:20) onions_83: from indiana
+(10:39:25) king: owner of the lovely dog
+(10:39:25) automatist: Computer Science background
+(10:39:29) USBcharger: bragging
+(10:39:33) lucian: the best dog
+(10:39:33) eurico: works with some startups? or used to work?
+(10:39:37) automatist: many years of programming
+(10:39:44) onions_83: but what are you doing??
+(10:39:44) maaike: has an Apple watch
+(10:39:45) USBcharger: Can code whatever
+(10:39:46) automatist: a bit of everything
+(10:39:49) bieke: he can do everything 
+(10:39:49) onions_83: everything??
+(10:39:50) lucian: works
+(10:39:52) onions_83: wow
+(10:39:53) eurico: doesn't like Android?
+(10:39:53) automatist: web + mobile
+(10:39:57) helbu: the watch is out of power
+(10:39:58) maartjesmits: as far as paying rent
+(10:40:01) USBcharger: Even languages that havent been inveted
+(10:40:02) onions_83: what does agnostic mean
+(10:40:04) onions_83: ?
+(10:40:06) bieke: plays the klarinet
+(10:40:10) flami: he is language agnostic 
+(10:40:15) helbu: and the theremin
+(10:40:15) automatist: lanuage agnostic ruby javascript ... but not a lot of python
+(10:40:16) maaike: doesn’t care which language
+(10:40:17) USBcharger: Hates Python
+(10:40:18) flami: he does not believe in language? 
+(10:40:19) automatist: feels like hands tied
+(10:40:21) onions_83: no python
+(10:40:27) bieke: selby 
+(10:40:33) automatist: sel by one of H&D
+(10:40:34) maaike: Minerva!!
+(10:40:34) onions_83: selby is a h&d
+(10:40:34) king: is a goog speakt
+(10:40:38) bieke: studio upstrairs
+(10:40:40) flami: neighbour of Anja 
+(10:40:40) onions_83: neigbor of onions 
+(10:40:44) king: is a good speaker
+(10:40:48) onions_83: piek.com
+(10:40:48) automatist: shares studio with Anja & Mark Jan
+(10:40:49) USBcharger: OHH markJan is also from upstairs
+(10:40:52) automatist: piek.com
+(10:40:59) automatist: main URL
+(10:41:05) onions_83: multi-media 
+(10:41:07) king: has a lot more URL
+(10:41:16) onions_83: studied same school as maaike whoop
+(10:41:18) bieke: gradient beard
+(10:41:18) automatist: same school as Maaike
+(10:41:22) maaike: woopwoop
+(10:41:23) automatist: getting hungry
+(10:41:27) maaike: (we never met there)
+(10:41:28) onions_83: selby is hungry 
+(10:41:35) onions_83: juriaan is from wdka
+(10:41:40) king: he is my roommate
+(10:41:40) maaike: Rotterdam
+(10:41:42) onions_83: gfx!
+(10:41:44) USBcharger: website developer
+(10:41:46) automatist: currently developing website; learning
+(10:41:47) flami: he studied Graphic Design 
+(10:41:47) onions_83: is to modest
+(10:41:49) iconoclast: jurriaan = monkbot
+(10:41:57) automatist: desire for technical knowledge
+(10:42:01) automatist: a bit of a geek 
+(10:42:05) king: monkbot?
+(10:42:06) automatist: (self-proclaimed)
+(10:42:11) automatist: is loggin us
+(10:42:12) onions_83: lucian is from Zuid Afrikca
+(10:42:13) maartjesmits: near the sea
+(10:42:16) eurico: south africa
+(10:42:16) onions_83: zandvoort
+(10:42:17) van: Santpoort
+(10:42:17) USBcharger: SandPoort
+(10:42:20) onions_83: beach
+(10:42:24) USBcharger: House sitting
+(10:42:28) helbu: Zandpoort
+(10:42:29) flami: doing interesting stuff here
+(10:42:33) automatist: meet like-minded people doing things like in this course
+(10:42:40) maartjesmits: did he meet like-minded people, that is the question
+(10:42:41) king: best english of H&D
+(10:42:41) automatist: multimedia designer
+(10:42:42) onions_83: trans media designer and programmer
+(10:42:53) USBcharger: Likes working
+(10:42:56) helbu: lives in his grand mothers house
+(10:42:56) automatist: likes working with hardware
+(10:43:00) automatist: some javascript, angular, node
+(10:43:17) automatist: mostly HTML/CSS (though not considered programming)
+(10:43:27) USBcharger: FOOD
+(10:43:40) king: anja means : that was fun.
+(10:43:43) nani: hungry
+(10:43:43) king: i agree
+(10:43:47) eurico: #lunch
+(10:43:48) flami: go on after our lovely lunch break--------
+(10:43:54) helbu: and after lunch we have to make a group pic at 13.55
+(10:44:02) jbg: Sometimes I don't PONG back the server.. . and it kicks me off.  :-(
+(10:44:22) onions_83: group pic!!
+(10:44:25) USBcharger: Quit jbg
+(10:45:08) king: less words, more food
+(10:45:39) helbu: mmm food

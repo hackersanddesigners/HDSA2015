@@ -1,0 +1,17 @@
+usleep '0';
+reduce;
+usleep '0';
+reduce;
+usleep '192000';
+reduce;
+usleep '203000';
+reduce;
+usleep '479000';
+reduce;
+usleep '0';
+reduce;
+usleep '566000';
+magnify;
+usleep '0';
+reduce;
+quit;

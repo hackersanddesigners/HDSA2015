@@ -1,0 +1,21 @@
+(08:18:00) spam: ok!
+(08:18:04) automatist: ok
+(08:32:00) spam: introduction of Constant
+(08:32:14) spam: organisation for art and media in Brussels since 1998
+(08:32:27) spam: using exclusively F/LOSS software and licenses
+(08:32:51) spam: influence on art processes
+(08:33:12) spam: GNU-licenses and permissive licenses coexist
+(08:35:06) spam: inspired by mouvement of cyberfeminism
+(09:18:46) spam: presenting Public Domain Day
+(09:19:16) spam: http://www.publicdomainday.org/
+(09:19:26) spam: http://www.constantvzw.org/site/Public-Domain-Day-2015.html
+(09:20:00) spam: The Death of the Authors
+(09:20:01) spam: http://publicdomainday.constantvzw.org/
+(09:21:13) spam: http://gallery3.constantvzw.org/index.php/Constant-V-Botopera
+(09:21:23) spam: run through the botopera installation
+(09:24:48) spam: why botopera?
+(09:25:13) spam: interesting format to think about performance: image/sound/bot actors/ libretto/paticchio
+(09:26:41) spam: paticcio can have 2 different meanings in Italian
+(09:26:50) spam: 1. mixture between meat and pasta
+(09:27:02) spam: 2. I made a pasticcio: I made a mesh
+(09:28:28) spam: BREAK of 10 minutes

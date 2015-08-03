@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<h1 id="configuring-the-raspberry-pi">Configuring the Raspberry PI</h1>
+<ul>
+<li>Expand / reboot (raspi-config)</li>
+<li><p>Login: pi/raspberry</p></li>
+<li>sudo raspi-config to set keyboard layout to English (US). (default is UK)</li>
+<li><p>sudo raspi-config : Advanced to force audio to the headphone jack.</p></li>
+</ul>
+<p>Used the image of 05_05_2015 (need to copy it) OpenSSH seems to be running by default</p>
+<p>avahi-daemon seems already to be installed (Using <a href="http://www.howtogeek.com/167190/how-and-why-to-assign-the-.local-domain-to-your-raspberry-pi/">.local address</a> on the Pi.)</p>
+<h2 id="network">Network</h2>
+<p>Configured a static IP address following the <a href="https://wiki.debian.org/NetworkConfiguration#Configuring_the_interface_manually">Debian manual</a>.</p>
+<h2 id="sudo-nano-etcnetworkinterfaces">sudo nano /etc/network/interfaces</h2>
+<h1 id="iface-eth0-inet-manual">iface eth0 inet manual</h1>
+<p>iface eth0 inet static address 192.168.1.2 netmask 255.255.255.0 gateway 192.168.1.1</p>
+<ul>
+<li><p>Connected to net via cable + did an apt-get update / upgrade.</p>
+<p>sudo nano /etc/hostname</p></li>
+</ul>
+<p>and changed to &quot;botnet&quot;</p>
+<p>From now on (restart) you should be able to reach the server at botnet.local, for instance:</p>
+<pre><code>ssh pi@botnet.local</code></pre>
+<h2 id="installing-stuff">Installing stuff</h2>
+<ul>
+<li>figlet</li>
+<li>links</li>
+<li>emacs23-nox</li>
+<li>espeak</li>
+<li>festival</li>
+<li>apache2</li>
+<li>ircd-hybrid</li>
+</ul>
+<h2 id="personalizing-the-server">Personalizing the server</h2>
+<ul>
+<li>/etc/motd</li>
+<li>/var/www/index.html</li>
+<li>/etc/ircd-hybrid/ircd.conf</li>
+</ul>
+<p>Raised setting: number_per_ip from 2 (default) to 50</p>
+<pre><code>class {
+        /* name: the name of the class.  classes are text now */
+        name = &quot;users&quot;;
+        /* ping time: how often a client must reply to a PING from the
+         * server before they are dropped.
+         */
+        ping_time = 2 minutes;
+        /* number per ip: the number of users per host allowed to connect */
+        number_per_ip = 50;
+    /* max number: the maximum number of users allowed in this class */
+    max_number = 100;
+    /* sendq: the amount of data allowed in a clients queue before
+         * they are dropped.</code></pre>
+<p>He */ sendq = 100 kbytes; };</p>
+<p>AND (it seems important) I added the IP address:</p>
+<pre><code>/* listen {}: contain information about the ports ircd listens on (OLD P:) */
+listen {
+        /* port: the specific port to listen on.  if no host is specified
+         * before, it will listen on all available IPs.
+         *
+         * ports are seperated via a comma, a range may be specified using &quot;..&quot;
+     */
+
+        /* port: listen on all available IPs, ports 6665 to 6669 */
+    host = &quot;0.0.0.0&quot;;   # change this!                                                                                              
+        port = 6665 .. 6669;
+};
+
+
+
+sudo /etc/init.d/ircd-hyrbrid restart</code></pre>
+<p>After this I could connect with pidgin to botnet.local.</p>
+<h2 id="more-software">More software</h2>
+<ul>
+<li>apt-get install ipython python-pip screen mplayer</li>
+<li>sudo pip install irc</li>
+</ul>
+<h2 id="attaching-an-external-usb-stick-for-storage">Attaching an external USB stick for storage</h2>
+<p>(Also nice if SD card craps out)</p>
+<p>Formatted it ext4 (on laptop).</p>
+<p>Created a mount point:</p>
+<pre><code>sudo mkdir /media/GREEN</code></pre>
+<p>And edited the fstab, adding a line:</p>
+<h3 id="etcfstab">/etc/fstab</h3>
+<p>proc /proc proc defaults 0 0 /dev/mmcblk0p1 /boot vfat defaults 0 2 /dev/mmcblk0p2 / ext4 defaults,noatime 0 1 /dev/sda1 /media/GREEN ext4 defaults,noatime 0 0</p>
+<p>Then edited the apache default &quot;site&quot; definition, to change location <em>and</em> to add a custom header + footer (readme) to the directory listings:</p>
+<h3 id="etcapache2sites-availabledefault">/etc/apache2/sites-available/default</h3>
+<pre><code>&lt;VirtualHost *:80&gt;
+    ServerAdmin webmaster@localhost
+
+    ## CHANGED
+    DocumentRoot   /media/GREEN/www
+
+    &lt;Directory /&gt;
+        Options FollowSymLinks
+        AllowOverride None
+    &lt;/Directory&gt;
+
+    ## CHANGED
+    &lt;Directory /media/GREEN/www/&gt;
+        Options Indexes FollowSymLinks MultiViews
+        AllowOverride None
+        Order allow,deny
+        allow from all
+    &lt;/Directory&gt;
+
+    ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
+    &lt;Directory &quot;/usr/lib/cgi-bin&quot;&gt;
+        AllowOverride None
+        Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+        Order allow,deny
+        Allow from all
+    &lt;/Directory&gt;
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+
+    # Possible values include: debug, info, notice, warn, error, crit,
+    # alert, emerg.
+    LogLevel warn
+
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+    # CHANGED: CUSTOM listing HEADER + FOOTER
+    HeaderName /include/HEADER.html
+    ReadmeName /include/README.html
+
+&lt;/VirtualHost&gt;</code></pre>
+<h2 id="auto-login-shell">Auto login (shell)</h2>
+<p>The raspi-config gives options to automatically start up the graphical shell, but you can also login via the console without starting X.</p>
+<p>Following <a href="http://raspisimon.no-ip.org/rpi_autologin.php">this tutorial</a>:</p>
+<pre><code>sudo nano /etc/inittab</code></pre>
+<p>change</p>
+<pre><code>1:2345:respawn:/sbin/getty 115200 tty1</code></pre>
+<p>to</p>
+<pre><code>#1:2345:respawn:/sbin/getty 115200 tty1
+1:2345:respawn:/bin/login -f pi tty1 &lt;/dev/tty1 &gt;/dev/tty1 2&gt;&amp;1</code></pre>
+<h2 id="image-viewer">Image Viewer</h2>
+<p>fbi &amp; fim!</p>
+<h2 id="media">Media</h2>
+<p>omxplayer, aplay, mplayer ...</p>
+<h2 id="starting-something-and-stopping-it-with-pid">Starting something, and stopping it with pid</h2>
+<p>In most shells (including Bourne and C), the PID of the last subprocess you launched in the background will be stored in the special variable $!.</p>
+<pre><code>#!/bin/bash
+./app1 &amp;
+PID=$!
+# ...
+kill $PID</code></pre>
+<h2 id="fim">fim</h2>
+<pre><code>usleep &#39;0&#39;;
+reduce;
+usleep &#39;0&#39;;
+reduce;
+usleep &#39;192000&#39;;
+reduce;
+usleep &#39;203000&#39;;
+reduce;
+usleep &#39;479000&#39;;
+reduce;
+usleep &#39;0&#39;;
+reduce;
+usleep &#39;566000&#39;;
+magnify;
+usleep &#39;0&#39;;
+reduce;
+quit;
+
+
+cat fimscript | fim -p robby.jpg</code></pre>
+<p>or</p>
+<pre><code>fim -p robby.jpg &lt; fimscript</code></pre>
+<h2 id="overscan">overscan</h2>
+<p>/boot/config.txt</p>
+<h2 id="bigger-font">Bigger Font</h2>
+<p><a href="http://www.raspberrypi-spy.co.uk/2014/04/how-to-change-the-command-line-font-size/">Tutorial</a></p>
+<p>To see a list of available fonts: ls /usr/share/consolefonts/</p>
+<pre><code>setfont /usr/share/consolefonts/Lat15-TerminusBold32x16.psf.gz</code></pre>
+<p>sudo nano /etc/default/console-setup and filled in:</p>
+<p>FONTFACE=&quot;Terminus&quot; FONTSIZE=&quot;16x32&quot;</p>
+</body>
+</html>
