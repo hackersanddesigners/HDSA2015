@@ -1,4 +1,4 @@
-#N canvas 46 176 1146 483 12;
+#N canvas 66 190 1146 483 12;
 #X obj 182 99 hip~ 5;
 #X obj 283 99 * 441;
 #X obj 326 124 s chunk-size;
@@ -186,7 +186,7 @@
 #X obj -95 -139 loadbang;
 #X msg -39 -24 \$1 20;
 #X msg 454 -96 read -resize speach.wav table02;
-#X obj -39 -98 usbsen2~ 20 1 /dev/cu.usbmodemfd121;
+#X obj -39 -98 usbsen2~ 20 1 /dev/cu.usbmodem1421;
 #X connect 0 0 11 0;
 #X connect 1 0 6 0;
 #X connect 3 0 8 0;

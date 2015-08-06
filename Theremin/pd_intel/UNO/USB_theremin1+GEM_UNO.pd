@@ -29,9 +29,9 @@
 #X text 188 444 volume;
 #X text 187 431 theremin;
 #X obj 168 187 nbx 6 16 -1e+37 1e+37 0 0 empty empty empty 0 -6 0 10
--262144 -1 -1 0 256;
+-262144 -1 -1 -7.00649e-44 256;
 #X obj 245 160 vsl 20 85 1.1 400 0 0 empty empty empty 0 -8 0 8 -262144
--1 -1 1030 1;
+-1 -1 630 1;
 #X text 238 266 (default=50);
 #X msg 245 136 50;
 #X text 236 250 long distance response;
@@ -74,7 +74,7 @@
 #X msg 305 52 destroy;
 #X obj 423 82 gemhead;
 #X obj 423 293 pix_texture;
-#X obj 435 112 bng 25 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
+#X obj 435 113 bng 25 250 50 0 empty empty empty 0 -6 0 8 -262144 -1
 -1;
 #X text 466 112 open a supported;
 #X text 467 123 movie-clip;
@@ -94,7 +94,7 @@
 #X obj 325 217 s gemwin_mess;
 #X obj 325 176 del 100;
 #X msg 325 197 destroy;
-#X obj 153 26 usbsen2~ 20 1 /dev/cu.usbmodemfd121;
+#X obj 153 26 usbsen2~ 20 1 /dev/cu.usbmodem1411;
 #X connect 0 0 7 0;
 #X connect 1 0 12 0;
 #X connect 2 0 27 0;

@@ -1,4 +1,4 @@
-#N canvas 383 40 539 680 10;
+#N canvas 232 23 539 680 10;
 #X floatatom 212 140 13 0 0 0 - - -;
 #X obj 212 277 - 0;
 #X msg 227 227 set \$1;
@@ -18,8 +18,8 @@
 #X obj 212 436 line 100;
 #X msg 212 412 \$1 50;
 #X obj 212 496 *~;
-#X obj 250 457 hsl 60 15 0 127 0 0 empty empty empty -2 -6 0 8 -262144
--1 -1 0 1;
+#X obj 251 455 hsl 60 15 0 127 0 0 empty empty empty -2 -6 0 8 -262144
+-1 -1 3400 1;
 #X obj 246 479 / 127;
 #X msg 257 299 10;
 #X text 53 121 TO SET ZERO POINT;
@@ -29,7 +29,7 @@
 #X text 288 486 volume;
 #X text 286 472 theremin;
 #X obj 227 252 nbx 6 16 -1e+37 1e+37 0 0 empty empty empty 0 -6 0 10
--262144 -1 -1 0 256;
+-262144 -1 -1 10033.4 256;
 #X obj 304 225 vsl 20 85 1.1 400 0 0 empty empty empty 0 -8 0 8 -262144
 -1 -1 1030 1;
 #X text 331 265 (default=50);
@@ -44,7 +44,7 @@
 1;
 #X obj 212 118 snapshot~;
 #X obj 212 369 * 5000;
-#X obj 212 91 usbsen2~ 20 1 /dev/cu.usbmodemfd121;
+#X obj 212 91 usbsen2~ 20 4 /dev/cu.usbmodem1421;
 #X connect 0 0 7 0;
 #X connect 1 0 12 0;
 #X connect 2 0 27 0;
