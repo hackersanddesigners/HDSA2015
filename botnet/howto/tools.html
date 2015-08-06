@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<h2 id="mac-osx-tools">MAC OSX Tools</h2>
+<ul>
+<li>chatclient: <a href="/software/colloquy-latest.zip">Colloquy</a> (OSX Lion + 64-bit Intel Mac): <a href="http://colloquy.info">website</a></li>
+<li>ssh &amp; ftp: <a href="/software/Cyberduck-4.7.1.zip">Cyberduck</a> <a href="https://cyberduck.io/">website</a></li>
+<li>editor: <a href="/software/Bluefish-2.2.7.dmg">Bluefish</a> <a href="http://bluefish.openoffice.nl/index.html">website</a>, or <a href="/software/Sublime%20Text%202.0.2.dmg">Sublime Text</a> <a href="http://www.sublimetext.com/">website</a></li>
+</ul>
+<h2 id="some-links">Some links</h2>
+<ul>
+<li><p><a href="http://manpages.ubuntu.com/manpages/hardy/man1/espeak.1.html">espeak manpages</a></p></li>
+<li><p><a href="plumbing.html">plumbing pipebots</a> <a href="http://pad.constantvzw.org/public_pad/2084_Rise_of_the_botnet_plumbing">2</a></p></li>
+<li><p><a href="http://daniel.haxx.se/irchistory.html">history of IRC</a></p></li>
+<li><p><a href="https://en.wikipedia.org/wiki/History_of_the_Internet">timeline of the Internet</a></p></li>
+</ul>
+<h2 id="connecting-to-local-network-botnet.local">Connecting to local network botnet.local</h2>
+<ul>
+<li><p>connect:</p>
+<p>ssh USERNAME@botnet.local</p></li>
+<li><p>disconnect exit</p></li>
+<li><p>copy ssh-key onto Pi ssh-copy-id pi@botnet.local</p></li>
+<li><p>copy folder-with-content from your own machine onto Pi (make sure you're not logged onto local server + add : ton indicate location)</p>
+<p>scp -r bots pi@botnet.local:</p></li>
+<li><p>move folder from home Pi to webserver Pi</p>
+<p>sudo mv bots/ /media/GREEN/www/</p></li>
+</ul>
+</body>
+</html>

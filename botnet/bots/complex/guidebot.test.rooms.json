@@ -1,0 +1,13 @@
+{
+    "#2085": {
+        "welcome": "Welcome to room 2085",
+        "adjacent_rooms": ["#2086"]
+    },
+
+    "#2086": {
+        "welcome": "Welcome to room 2086",
+        "adjacent_rooms": ["#2085"]
+    }
+
+
+}

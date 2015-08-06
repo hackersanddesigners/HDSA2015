@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<h2 id="launch-a-script-in-terminal">Launch a script in terminal</h2>
+<pre><code>python ircpipebot.py</code></pre>
+<h2 id="launch-script-as-a-bot-in-irc-channel">Launch script as a bot in IRC-channel</h2>
+<pre><code>python -u ircpipebot.py --server irc.frreenode.net --channel &quot;#botopera&quot; --nickname name_bot</code></pre>
+<h2 id="log-activities-of-chatbot-in-file">Log activities of chatbot in file</h2>
+<pre><code>python -u ircpipebot.py --server irc.frreenode.net --channel &quot;#botopera&quot; --nickname name_bot &gt; log.txt</code></pre>
+<h2 id="look-at-content-of-file-in-terminal">Look at content of file in terminal</h2>
+<pre><code>tail -f log.txt</code></pre>
+<h2 id="send-activities-chatbot-to-another-program-this-is-called-a-pipe">Send activities chatbot to another program ( this is called a PIPE)</h2>
+<pre><code>cat log.txt | python upper.py
+python ircpipebot.py --server botnet.local --channel &quot;#botnet&quot; --nickname jaraco | python -u filter.py </code></pre>
+<h2 id="pipe-the-processed-activities-back-to-chat-channel">Pipe the processed activities back to chat channel</h2>
+<pre><code>// save this as chatbot.sh
+mkfifo bot
+cat bot | \
+    python -u ircpipebot.py --server irc.freenode.net --channel &quot;#botnet&quot; --nickname jaraco | \
+    python -u filter.py | \
+    python -u split.py &gt; bot 
+rm bot
+
+// save this as filter.py
+import sys
+import os
+# infinite loop that keeps reading &amp; responding
+while True:
+    zin = sys.stdin.readline()
+    if not zin:
+        break
+    # do something to xform zin to out
+    out = zin.strip(&quot;\n&quot;)
+    out = out.split(&quot; &quot;, 2)
+    if out[1] == &quot;spam:&quot;:
+        out = out[-1]
+        print(out)
+
+// save this as split.py
+import sys
+import os
+# infinite loop that keeps reading &amp; responding
+while True:
+    zin = sys.stdin.readline()
+    if not zin:
+        break
+    out = zin.upper()
+    sys.stdout.write(out)
+    os.system(&quot;espeak \&quot;&quot;+ out.strip() + &quot;\&quot;&quot;)</code></pre>
+</body>
+</html>

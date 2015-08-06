@@ -1,0 +1,14 @@
+(dp0
+S'Alpha60Agent3'
+p1
+S'true'
+p2
+sS'natacha_'
+p3
+S'warning'
+p4
+sS'moose_'
+p5
+S'true'
+p6
+s.

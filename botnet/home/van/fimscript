@@ -1,0 +1,7 @@
+usleep '0';
+reduce;
+usleep '832000';
+reduce;
+usleep '876000';
+reduce;
+

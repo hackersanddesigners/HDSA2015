@@ -1,0 +1,230 @@
+2014-07-07 18:25:30 //armansansd : hahaha
+2014-07-07 18:27:52 //armansansd : monk is writting
+2014-07-07 18:28:45 //armansansd : Can we try something new ?
+2014-07-07 18:45:30 //sakasama__ : kkkktest
+2014-07-07 18:55:22 //sakasama__ : if it's logged, i need to come up with something interesting
+2014-07-08 10:25:26 //sakasama : so monk is a bot that will record the notes on a text file
+2014-07-08 10:25:42 //sakasama : and also in my terminal ;-)
+2014-07-08 10:30:08 //asimov : so I create a new etherpad and monk will do all the work
+2014-07-08 10:30:43 //asimov : http://192.168.1.222:9001/p/Tuesday2084
+2014-07-08 10:30:55 //sakasama : i need to weed yesterday's page
+2014-07-08 10:37:00 //sakasama : 2084 ? why ? this session is a merge of two projects for relearn. an works on 1984, inquiring whether the topics of 1984 (the orwell book) was actually relevant
+2014-07-08 10:37:42 //sakasama : the other project was social shell
+2014-07-08 10:37:53 //sakasama : using the shell as a social shell
+2014-07-08 10:38:00 //sakasama : and we came up with using irc
+2014-07-08 10:39:02 //sakasama : an is presenting the issues beyond google
+2014-07-08 10:40:30 //sakasama : idea : we're living in 2084, after an apocalypse, and we reboot the internet from an old server with irc
+2014-07-08 10:40:50 //sakasama : how do you organize it to use it in terms of decision-making, tools, etc
+2014-07-08 10:41:34 //automatist : hello monk
+2014-07-08 10:41:42 //automatist : Monk records our conversation when it is present
+2014-07-08 10:45:08 //sakasama : discussing from where to launch monk on the server : needs to run it as a daemon
+2014-07-08 10:45:34 //automatist : IRC bots allow for a flexibility: run local, temporarily, up to running long term on a public server
+2014-07-08 10:46:46 //automatist : http://relearn/botnet/bots/
+2014-07-08 10:47:23 //asimov : different writing spaces with different speeds
+2014-07-08 10:47:36 //asimov : git repository would be the 'slowest' inr ange
+2014-07-08 10:47:38 //asimov : in range
+2014-07-08 10:47:50 //asimov : collect code & share it with others in a cookbook
+2014-07-08 10:48:01 //sakasama : idea of the "mesh cookbook"
+2014-07-08 10:48:06 //asimov : on the git repository
+2014-07-08 10:48:08 //sakasama : git repo as a portable cookbook
+2014-07-08 10:48:33 //sakasama : git can have multiple remote
+2014-07-08 10:50:06 //sakasama : it's complex but rewarding
+2014-07-08 10:54:51 //sakasama : what do we want to do today together ?
+2014-07-08 10:54:58 //sakasama : find out about the daemon ?
+2014-07-08 10:55:21 //asimov : automatist will run vote bot in #2084
+2014-07-08 10:55:36 //asimov : as an opening ritual
+2014-07-08 10:55:43 //asimov : what projects do we want to work on?
+2014-07-08 10:56:09 //asimov : type #vote daemon
+2014-07-08 10:56:18 //asimov : there is no other option :-)
+2014-07-08 10:58:18 //sakasama : we can look at the code 
+2014-07-08 10:59:46 //sakasama : possible to record votes in another way
+2014-07-08 11:00:24 //asimov : one bot one bot
+2014-07-08 11:02:02 //sakasama : relay instead of rely
+2014-07-08 11:02:33 //asimov : we can rely on local network and relay to other platforms
+2014-07-08 11:02:50 //asimov : use freenode to look at relearn channels, f.i.
+2014-07-08 11:02:54 //sakasama : relaybot
+2014-07-08 11:05:04 //automatist : idea of relaying ideas between channels.... like keywords
+2014-07-08 11:05:38 //automatist : anonymous relay bot to send message to many places
+2014-07-08 11:15:12 //asimov : welcoming bot: says hello to new users
+2014-07-08 11:15:23 //asimov : repeatingbot: repeats what you say
+2014-07-08 11:15:48 //automatist : link to a wikipage based on a keyword
+2014-07-08 11:15:56 //asimov : wikibot: gives a link to wikipage of you come up with a keyword, publishes the wikiinformation
+2014-07-08 11:15:56 //automatist : wikipedia bot
+2014-07-08 11:16:05 //asimov : can be used to aliment 2084 story
+2014-07-08 11:19:42 //sakasama : wikibot in a portrait http://relearn/botnet/portraits_piratebots_def.txt
+2014-07-08 11:23:21 //sakasama : wikipedia : there are actually specific authors to wikipedia page, it's not a "black box" entity, it has sources, authors...
+2014-07-08 11:25:24 //sakasama : a sourcecode bot : asking a bot your source
+2014-07-08 11:26:28 //sakasama : oops asking the source of the bot
+2014-07-08 11:27:07 //asimov : camera project created ircbot that takes a picture when you ask for it
+2014-07-08 11:27:41 //asimov : ask how to 'see' it, publish on the server
+2014-07-08 11:28:01 //asimov : idea of slashfictionbot
+2014-07-08 11:28:50 //asimov : rewriting collective science fiction story
+2014-07-08 11:30:27 //asimov : http://pzwart3.wdka.hro.nl/wiki/User:Lidia.Pereira/PNMII/RYOG
+2014-07-08 11:33:20 //sakasama : arman : monk is on !
+2014-07-08 11:40:08 //arman : great ! 
+2014-07-08 11:41:31 //asimov : looking into this project by Lidia:  http://pzwart3.wdka.hro.nl/wiki/User:Lidia.Pereira/PNMII/RYOG the chatroom with authors on the public domain
+2014-07-08 11:41:44 //asimov : and this one: http://pzwart3.wdka.hro.nl/wiki/User:Lidia.Pereira/SDRII/POPC the slash news project
+2014-07-08 11:42:02 //asimov : can be basis to devleop irc collective sf writing bot
+2014-07-08 11:44:48 //asimov : votrbot results:
+2014-07-08 11:44:48 //asimov : [11:43] <votebot> Out of 8 total votes
+2014-07-08 11:44:50 //asimov : [11:43] <votebot>     1 votes for: 'no'
+2014-07-08 11:44:50 //asimov : [11:43] <votebot>     3 votes for: 'relaybot'
+2014-07-08 11:44:52 //asimov : [11:43] <votebot>     4 votes for: 'writing the 2084 science fiction story'
+2014-07-08 11:46:00 //asimov : wikibot & deamonbot are nice ideas as well
+2014-07-08 11:46:48 //asimov : let's see how far we get
+2014-07-08 11:48:41 //sakasama : find a way for the bot to be less mecanic ?
+2014-07-08 11:49:14 //sakasama : something more organic, with different timing ? delays can be programmed for instance
+2014-07-08 11:50:27 //sakasama : relaying hand gestures is hard ;-)
+2014-07-08 11:51:07 //asimov : different genres, timings, layers, registers...
+2014-07-08 11:51:17 //asimov : inside the same bot
+2014-07-08 11:52:06 //asimov : different publication channels: the irc channel & the terminal f.i.
+2014-07-08 11:52:27 //asimov : instructions in the terminal, f.i. join me in the secret room
+2014-07-08 11:52:57 //asimov : use conversation to build labyrinth of rooms for narrative
+2014-07-08 11:53:13 //asimov : and collect the fiction written in the different channels
+2014-07-08 11:54:22 //asimov : having conversation with dead authors
+2014-07-08 11:54:33 //asimov : cfr retrofuturist short stories (in French)
+2014-07-08 11:54:51 //sakasama : invite different temporalities
+2014-07-08 11:55:34 //asimov : insert the mediabomb
+2014-07-08 11:55:47 //asimov : having one topic being bombed about in the edia
+2014-07-08 11:55:49 //asimov : media
+2014-07-08 11:55:58 //asimov : insert it as one of the fictional narratives
+2014-07-08 11:56:02 //sakasama : an insertbot !!
+2014-07-08 11:56:38 //asimov : http://192.168.1.222:9001/p/Tuesday2084
+2014-07-08 12:01:50 //moose : should we curate our own fiction database?
+2014-07-08 12:03:32 //m : yes! how we do this? create different .txt files?
+2014-07-08 12:03:49 //moose : and how are we going to do it? different bots with different characters interacting with eachother
+2014-07-08 12:04:05 //moose : yes, if we have separate bots it's best to have separate .txt files
+2014-07-08 12:04:58 //m : so, different science fictions narratives will interact with eachother?
+2014-07-08 12:05:14 //m : ah no, characters
+2014-07-08 12:05:16 //moose : maybe all the bots are characters in the same science fiction
+2014-07-08 12:05:19 //moose : yes!
+2014-07-08 12:06:15 //moose : and one of them could be the insertbot, making our story appear real to the eyes of the media
+2014-07-08 12:07:02 //asimov : can we create a collective of writer bots maybe?
+2014-07-08 12:07:08 //asimov : a slashbot?
+2014-07-08 12:07:19 //asimov : a chatwith deadauthorsbot
+2014-07-08 12:07:48 //moose : yes, I think that should be very doable, I already have the database
+2014-07-08 12:09:48 //asimov : slashbot can visit deadauthors' room
+2014-07-08 12:09:52 //sakasama : visit rooms with different atmospheres
+2014-07-08 12:10:02 //asimov : 'Dostoiewski, take off your cloths!'
+2014-07-08 12:10:08 //sakasama : a story might go through different rooms
+2014-07-08 12:10:30 //asimov : tracingbot that collects your reading into 1 story/txt file
+2014-07-08 12:11:47 //asimov : fiction database of moose is collection of links to online_literature.com collected in txt-file
+2014-07-08 12:12:04 //asimov : to be found on git-repository soon
+2014-07-08 12:16:49 //majorproblem : moose : still with the idea of the bomb the media bot, it woud be interesting to have a journa;ist bot reporting on the events 
+2014-07-08 12:17:28 //majorproblem : that would collect the generated fiction and write 'real' articles about them
+2014-07-08 12:20:05 //moose : I'm back! going to upload things on the git now
+2014-07-08 12:22:39 //Olm : code for the PiCamBot is on the pad for now, we need to clean things up and use the git ;)
+2014-07-08 12:22:53 //Olm : http://192.168.1.222:9001/p/syncam
+2014-07-08 12:28:31 //sakasama : Olm : great ! thanks a lot ! what about the pictures ?
+2014-07-08 12:30:39 //moose : ok, the source code for the dead author's chat is in the git repository for botnet!
+2014-07-08 12:49:52 //cath : just added the secretbot.py if you'd like to try
+2014-07-08 12:50:32 //cath : some links about archeoSF (in french sorry)
+2014-07-08 12:50:41 //cath : http://archeosf.publie.net/
+2014-07-08 12:50:52 //cath : http://archeosf.publie.net/les-livres-numeriques-archeosf/
+2014-07-08 12:52:15 //arman : hi there, we have just created a plotbot to control the plotter with irc. (we are in Kriekelaar room if you you want to say hello) 
+2014-07-08 12:54:32 //sakasama : ah that's where plotbot is, super !
+2014-07-08 12:56:57 //sakasama : is the code on git ?
+2014-07-08 12:58:23 //arman : I think, I'm going to push it .. .after lunch !
+2014-07-08 13:02:06 //asimov : lunch!
+2014-07-08 15:17:40 //sakasama : ok, monk is back to take care of the notes
+2014-07-08 15:21:48 //Olm : asciiart is not easy as it works with monospace ... :/
+2014-07-08 15:32:12 //Demure : :(
+2014-07-08 15:32:16 //Demure : But!
+2014-07-08 15:32:20 //Demure : There are certain characters
+2014-07-08 15:32:24 //Demure : That are specific width
+2014-07-08 15:32:26 //Demure : You have black blocks
+2014-07-08 15:32:29 //Demure : White blocks
+2014-07-08 15:32:31 //Demure : And hashed blocks
+2014-07-08 15:32:34 //Demure : If you use those
+2014-07-08 15:32:43 //Demure : You should be able to assume same width for all of them
+2014-07-08 15:32:54 //Demure : Depending on the client the image might be slightly compressed horizontally
+2014-07-08 15:33:00 //Demure : But from top to bottom it would work out
+2014-07-08 16:08:26 //sakasama : openwrt is not debian, not possible to apt-get
+2014-07-08 16:08:30 //arman : hi ! does someone can help ? We'd like to creat a bot that react when a new user connect in the channel.
+2014-07-08 16:08:41 //asimov : start session 'extending the network'
+2014-07-08 16:08:41 //asimov : with Martino
+2014-07-08 16:09:39 //asimov : Hi arman, we just start an entirely new topic here...
+2014-07-08 16:09:46 //asimov : have a look on the git repository in the hellobot-series
+2014-07-08 16:10:03 //sakasama : arman, i think some people in the room did some bots that do this
+2014-07-08 16:10:11 //asimov : http://relearn/botnet/bots/
+2014-07-08 16:10:16 //arman : ok ! great
+2014-07-08 16:10:20 //arman : thank's
+2014-07-08 16:10:43 //asimov : Michael introduces the TP-Link
+2014-07-08 16:11:53 //sakasama : ok we can carry on
+2014-07-08 16:12:10 //asimov : comes with very nice leaflet explaining the GPL License
+2014-07-08 16:12:26 //asimov : 32MB of ram
+2014-07-08 16:12:59 //asimov : https://openwrt.org/
+2014-07-08 16:18:35 //sakasama : you can choose what you install in the packages available
+2014-07-08 16:18:55 //sakasama : but very small
+2014-07-08 16:19:09 //sakasama : for instance, an irc server exists for it
+2014-07-08 16:20:10 //sakasama : different communities in the piratebox : people patching things together (artists, activists...)
+2014-07-08 16:20:20 //sakasama : aram barthol for an exhibition, superglue...
+2014-07-08 16:20:52 //sakasama : lots of device are supported, not only the tplink3020
+2014-07-08 16:22:09 //sakasama : names of cocktails for the different versions of openwrt
+2014-07-08 16:22:21 //sakasama : the latest is "attitude adjustment"
+2014-07-08 16:23:07 //sakasama : it's easier to start with the device you have
+2014-07-08 16:23:33 //sakasama : it's a bit like when you install raspian
+2014-07-08 16:26:25 //sakasama :  -----------------------------------------------------
+2014-07-08 16:26:26 //sakasama :  ATTITUDE ADJUSTMENT (12.09, r36088)
+2014-07-08 16:26:28 //sakasama :  -----------------------------------------------------
+2014-07-08 16:26:29 //sakasama :   * 1/4 oz Vodka      Pour all ingredients into mixing
+2014-07-08 16:26:31 //sakasama :   * 1/4 oz Gin        tin with ice, strain into glass.
+2014-07-08 16:26:32 //sakasama :   * 1/4 oz Amaretto
+2014-07-08 16:26:34 //sakasama :   * 1/4 oz Triple sec
+2014-07-08 16:26:35 //sakasama :   * 1/4 oz Peach schnapps
+2014-07-08 16:26:37 //sakasama :   * 1/4 oz Sour mix
+2014-07-08 16:26:39 //sakasama :   * 1 splash Cranberry juice
+2014-07-08 16:26:54 //sakasama : so to install, you plug the box to your laptop
+2014-07-08 16:27:34 //sakasama : and it switchs on
+2014-07-08 16:30:01 //sakasama : following instructions from http://wiki.openwrt.org/toh/tp-link/tl-mr3020
+2014-07-08 16:36:43 //sakasama : changing by hand the ip address of the device via ethernet, going to the network panel, at IP address 192.168.0.254
+2014-07-08 16:37:18 //sakasama : now time to install openwrt
+2014-07-08 16:37:54 //MMink : so...where are the notes on making a bot?
+2014-07-08 16:38:03 //colm_ : hey, I'm looking for your notes on building bots? I seem to be missing an IRC library, did you use easy_install or something to install the dependencies before starting?
+2014-07-08 16:38:57 //moose : there's a library - irc.bot
+2014-07-08 16:39:01 //moose : sudo pip install irc
+2014-07-08 16:39:07 //moose : that should work
+2014-07-08 16:39:22 //colm_ : ok great
+2014-07-08 16:39:23 //colm_ : thanks
+2014-07-08 16:39:54 //moose : you're welcome
+2014-07-08 16:41:16 //colm_ : yes got it, cheers
+2014-07-08 16:41:48 //sakasama : MMink we use the hellobot.py as a beginning
+2014-07-08 16:45:30 //sakasama : so after installing it, changing one's ip address, it's not by default on the internet
+2014-07-08 16:46:55 //sakasama : it can also be autonomous from the internet
+2014-07-08 16:47:58 //sakasama : ssh-ing to the box : root@192.168.1.1
+2014-07-08 16:48:46 //sakasama : not possible because we don't know the password
+2014-07-08 16:48:53 //sakasama : so using telnet 
+2014-07-08 16:49:01 //sakasama : telnet 192.168.1.1
+2014-07-08 16:50:35 //sakasama : passwd
+2014-07-08 16:50:42 //sakasama : (putting root as the password)
+2014-07-08 16:51:16 //sakasama : then it's possible to ssh
+2014-07-08 16:56:33 //there_now : then set wifi interfaces from the web interface go to interfaces 
+2014-07-08 16:57:06 //there_now : set the connection to ethernet
+2014-07-08 16:57:22 //there_now : then we need to edit it 
+2014-07-08 16:57:52 //there_now : go to network 
+2014-07-08 16:58:25 //there_now : oops seems that there is a preset connection system if you edit wifi connection
+2014-07-08 16:58:32 //sakasama : "when in doubt, leaves the default"
+2014-07-08 17:03:08 //there_now : good moment to switch to command line 
+2014-07-08 17:03:22 //there_now : maybe clearer than a very extensive GUI
+2014-07-08 17:04:53 //sakasama : lots of recipe in their documentation
+2014-07-08 17:06:40 //there_now : back to open wrt web configuration help see explanations
+2014-07-08 17:06:43 //sakasama : http://wiki.openwrt.org/doc/uci/network (quite weird)
+2014-07-08 17:07:48 //sakasama : look at what's inside /etc/config/ on the device
+2014-07-08 17:07:56 //sakasama : of the different files
+2014-07-08 17:08:13 //sakasama : you have to use vi (nano is not installed)
+2014-07-08 17:09:25 //sakasama : $ cat network
+2014-07-08 17:10:08 //sakasama : $ firstboot
+2014-07-08 17:10:20 //sakasama : $ reboot -f
+2014-07-08 17:11:44 //sakasama : it restarts the box (with openwrt, not the tp-link thing)
+2014-07-08 17:12:00 //sakasama : the reboot command doesn't work properly
+2014-07-08 17:13:03 //sakasama : AP is access point, CTA is client
+2014-07-08 17:14:18 //sakasama : when you push the button when it's starting up, there's the failsafe mode
+2014-07-08 17:14:31 //sakasama : back to 192.168.1.1
+2014-07-08 17:16:21 //sakasama : the community television at krikelaar is a piratebox with a raspberry pi plugged to it to play video
+2014-07-08 17:16:40 //sakasama : the piratebox is not made for video, no interface
+2014-07-08 17:27:22 //Robert : j
+2014-07-08 17:27:23 //Robert : j
+2014-07-08 17:27:24 //Robert : j
+2014-07-08 17:27:25 //Robert : j
+2014-07-08 17:27:26 //Robert : j
+2014-07-08 17:27:27 //Robert : j

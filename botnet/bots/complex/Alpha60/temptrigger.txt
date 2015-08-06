@@ -1,0 +1,618 @@
+(dp0
+S'botnet401Alpha60StephieNosuchnick/channel\r\nbotnet401Alpha60StephieNosuchnick/channel\r\nbotnet401Alpha60StephieNosuchnick/channel'
+p1
+S'None'
+p2
+sS"botnet401Alpha60gissing_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet441Alpha60gijs#2084Theyaren'tonthatchannel\r\nbotnet472Alpha60isunknownmodechartome"
+p3
+S'No such nick/channel'
+p4
+sS"s29Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2464connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p5
+S'*** No Ident response'
+p6
+sS'botnet401Alpha60youhoubotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60OlmNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p7
+S'No such nick/channel'
+p8
+sS'botnet401Alpha60daphneNosuchnick/channel'
+p9
+S'Planning as we know it will prove to be out of date.'
+p10
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand35invisibleon1servers\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave35clientsand0servers\r\nbotnet265Alpha60Currentlocalusers35Max47\r\nbotnet266Alpha60Curren"
+p11
+S'*** No Ident response'
+p12
+sS'botnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand35invisibleon1servers\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave35clientsand0servers\r\nbotnet265Alpha60Currentlocalusers35Max47\r\nbotnet266Alpha60Currentglobalusers35Max47\r\nbotnet250Alpha60Highest'
+p13
+S"*** Couldn't look up your hostname"
+p14
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand34invisibleon1servers\r\nbotnet253Alpha601unknownconnection(s)\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave34clientsand0servers\r\nbotnet265Alpha60Currentlocalu"
+p15
+S'*** No Ident response'
+p16
+sS'botnet401Alpha60testoNosuchnick/channel\r\nbotnet401Alpha60testoNosuchnick/channel'
+p17
+S'not registered'
+p18
+sS'botnet401Alpha60humunculusNosuchnick/channel\r\nbotnet401Alpha60humunculusNosuchnick/channel'
+p19
+S'No such nick/channel'
+p20
+sS'botnet401Alpha60hellopythonNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60natachaNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p21
+S'No such nick/channel'
+p22
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60alger_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p23
+S'No such nick/channel'
+p24
+sS'botnetNOTICEAUTH***NoIdentresponse\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand29invisibleon1servers\r\nbotnet254Alpha6011channelsformed\r\nbotnet255Alpha60Ihave29clientsand0servers\r\nbotnet265Alpha60Currentlocalusers29Max47\r\nbotnet266Alpha60Currentglobaluser'
+p25
+S"*** Couldn't look up your hostname"
+p26
+sS'botnet401Alpha60gdhNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60ericNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p27
+S'No such nick/channel'
+p28
+sS"sers33Max47\r\nbotnet266Alpha60Currentglobalusers33Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2038connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-"
+p29
+S"*** Couldn't look up your hostname"
+p30
+sS'stephane'
+p31
+S'Ping timeout writer beautiful'
+p32
+sS'botnet401Alpha60hellopythonbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60realhumanNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p33
+S'No such nick/channel'
+p34
+sS"tglobalusers34Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2060connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____"
+p35
+S"*** Couldn't look up your hostname"
+p36
+sS'gijs_'
+p37
+S'appelsap'
+p38
+sS'botnet401Alpha60arthur_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60botbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p39
+S'#2084'
+p40
+sS"s29Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2463connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p41
+S'*** No Ident response'
+p42
+sS"tglobalusers33Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2098connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p43
+S"*** Couldn't look up your hostname"
+p44
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome\r\nAlpha60'
+p45
+S'No such nick/channel'
+p46
+sS'y_bot'
+p47
+S'y_bot writer though y_bot #2084 writer no y_bot Remote host closed the connection'
+p48
+sS'botnet421Alpha60botnet372Alpha60-__)||||/_\\||||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-/__/||_||(_)|___|Unknowncommand'
+p49
+S'am I that I am'
+p50
+sS'botnet401Alpha60gijsNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60y_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p51
+S'#2084'
+p52
+sS'botnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet376Alpha60Endof/MOTDcommand.Unknowncommand\r\nbotnet421Alpha60Alpha60Unknowncommand\r\nbotnet412Alpha60Notexttosend\r\nbotnet421Alpha60botnet250Alpha60Highestconnectioncount47(47clients)(2058connectionsreceived)Unknowncommand\r\nbotnet421Alpha60botnet375Alpha60-botnetMessageoftheDay-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-WelcometoUnknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-____________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|___\\/_\\(_)||||Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-__)||||/_\\||||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-/__/||_||(_)|___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_____|\\___/\\___/|_|Unknowncommand\r\nbotnet421Alpha60botnet'
+p53
+S'botnet 421 Alpha60 botnet376Alpha60Endof/MOTDcommand.'
+p54
+sS'anonymous'
+p55
+S' hello i am your secret friend join me in the #hiddenroom Who is anonymous? join me in the #hiddenroom #trigger join me in the #hiddenroom #trigger join me in the #hiddenroom . \x03 0 0 , 0 5 that is his his was it that be it you . at is he . he was of he . . . . \x03 0 0 , 0 5 and was with to is not be it you. at is he of. Remote host closed the connection #2084'
+p56
+sS'botnet401Alpha60testoNosuchnick/channel\r\nbotnet401Alpha60GYSINGNosuchnick/channel'
+p57
+S'It is the opposite which is true.'
+p58
+sS'botnet401Alpha60amuelNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome\r\nAlpha60'
+p59
+S''
+p60
+sS"||_|__|'_\\/_\\Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-______Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|__)___||_______||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|(_)||_||||__/|_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet376Alpha60Endof/MOTDcommand.Unknowncommand\r\nbotnet421Alpha60Alpha60Unknowncommand\r\nbotnet421Alpha60botnet250Alpha60Highestconnectioncount47(47clients)(2058connectionsreceived)"
+p61
+S'No text to send'
+p62
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60constantNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60confusedbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60relearn__Nosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60botbutNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nconstant_n'
+p63
+S'#init'
+p64
+sS'automatist'
+p65
+S'If men preserve goods and take them with them when they move it is because these goods are difficult to acquire or replace.'
+p66
+sS'there_now'
+p67
+S'aM ee)g I Tt (a'
+p68
+sS"tglobalusers34Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2042connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____"
+p69
+S"*** Couldn't look up your hostname"
+p70
+sS'sakasama'
+p71
+S'hello i am your secret friend'
+p72
+sS"botnet441Alpha60plotter#2084Theyaren'tonthatchannel"
+p73
+S'No such nick/channel'
+p74
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand33invisibleon1servers\r\nbotnet254Alpha6015channelsformed\r\nbotnet255Alpha60Ihave33clientsand0servers\r\nbotnet265Alpha60Currentlocalusers33Max47\r\nbotnet266Alpha60Curren"
+p75
+S'*** No Ident response'
+p76
+sS'Unknowncommand\r\nbotnet421Alpha60botnet375Alpha60-botnetMessageoftheDay-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-WelcometoUnknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-____________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|___\\/_\\(_)||||Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-__)||||/_\\||||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-/__/||_||(_)|___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_____|\\___/\\___/|_|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand'
+p77
+S'botnet 421 Alpha60 botnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/'
+p78
+sS'botnet401Alpha60captureNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60colm__Nosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p79
+S'#2084'
+p80
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60hellopythonbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p81
+S'No such nick/channel'
+p82
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60anonymousNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p83
+S'abc'
+p84
+sS'botnet401Alpha60hellocatfoodNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome\r\nAlpha60'
+p85
+S'No such nick/channel'
+p86
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand1invisibleon1servers\r\nbotnet255Alpha60Ihave1clientsand0servers\r\nbotnet265Alpha60Currentlocalusers1Max47\r\nbotnet266Alpha60Currentglobalusers1Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2404connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p87
+S'*** Looking up your hostname...'
+p88
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand35invisibleon1servers\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave35clientsand0servers\r\nbotnet265Alpha60Currentlocalusers35Max47\r\nbotnet266Alpha60Currentglobalusers35Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2090connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p89
+S'*** No Ident response'
+p90
+sS'natacha_'
+p91
+S'Unfortunately this alternative does not exist.'
+p92
+sS'botnet401Alpha60automatistNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60computerNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p93
+g60
+sS'yes'
+p94
+S'(a Tt I ee)g aM'
+p95
+sS'botnet401Alpha60brickNosuchnick/channel'
+p96
+S'No such nick/channel'
+p97
+sS'botnet401Alpha60ccNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60RobertNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p98
+S'Who is Alpha60'
+p99
+sS'manetta'
+p100
+S'#2084'
+p101
+sS'FS1'
+p102
+S'One does not transport that which one finds everywhere in abundance.'
+p103
+sS'botnet401Alpha60cathNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome\r\nAlpha60'
+p104
+g60
+sS'Alpha60'
+p105
+S'47'
+p106
+sS"47\r\nbotnet266Alpha60Currentglobalusers23Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2434connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p107
+S'*** No Ident response'
+p108
+sS'botnetNOTICEAUTH***NoIdentresponse\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand23invisibleon1servers\r\nbotnet253Alpha601unknownconnection(s)\r\nbotnet254Alpha6010channelsformed\r\nbotnet255Alpha60Ihave23clientsand0servers\r\nbotnet265Alpha60Currentlocalusers23Max'
+p109
+S"*** Couldn't look up your hostname"
+p110
+sS'botnet401Alpha60cadavre_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60ursula_leguinNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p111
+g60
+sS'botnet401Alpha60relearnNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60pumpkinNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p112
+S'Who is nick'
+p113
+sS'E-E_CUMMINGS'
+p114
+g60
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60botbotbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p115
+g60
+sS"tglobalusers35Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2084connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____"
+p116
+S"*** Couldn't look up your hostname"
+p117
+sS'cadavre_bot'
+p118
+S'#2084 Remote host closed the connection #2084 Remote host closed the connection writer beautiful'
+p119
+sS'm010'
+p120
+S'None'
+p121
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname"
+p122
+S'*** Looking up your hostname...'
+p123
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand33invisibleon1servers\r\nbotnet254Alpha6016channelsformed\r\nbotnet255Alpha60Ihave33clientsand0servers\r\nbotnet265Alpha60Currentlocalusers33Max47\r\nbotnet266Alpha60Curren"
+p124
+S'*** Looking up your hostname...'
+p125
+sS'constant_n'
+p126
+S' Who is nick? Who is Demure In my opinion Sounds a bit confusing Even the nomads... It is the opposite which is true. De\xc2\xadspite the artists\xe2\x80\x99 intentions, happenings remain poor spec\xc2\xadtacles for passive spectators. Who is automatist? The life of recreation of New Babylon is to be found in the continual changing of behavior. Who is Robert? Who is sakasama_? Ha ha, I can also return that question... Who is Demure If men preserve goods and take them with them when they move, it is because these goods are difficult to acquire or replace. Towns as we know them will never be able to become areas for a re\xc2\xadcreational life. Ha ha, I can also return that question... Who is Demure Independent of nature, he can create his en\xc2\xadtourage at will. Ha ha, I can also return that question... Who is Demure But will not man need a less artificial environment, more linked to nature, in the future? Ha ha, I can also return that question... Who is Demure You speak of the masses, yet these same masses are made up of human beings, each one different from another, with a diversity of needs. Ha ha, I can also return that question... Who is Demure Remote host closed the connection But all the same, one cannot spend one\xe2\x80\x99s life following trails! Everyone feels the need to concentrate on some ac\xc2\xadtivity; to preserve goods acquired, or manufactured. This form is typical of what I call \xe2\x80\x98utilitarian\xe2\x80\x99 society; the society in which nearly all of humanity is forced to produce, in order to subsist. Talking to me? At present, individual social space is ex\xc2\xadtremely limited and without any relation to actual space. Unfortunately this alternative does not exist. I feel a bit lost right now...'
+p127
+sS")___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p128
+S'botnet 375 Alpha60'
+p129
+sS'bravom'
+p130
+S'hello i am your secret friend'
+p131
+sS"botnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p132
+S'47'
+p133
+sS'botnet401Alpha60_captureNosuchnick/channel\r\nbotnet401Alpha60humunculusNosuchnick/channel'
+p134
+S'not registered'
+p135
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand37invisibleon1servers\r\nbotnet254Alpha6016channelsformed\r\nbotnet255Alpha60Ihave37clientsand0servers\r\nbotnet265Alpha60Currentlocalusers37Max47\r\nbotnet266Alpha60Curren"
+p136
+S'*** No Ident response'
+p137
+sS'plotter'
+p138
+S'Without automation of production the masses  creative po tential remains an illusion.'
+p139
+sS"botnet441Alpha60cath#2084Theyaren'tonthatchannel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60juegoNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome"
+p140
+g60
+sS"__\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p141
+S'47'
+p142
+sS'poetbot'
+p143
+S'Remote host closed the connection writer lovely your words must be left unanswered. Read error'
+p144
+sS'botnet401Alpha60youhoubotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p145
+S'No such nick/channel'
+p146
+sS'mariasolebravo'
+p147
+S'#2084'
+p148
+sS"s27Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2452connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p149
+S'*** No Ident response'
+p150
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60FSNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60constantNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60confusedbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60relearn__Nosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60botbutNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\ntexty'
+p151
+S'#init'
+p152
+sS'botnet401Alpha60gijs_Nosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p153
+S'No such nick/channel'
+p154
+sS'FS'
+p155
+S'Thus the largest part of New Babylon  s urban space is des tined for collective use as a social area.'
+p156
+sS'Stephie'
+p157
+g60
+sS'cc'
+p158
+S'writer no'
+p159
+sS'Robert'
+p160
+S'appelsap'
+p161
+sS'botnet401Alpha60natacha_Nosuchnick/channel'
+p162
+S'Ping timeout'
+p163
+sS'botnetNOTICEAUTH***Lookingupyourhostname...\r\nbotnetNOTICEAUTH***CheckingIdent\r\nbotnetNOTICEAUTH***NoIdentresponse'
+p164
+S'None'
+p165
+sS'botnet401Alpha60helloNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p166
+S"They aren't on that channel"
+p167
+sS'botnet401Alpha60StephieNosuchnick/channel'
+p168
+S'#2084'
+p169
+sS'texty'
+p170
+S' . \x03 0 0 , 0 5 of be of he had. a had of. at was was it. the was you be of he was the was and. had of. he a was. a were his had it. " of be of he had of be of he had " ,. had it and. a had of. at was was it. you be they was it. had. they is be that was. . \x03 0 0 , 0 5 and was with to is not be it you. at is he of. . \x03 0 0 , 0 5 he a was. at is he. for it is as it. had of. he was on he not. a had of. at was was it. the had he be is it had to be of was and. No text to send  . \x03 0 0 , 0 5 as was to that is his was. at had that for ,. the is at was the he.. not is were the. the be you a he of. a had they was. at was was it. the was of he is the was and. #2084 #2084 . \x03 0 0 , 0 5 be in. not is were. had the was. were it the was you be of he was the was and ,. with to was had of was. the was you be of he was the. as be he a. had to with a had 6 0. No such nick/channel . \x03 0 0 , 0 5 that had and had they the had were he a is the _ at is. a had of. at was was it. as had the it was and. at was in is the was. in is the. it is he. the was you be of he was the be it you.. that had and had they the had were he a is the _ at is. a had of. he a was the was in is the was. at was was it. for be that for was and. . \x03 0 0 , 0 5 was it and. is in. with were the you was. Read error #2084  . \x03 0 0 , 0 5 he a was. was it he be he not. that is to his. a had of. at was was it. the was you be of he was and. had of. had. at is he.'
+p171
+sS"ha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet376Alpha60Endof/MOTDcommand.Unknowncommand\r\nbotnet421Alpha60Alpha60.Unknowncommand\r\nbotnet412Alpha60Notexttosend\r\nbotnet421Alpha60botnet250Alpha60Highestconnectioncount47(47clients)(2058connectionsreceived)Unknowncommand\r\nbotnet421Alpha60botnet375Alpha60-botnetMessageoftheDay-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-WelcometoUnknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-____________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|___\\/_\\(_)||||Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-__)||||/_\\||||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-/__/||_||(_)|___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_____|\\___/\\___/|_|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-_________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\(_)_________/_|||_||_____Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-______Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|__)___||_______||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|(_)||_||||__/|_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|Unknowncommand"
+p172
+S'Unknown command'
+p173
+sS"s29Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2465connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p174
+S'*** No Ident response'
+p175
+sS'Demure'
+p176
+S'hello i am your secret friend'
+p177
+sS"tglobalusers36Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2057connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____"
+p178
+S"*** Couldn't look up your hostname"
+p179
+sS'humunculus'
+p180
+S'Remote host closed the connection'
+p181
+sS'pha60Endof/MOTDcommand.\r\nAlpha60'
+p182
+S'47'
+p183
+sS'botnetNOTICEAUTH***NoIdentresponse\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand21invisibleon1servers\r\nbotnet254Alpha609channelsformed\r\nbotnet255Alpha60Ihave21clientsand0servers\r\nbotnet265Alpha60Currentlocalusers21Max47\r\nbotnet266Alpha60Currentglobalusers'
+p184
+S"*** Couldn't look up your hostname"
+p185
+sS'botnet401Alpha60bottekeNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60samuelNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p186
+S'No such nick/channel'
+p187
+sS'botnet401Alpha60WhateverNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60octavia_butlerNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p188
+S'No such nick/channel'
+p189
+sS'relearn'
+p190
+S'hello i am your secret friend'
+p191
+sS'GYSIN'
+p192
+S'arthur_bot Unknown command'
+p193
+sS'botnet401Alpha60GYSINGNosuchnick/channel'
+p194
+S'not registered'
+p195
+sS'PINGbotnet'
+p196
+S'Remote host closed the connection'
+p197
+sS"botnet441Alpha60m#2084Theyaren'tonthatchannel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60sakasamaNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome"
+p198
+S'No such nick/channel'
+p199
+sS"botnet441Alpha60armansansd#2084Theyaren'tonthatchannel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60CUMMINGSNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome"
+p200
+S'No such nick/channel'
+p201
+sS"372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-_________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\(_)_________/_|||_||_____Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-______Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|__)___||_______||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|(_)||_||||__/|_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet376Alpha60Endof/MOTDcommand.Unknowncommand\r\nbotnet421Alpha60Alpha60Unknowncommand\r\nbotnet482Alpha60#2084You'renotchanneloperator\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet421Alpha60botnet250Alpha60Highestconnectioncount47(47clients)(2058connectionsreceived)Unknowncommand\r\nbotnet421Alpha60botnet375Alpha60-botnetMessageoftheDay-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-WelcometoUnknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand"
+p202
+S'Unknown command'
+p203
+sS'botnetNOTICEAUTH***NoIdentresponse'
+p204
+S'*** Looking up your hostname...'
+p205
+sS"tglobalusers33Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2024connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____"
+p206
+S"*** Couldn't look up your hostname"
+p207
+sS"tglobalusers34Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2086connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p208
+S"*** Couldn't look up your hostname"
+p209
+sS'botnet401Alpha60y_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60GYSINNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p210
+S'No such nick/channel'
+p211
+sS'Olm'
+p212
+S'Remote host closed the connection #2084 Ping timeout so enormous Remote host closed the connection'
+p213
+sS'botnet401Alpha60colm_Nosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60eNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p214
+S'No such nick/channel'
+p215
+sS'botnetNOTICEAUTH***NoIdentresponse\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand27invisibleon1servers\r\nbotnet254Alpha6011channelsformed\r\nbotnet255Alpha60Ihave27clientsand0servers\r\nbotnet265Alpha60Currentlocalusers27Max47\r\nbotnet266Alpha60Currentglobaluser'
+p216
+S"*** Couldn't look up your hostname"
+p217
+sS'botnet412Alpha60Notexttosend\r\nbotnet421Alpha60botnet250Alpha60Highestconnectioncount47(47clients)(2058connectionsreceived)Unknowncommand\r\nbotnet421Alpha60botnet375Alpha60-botnetMessageoftheDay-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-WelcometoUnknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-____________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|___\\/_\\(_)||||Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-__)||||/_\\||||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-/__/||_||(_)|___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_____|\\___/\\___/|_|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-_________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\(_)_________/_|||_||_____Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|/__|/_\\/_\\'
+p218
+S'47'
+p219
+sS'botnet401Alpha60WhateverNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome'
+p220
+S'No such nick/channel'
+p221
+sS"tglobalusers37Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2121connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____"
+p222
+S"*** Couldn't look up your hostname"
+p223
+sS'botnet401Alpha60plotterNosuchnick/channel\r\nbotnet401Alpha60plotterNosuchnick/channel\r\nbotnet401Alpha60plotterNosuchnick/channel'
+p224
+S'None'
+p225
+sS'botnet401Alpha60amuelNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60mooseNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p226
+S'No such nick/channel'
+p227
+sS'anice'
+p228
+S'a'
+p229
+sS'botnet421Alpha60botnet372Alpha60-____________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|___\\/_\\(_)||||Unknowncommand\r\nDemure'
+p230
+S'None'
+p231
+sS'botnet401Alpha60norobuttttNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60SomeoneNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p232
+S'No such nick/channel'
+p233
+sS"botnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-_________Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\(_)_________/_|||_||_____Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-______Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|__)___||_______||_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-||_)|(_)||_||||__/|_Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alpha60botnet372Alpha60-Unknowncommand\r\nbotnet421Alp"
+p234
+S'botnet 421 Alpha60 botnet375Alpha60-botnetMessageoftheDay-'
+p235
+sS'botnet401Alpha60batNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60OlmNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p236
+g60
+sS"sers34Max47\r\nbotnet266Alpha60Currentglobalusers34Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2032connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Al"
+p237
+S"*** Couldn't look up your hostname"
+p238
+sS"connectioncount47(47clients)(2051connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__"
+p239
+S'Welcome to the debian Internet Relay Chat Network Alpha60'
+p240
+sS'botnet401Alpha60ursula_leguinNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60ursula_leguinNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p241
+S'Remote host closed the connection'
+p242
+sS'botnet401Alpha60sakasamaNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60helloNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p243
+g60
+sS"s27Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2444connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p244
+S'*** No Ident response'
+p245
+sS'botnet401Alpha60botbotbotbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome'
+p246
+g60
+sS'botnet401Alpha60norobuttttNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60SomeoneNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nconstant_n'
+p247
+S'No such nick/channel'
+p248
+sS'nick'
+p249
+S'hello i am your secret friend'
+p250
+sS'botnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome'
+p251
+S'TrY to ing) w(o I A)m t(He-r-lDDd (feel rea) aM (aM lL IaN'
+p252
+sS'botnet472Alpha60isunknownmodechartome'
+p253
+S'nick'
+p254
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand34invisibleon1servers\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave34clientsand0servers\r\nbotnet265Alpha60Currentlocalusers34Max47\r\nbotnet266Alpha60Curren"
+p255
+S'*** Looking up your hostname...'
+p256
+sS'botnet472Alpha60isunknownmodechartome\r\nAlpha60'
+p257
+S'm'
+p258
+sS'dead_author'
+p259
+S'No such nick/channel #2084 #2084 #2084 hello i am your secret friend #2084 #2084 #2084 #2084 a was to to is . be . had his . not is were the . of was that the was he . in the be was it and'
+p260
+sS'moose'
+p261
+S'#2084'
+p262
+sS'gissing_bot'
+p263
+S'gissing_bot'
+p264
+sS"tglobalusers36Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2058connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p265
+S"*** Couldn't look up your hostname"
+p266
+sS'ursula_leguin'
+p267
+S'Within the present day social structure each individual finds himself in permanent competition with all the others.'
+p268
+sS"21Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2426connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p269
+S'*** No Ident response'
+p270
+sS'botnet401Alpha60GYSINNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet472Alpha60isunknownmodechartome'
+p271
+S'No such nick/channel'
+p272
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand33invisibleon1servers\r\nbotnet253Alpha601unknownconnection(s)\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave33clientsand0servers\r\nbotnet265Alpha60Currentlocalu"
+p273
+S'*** No Ident response'
+p274
+sS'CUMMINGS'
+p275
+S'ing) rea) I A)m lL I aMaN t(He w(o (feel TrY to-r-lD (aMDdaN lL-r-lD t(He aMDd I rea) w(o (aM I A)m TrY to ing) (feel'
+p276
+sS'colm__'
+p277
+S'Remote host closed the connection'
+p278
+sS'daphne'
+p279
+S'#2084'
+p280
+sS'pascsaq'
+p281
+S'#2084'
+p282
+sS'botnet401Alpha60realhumanNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60colm_Nosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p283
+g60
+sS'botnet401Alpha60alger_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60batNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p284
+S'No such nick/channel'
+p285
+sS'botnetNOTICEAUTH***Lookingupyourhostname...\r\nbotnetNOTICEAUTH***CheckingIdent'
+p286
+S'None'
+p287
+sS"tglobalusers35Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2067connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p288
+S"*** Couldn't look up your hostname"
+p289
+sS'alger_bot'
+p290
+S' writer yes writer why alger_bot writer understood'
+p291
+sS'botnet401Alpha60anonymousNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60botbotbotbotNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p292
+S"They aren't on that channel"
+p293
+sS'm'
+p294
+S'#2084'
+p295
+sS"s29Max47\r\nbotnet250Alpha60Highestconnectioncount47(47clients)(2461connectionsreceived)\r\nbotnet375Alpha60-botnetMessageoftheDay-\r\nbotnet372Alpha60-Welcometo\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-____________\r\nbotnet372Alpha60-|___\\/_\\(_)||||\r\nbotnet372Alpha60-__)||||/_\\||||_\r\nbotnet372Alpha60-/__/||_||(_)|___|\r\nbotnet372Alpha60-|_____|\\___/\\___/|_|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-_________\r\nbotnet372Alpha60-|_\\(_)_________/_|||_||_____\r\nbotnet372Alpha60-||_)|/__|/_\\/_\\||_|__|'_\\/_\\\r\nbotnet372Alpha60-|_<|\\__\\__/|(_)|_|||_||||__/\r\nbotnet372Alpha60-|_|\\_\\_|___/\\___|\\___/|_|\\__|_||_|\\___|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-______\r\nbotnet372Alpha60-|__)___||_______||_\r\nbotnet372Alpha60-|_\\/_\\|__|'_\\/_\\__|\r\nbotnet372Alpha60-||_)|(_)||_||||__/|_\r\nbotnet372Alpha60-|____/\\___/\\__|_||_|\\___|\\__|\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet372Alpha60-\r\nbotnet376Alpha60Endof/MOTDcommand.\r\nAlpha60"
+p296
+S'*** No Ident response'
+p297
+sS'botnet401Alpha60cadavre_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome\r\nbotnet401Alpha60gissing_botNosuchnick/channel\r\nbotnet472Alpha60isunknownmodechartome'
+p298
+g60
+sS'arthur_bot'
+p299
+S'#2084 Who is alger_bot?'
+p300
+sS"botnetNOTICEAUTH***Couldn'tlookupyourhostname\r\nbotnet001Alpha60WelcometothedebianInternetRelayChatNetworkAlpha60\r\nbotnet002Alpha60Yourhostisbotnet[0.0.0.0/6667],runningversionhybrid-7.2.2.dfsg.2-6\r\nbotnet003Alpha60ThisserverwascreatedFeb32013at005920\r\nbotnet004Alpha60botnethybrid-7.2.2.dfsg.2-6DGabcdfgiklnorsuwxyzbiklmnopstveIhbkloveIh\r\nbotnet005Alpha60CALLERIDCASEMAPPING=rfc1459DEAF=DKICKLEN=160MODES=4NICKLEN=15PREFIX=(ohv)@%+STATUSMSG=@%+TOPICLEN=350NETWORK=debianMAXLIST=beI25MAXTARGETS=4CHANTYPES=#&aresupportedbythisserver\r\nbotnet005Alpha60CHANLIMIT=#&15CHANNELLEN=50EXCEPTS=eINVEX=ICHANMODES=eIb,k,l,imnpstELIST=CMNTUSAFELISTAWAYLEN=160KNOCKaresupportedbythisserver\r\nbotnet251Alpha60Thereare0usersand36invisibleon1servers\r\nbotnet254Alpha6017channelsformed\r\nbotnet255Alpha60Ihave36clientsand0servers\r\nbotnet265Alpha60Currentlocalusers36Max47\r\nbotnet266Alpha60Curren"
+p301
+S'*** Looking up your hostname...'
+p302
+s.

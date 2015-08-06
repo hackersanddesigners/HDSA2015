@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HACKERS & DESIGNERS (TRANSCRIPTION BOT)</title>
+</head>
+<body>
+<h1></h1></div>
+<p>SPEAK ENABLE YOUR MICROPHONE AND SPEAK...A HACK BY JAMES BRYAN GRAVES</p>
+</body>
+<script type="text/javascript">
+
+var index = 0;
+
+var postIt = function(msg) {
+  var http = new XMLHttpRequest();
+  var url = "https://localhost";
+  var params = "msg=" + msg;
+  http.open("POST", url, true);
+
+  //Send the proper header information along with the request
+  http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+  //http.setRequestHeader("Content-Length", params.length);
+  //http.setRequestHeader("Connection", "close");
+
+  http.onreadystatechange = function() {//Call a function when the state changes.
+      if(http.readyState == 4 && http.status == 200) {
+          alert(http.responseText);
+      }
+  }
+  http.send(params);
+}
+
+var doIt = function() {
+  if(index % 3 == 0) {
+    document.querySelector('body').classList.toggle('ubermate'); 
+  } else {
+    document.querySelector('body').classList.remove('ubermate'); 
+    document.querySelector('body').classList.remove('animate'); 
+    setTimeout(function() {
+      document.querySelector('body').classList.add('animate'); 
+    }, 100);
+  } 
+  index++;
+};
+
+var start = function() {
+  if (!('webkitSpeechRecognition' in window)) {
+    console.log('webkit speech not supported');
+  } else {
+    var recognition = new webkitSpeechRecognition();
+
+    recognition.continuous = true;
+    recognition.interimResults = true;
+
+    recognition.onstart = function() {
+      console.log('Recognition did start...');
+    };
+
+    recognition.onresult = function(event) {
+      for (var i = event.resultIndex; i < event.results.length; ++i) {
+        if (event.results[i].isFinal) {
+          console.log('Final: ' + event.results[i][0].transcript);
+          document.querySelector('h1').innerHTML = event.results[i][0].transcript.toUpperCase();
+          doIt();
+          postIt(event.results[i][0].transcript.toUpperCase());
+        } else {
+          console.log('Interim: ' + event.results[i][0].transcript);
+          document.querySelector('h1').innerHTML = event.results[i][0].transcript.toUpperCase(); 
+        }
+      }
+    };
+
+    recognition.onerror = function(event) {
+      console.log('Recognition did error: ' + JSON.stringify(event));
+      recognition.start();
+    };
+
+    recognition.onend = function() {
+      console.log('Recognition did end.');
+      recognition.start();
+    };
+
+    recognition.lang = 'en-US';
+    recognition.start();
+
+  }
+};
+
+start();
+
+</script>
+</html>
+

@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<h1 id="configuring-an-openwrt-to-an-existing-wireless-network-serve-as-a-hotspot">Configuring an OpenWRT to an existing wireless network + serve as a hotspot</h1>
+<p>Starting from a vanilla openwrt.</p>
+<p>Following <a href="http://www.ediy.com.my/index.php/blog/item/110-setting-up-a-wireless-hotspot-using-tp-link-tl-mr3020-wireless-n-router">this tutorial on setting up a wireless hotspot</a>, I connected my laptop to the OpenWRT using an ethernet cable, set my wireless settings to Manual 192.168.1.10 / 255.255.255.0 and cleared the gateway &amp; DNS etc to be blank (Clearing the gateway setting is important if you don't want to interfere with your own wifi connection).</p>
+<p>Using the web interface, I navigated to Network -&gt; Wifi, and pressed the SCAN button to find my wifi network. Once found, I entered a password under Wireless Security and left all other options default. (The Network setting remains on wwan (empty)).</p>
+<p>After clicking &quot;Save &amp; Apply&quot;. I then tested the internet connection via the patch cable. In this case I needed to turn <em>off</em> my wifi connection and then add 192.168.1.1 as both gateway <em>and</em> DNS in my wired ethernet settings. (Without setting this, the connection was not working).</p>
+<p>Once confirmed that this was working, I returned to the web interface, returned to Network -&gt; Wifi and clicked ADD. Under ESSID, I changed the default &quot;OpenWrt&quot; to &quot;botnet&quot;. Ensured that the mode was set to &quot;Access Point&quot;, and selected &quot;lan&quot; as the network.</p>
+<p>After clicking &quot;Save &amp; Apply&quot;. I then cut off my wired connection and restarted my wifi, selecting the network &quot;botnet&quot;. After a bit of time, it joined the network and internet was working!</p>
+<p>NB: According to the original tutorial, what <em>is</em> important is to make sure that the OpenWRT network is not in the same subnet as the external wireless. So it might be better to use something less standard than 192.168.1.1 which may well be the subnet of a wireless network.</p>
+<p>A look at the resulting files:</p>
+<h2 id="etcconfignetwork">/etc/config/network</h2>
+<pre><code>config interface &#39;loopback&#39;
+      option ifname &#39;lo&#39;
+      option proto &#39;static&#39;
+      option ipaddr &#39;127.0.0.1&#39;
+      option netmask &#39;255.0.0.0&#39;
+
+config interface &#39;lan&#39;
+      option ifname &#39;eth0&#39;
+      option type &#39;bridge&#39;
+      option proto &#39;static&#39;
+      option ipaddr &#39;192.168.1.1&#39;
+      option netmask &#39;255.255.255.0&#39;
+
+config interface &#39;wwan&#39;
+      option proto &#39;dhcp&#39;</code></pre>
+<h2 id="etcconfigwireless">/etc/config/wireless</h2>
+<pre><code>config wifi-device &#39;radio0&#39;
+      option type &#39;mac80211&#39;
+      option macaddr &#39;e8:94:f6:ba:f6:74&#39;
+      option hwmode &#39;11ng&#39;
+      option htmode &#39;HT20&#39;
+      list ht_capab &#39;SHORT-GI-20&#39;
+      list ht_capab &#39;SHORT-GI-40&#39;
+      list ht_capab &#39;RX-STBC1&#39;
+      list ht_capab &#39;DSSS_CCK-40&#39;
+      option disabled &#39;0&#39;
+      option channel &#39;1&#39;
+      option txpower &#39;27&#39;
+      option country &#39;US&#39;
+
+config wifi-iface
+      option network &#39;wwan&#39;
+      option ssid &#39;Nam June Paik&#39;
+      option encryption &#39;psk2&#39;
+      option device &#39;radio0&#39;
+      option mode &#39;sta&#39;
+      option bssid &#39;08:96:D7:92:6F:64&#39;
+      option key &#39;CharlotteMoorman&#39;
+
+config wifi-iface
+      option device &#39;radio0&#39;
+      option mode &#39;ap&#39;
+      option encryption &#39;none&#39;
+      option ssid &#39;botnet&#39;
+      option network &#39;lan&#39;</code></pre>
+<p>As far as I know dhcp is still the factory settings...</p>
+<h2 id="etcconfigdhcp">/etc/config/dhcp</h2>
+<pre><code>config dnsmasq
+      option domainneeded     1
+      option boguspriv        1
+      option filterwin2k      0  # enable for dial on demand
+      option localise_queries 1
+      option rebind_protection 1  # disable if upstream must serve RFC1918 addresses
+      option rebind_localhost 1  # enable for RBL checking and similar services
+      #list rebind_domain example.lan  # whitelist RFC1918 responses for domains
+      option local    &#39;/lan/&#39;
+      option domain   &#39;lan&#39;
+      option expandhosts      1
+      option nonegcache       0
+      option authoritative    1
+      option readethers       1
+      option leasefile        &#39;/tmp/dhcp.leases&#39;
+      option resolvfile       &#39;/tmp/resolv.conf.auto&#39;
+      #list server            &#39;/mycompany.local/1.2.3.4&#39;
+      #option nonwildcard     1
+      #list interface         br-lan
+      #list notinterface      lo
+      #list bogusnxdomain     &#39;64.94.110.11&#39;
+
+config dhcp lan
+      option interface        lan
+      option start    100
+      option limit    150
+      option leasetime        12h
+
+config dhcp wan
+      option interface        wan
+      option ignore   1</code></pre>
+<h2 id="changing-network">Changing Network</h2>
+<p>In a new location, it's necessary to reset the settings to match the new wireless network.</p>
+<p>For some reason, it doesn't seem possible to change the settings, so instead I just use the web interface to drop the previous networks and then start again with Scan... for the new one, then add &quot;botnet&quot; as Access Point (on &quot;lan&quot;).</p>
+</body>
+</html>

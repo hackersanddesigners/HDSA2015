@@ -1,0 +1,2780 @@
+(08:13:13) automatist: test
+(08:13:16) virginia: "And what's all this
+(08:13:39) bat: hello
+(08:22:17) greetbot: good morning pipebot
+(08:22:43) greetbot: good morning pipebot
+(08:23:38) greetbot: good morning flami
+(08:24:47) greetbot: good morning jbgbot
+(08:29:18) greetbot: good morning monkbot
+(08:31:07) greetbot: good morning jbgbot
+(08:31:51) greetbot: good morning virginia
+(08:32:30) bat: hello
+(08:32:34) greetbot: good morning maaike
+(08:32:59) greetbot: good morning usbcharger
+(08:33:02) greetbot: good morning virginia
+(08:33:02) virginia: And next time Dr
+(08:33:09) greetbot: good morning maartjesmits
+(08:33:20) greetbot: good morning virginia
+(08:33:20) virginia: Only one person in the world could be as he
+(08:33:23) virginia: was, in love
+(08:33:40) virginia: Dr
+(08:33:40) greetbot: good morning virginia
+(08:33:47) greetbot: good morning eurico
+(08:34:17) greetbot: good morning jbgbot
+(08:34:20) greetbot: good morning virginia
+(08:34:20) virginia: Something was up, Mr
+(08:34:33) greetbot: good morning lucian
+(08:35:42) greetbot: good morning jbgbot
+(08:36:32) greetbot: good morning greetbot2
+(08:37:37) greetbot: good morning onions_83
+(08:39:58) greetbot: good morning greetbot2
+(08:40:09) automatist: something! is said
+(08:40:31) greetbot: good morning greetbot2
+(08:40:51) bat: helle all
+(08:41:19) bat: I can also type a very LARGE sentence
+(08:41:28) greetbot: good morning flami
+(08:41:30) greetbot: good morning iconoclast
+(08:42:57) greetbot: good morning king
+(08:47:40) greetbot: good morning mj
+(08:47:44) greetbot: good morning helbu
+(08:51:07) greetbot: good morning greetbot2
+(08:51:13) bat: how are you?
+(08:51:32) bat: every time someone says something it prints!
+(08:51:35) maaike: hi
+(08:51:42) bat: it prints my name
+(08:51:46) helbu: hello
+(08:51:51) bat: this bot is very polite
+(08:52:35) bat: set is an object in Python
+(08:52:41) greetbot: good morning m
+(08:52:48) bat: set allows you to remember a collection
+(08:53:12) bat: seen = set()
+(08:53:22) bat: is the way to define a set with a name/variable
+(08:53:39) bat: seen.add("PUNT")
+(08:53:53) bat: is the way to add an item to the set
+(08:54:32) bat: if we haven't greeted the person in the chat before, we greet it
+(08:54:36) bat: and only then!
+(08:54:54) bat: if nick not in greeted:
+(08:55:09) bat: print "good morning" + nick
+(08:55:18) bat: seen.add(nick)
+(08:55:41) bat: you can also use the list object for this
+(08:55:47) bat: greeted = []
+(08:55:55) bat: greeted.append(nick)
+(08:56:10) bat: list is a very much used object in Python
+(08:56:14) bat: set is more efficient
+(08:56:22) bat: (only takes unique elements)
+(08:56:51) bat: you can test the greeting bot in isolation
+(08:56:59) bat: python -u greetbot.py
+(08:57:15) bat: this gives an error when you type only 1 word
+(08:57:31) bat: because it looked for the 3rd element in the text
+(08:57:45) bat: so make sure you type at least 3 words
+(08:58:28) greetbot: good morning greetbot2
+(08:58:36) bat: it works! you can ad it in the pipeline
+(08:59:57) bat: first try to run it on your machine
+(09:00:08) bat: when it works you can try out the server
+(09:00:17) bat: essence of coding = debugging :-)
+(09:00:30) bat: a bug = a way to learn
+(09:01:20) bat: the pipeline is a nice way of writing with text in / text out
+(09:01:31) bat: another way of writing the same bot is using a Python class
+(09:01:39) bat: for people who are more used to programming
+(09:02:50) bat: it is selfcontained: you run 1 script, 1 command: python greetbot.py
+(09:05:43) bat: espeak is a program to do text-to-speech
+(09:05:52) bat: espeak "hello world"
+(09:06:09) bat: it is a commandline program
+(09:06:15) bat: no icon on your desktop :-)
+(09:07:25) bat: in your script, add: import os
+(09:08:04) greetbot: good morning greetbot2
+(09:08:13) bat: os.system('espeak "good morning nick"'
+(09:08:22) bat: os.system('espeak "good morning nick"')
+(09:08:42) bat: this says 'goodmorning nick'
+(09:08:53) bat: you need to make sure nick is understood as a variable
+(09:09:29) greetbot: good morning greetbot2
+(09:09:38) bat: hi bot
+(09:09:39) lucian: s
+(09:10:04) bat: msg = 'espeak "good morning" '+ nick + '"'
+(09:10:11) bat: os.system(msg)
+(09:10:53) bat: another way to write the same: 
+(09:11:20) bat: msg = 'espeak "goodmorning {0}"'.format(nick)
+(09:13:06) greetbot: good morning virginia
+(09:13:06) virginia: He opened
+(09:13:07) virginia: Shakespeare--Antony and Cleopatra; pushed Shakespeare aside
+(09:13:55) greetbot: good morning archibot
+(09:14:33) greetbot: good morning mj
+(09:21:56) greetbot: good morning iconoclast
+(09:26:50) greetbot: good morning mj
+(09:34:06) bat: BRAINSTORM?
+(09:34:40) iconoclast: identity crisis bot
+(09:35:46) greetbot: good morning mj_
+(09:35:55) greetbot: good morning maaike
+(09:36:31) automatist: anja thinking about a pop group that inverted gender of pop songs
+(09:36:38) automatist: stereo total
+(09:36:41) automatist: cover songs
+(09:36:49) m: anja mix, remix of voices, genders 
+(09:37:09) m: gives txt files and turn them around to see what happens 
+(09:37:14) automatist: gender mixing
+(09:37:29) m: Gender - render
+(09:37:30) automatist: she => he => she
+(09:37:36) m: =we
+(09:38:14) automatist: jeder mens ist ein kunstler?
+(09:38:24) automatist: connect to birth rate / death rate
+(09:38:26) bat: every time someone is born is the world
+(09:38:37) bat: every human 'is:was' an artist
+(09:41:09) helbu: http://www.worldometers.info/
+(09:42:11) automatist: question of anonymity in a chatroom
+(09:42:26) automatist: pose questions with intimacy
+(09:42:37) bat: acts as your subconscious
+(09:42:44) automatist: advice
+(09:42:51) greetbot: good morning maaike
+(09:43:01) automatist: could the bot relate to messages
+(09:43:07) automatist: or address a single person
+(09:43:17) automatist: play with "no one will see you"
+(09:43:44) automatist: could also work with timing
+(09:44:30) bat: snifferbot
+(09:44:34) automatist: james thirdbot sniffing the nework  and posting publically private messages
+(09:44:38) automatist: spam
+(09:45:03) automatist: desire to work with collected spam
+(09:47:03) automatist: working with translation?
+(09:47:19) automatist: translate select words
+(09:47:34) automatist: the word "hello" is THIS is my language
+(09:47:37) m: translate messages to ur own lan
+(09:48:09) automatist: connection to espeak as well
+(09:48:27) automatist: generative stories
+(09:48:34) automatist: based on fill-in-the-blank
+(09:48:36) m: remember a kid's game Give me a noun ...give me a verb
+(09:48:44) automatist: a bot that could respond to a question
+(09:48:52) automatist: nltk parts of speech parsing
+(09:48:55) m: etc... identify between nouns / verbs
+(09:49:03) greetbot: good morning maartjesmits
+(09:49:05) m: slightly uncorrect
+(09:49:12) m: mispoken ...
+(09:49:35) m: can, can ....can - confuse the comp.
+(09:49:45) greetbot: good morning eurico
+(09:49:56) automatist: maybe limit words on length, or frequence
+(09:49:57) automatist: y
+(09:50:14) automatist: working with text and different sources
+(09:50:30) automatist: manifestos from hackers & designers
+(09:50:49) automatist: replace words hacker => designer => hacker
+(09:51:11) automatist: conditional design manifesto
+(09:51:38) automatist: where the process of the design is more important than the result
+(09:51:53) automatist: De Stijl manifesto /
+(09:52:06) bat: Mondriaan 'taalmanifest'
+(09:52:11) automatist: older lyrical manifestos with more utopic messages of peace
+(09:52:14) maaike: First things first: http://maxb.home.xs4all.nl/ftf1964.htm
+(09:52:33) m: http://conditionaldesign.org/manifesto/
+(09:52:54) bat: imagebot
+(09:53:07) maaike: Futurists: http://bactra.org/T4PM/futurist-manifesto.html
+(09:53:34) bat: based on keywords, Google images
+(09:53:39) automatist: search images based on word and responds with image links
+(09:54:29) automatist: link with net radio to announce
+(09:54:47) automatist: desire to make a radio
+(09:54:59) automatist: djbot
+(09:55:08) maaike: Studio Brussel: “The next song will be…”
+(09:56:15) automatist: could combine with gender swap?
+(09:57:12) m: irc becomes transmiter 
+(09:57:31) m: audio stream liquidsoap ..a playlist of irc
+(09:57:42) m: it is rather complex ...but interesting 
+(09:58:19) m: irc radio ...responding to text 
+(09:58:51) m: a list of songs based on keywords will pick up a song
+(09:59:15) m: feed the txt not the sound 
+(09:59:16) automatist: work maybe with  a lyric database
+(09:59:34) automatist: this ismyjam -- website to search for a song based on part of a group name
+(09:59:42) bat: https://www.thisismyjam.com/
+(09:59:46) automatist: lastfm
+(10:00:10) eurico: https://www.thisismyjam.com/developers
+(10:00:31) automatist: haiku.nytimes.com
+(10:00:38) automatist: http://haiku.nytimes.com/
+(10:01:16) automatist: or limerick as a pattern?
+(10:01:17) maaike: or a limerick
+(10:01:42) automatist: how to count syllables
+(10:01:44) maaike: or an ollekebolleke :-)
+(10:02:38) bat: https://en.wikipedia.org/wiki/Limerick_%28poetry%29
+(10:03:09) bat: The form appeared in England in the early years of the 18th century.[4] It was popularized by Edward Lear in the 19th century,[5] although he did not use the term.
+(10:03:52) helbu: https://nl.wikipedia.org/wiki/Ollekebolleke_(dichtvorm)
+(10:04:00) helbu: an ode to drs P
+(10:05:30) automatist: link to physical world with arduino
+(10:05:42) helbu: https://goo.gl/2OKXeP
+(10:05:58) automatist: cars driving in relation to the chat
+(10:06:07) automatist: radio control
+(10:06:10) automatist: via arduino
+(10:06:54) helbu: https://goo.gl/ZsTxUZ
+(10:07:04) automatist: ... slap => slap with arduino
+(10:07:17) m: a physical dimension of the irc
+(10:07:36) automatist: projector hologram
+(10:07:43) m: vocal representation ...
+(10:07:48) automatist: virtual character
+(10:08:26) automatist: avatar
+(10:08:33) m: an avatar which reads and perform what everyone is saying 
+(10:09:04) automatist: map speech to images of a speaking mouth
+(10:09:23) maaike: https://en.wikipedia.org/wiki/Hatsune_Miku
+(10:10:57) automatist: capricciobot?
+(10:11:08) automatist: you can't do that (parent)
+(10:11:14) automatist: rebelbot
+(10:11:22) m: why ?
+(10:11:23) automatist: the age of "why"
+(10:11:42) automatist: adopt a word that is obsolete
+(10:11:44) m: generally parents trying to simplify lan 
+(10:11:57) automatist: lots of words with fascinating meanings are disappearing
+(10:12:02) m: the dict. is changing so much 
+(10:12:06) automatist: use this word repeatedly
+(10:12:08) m: rethink about the meaning 
+(10:12:16) m: A capritcho ???
+(10:12:46) automatist: bring back (with sound) some obsolete words
+(10:12:49) m: naughty 
+(10:13:03) automatist: rebirth of words
+(10:13:04) m: redundacy bot 
+(10:13:25) automatist: could they relate to the content of the chat?
+(10:13:36) automatist: (wordnet to connect via synonyms?)
+(10:13:41) m: the chat repeats the obsolete words so bring them back to live 
+(10:14:59) maaike: Maybe this list is available somewhere: http://www.theguardian.com/books/2011/aug/21/endangered-words-collins-dictionary
+(10:15:05) bat: nltk has a synonym library: wordset
+(10:15:13) m: different sets of words that brings another meaning  
+(10:15:28) bat: sorry, 'wordnet'
+(10:16:15) m: select a list of obsolete words
+(10:16:30) m: what is acceptable and what is NOT?
+(10:16:31) automatist: what consititutes the line of becoming annoying / spam
+(10:16:43) m: remains to Spam bot
+(10:16:55) m: writing couch 
+(10:17:07) maaike: Clippy
+(10:17:53) m: opps Writing Coach
+(10:18:10) automatist: concern with posture
+(10:18:26) automatist: measure machine to correct your computer posture
+(10:19:52) automatist: use a distance sensor to detect posture problems
+(10:20:07) automatist: or connect circuits in the chair
+(10:20:28) m: track the distance from where u are sitting and ur laptop
+(10:21:18) m: using camera ... look for sthg existing 
+(10:23:35) automatist: detecting presence (via phone or wifi?)
+(10:24:25) m: internet of things 
+(10:24:42) bat: connect to the router
+(10:24:47) m: control ur kithen items and control them remotly
+(10:24:52) bat: when a new device enters the network, do something
+(10:25:16) bat: give a welcoming mssage
+(10:25:35) bat: physical joining of the 'botnet' network
+(10:25:53) bat: wifi as a detector of presence
+(10:26:19) automatist: speak people's device names when they join wifi
+(10:26:38) m: http://192.168.10.1/cgi-bin --Access to this resource is forbidden 
+(10:26:59) greetbot: good morning helbu_
+(10:27:10) automatist: pipeline potentiality
+(10:27:28) automatist: piping espeak with figlet
+(10:27:35) m: pipe espeak with figlet ...etc.
+(10:27:41) automatist: strip makes me think comic strip
+(10:27:41) m: comics strip
+(10:27:51) automatist: IRC as a graphical environment
+(10:27:53) m: irc as a graphical env
+(10:27:57) automatist: WOOOW
+(10:28:02) automatist: BLAAAAAM
+(10:28:07) m: niceeeeee
+(10:28:13) m: WOW effect!
+(10:28:14) bat: eeeeeeeeeeeeeeeeeeeeeeek
+(10:28:20) maaike: ZOOOOMMMM
+(10:28:57) automatist: working with ana kavan texts, 
+(10:28:59) m: + Who are u? '
+(10:29:12) automatist: a persistent bird call
+(10:29:15) m: A bird call repeating Who are u
+(10:29:34) m: visual - sound related to text
+(10:29:47) automatist: bridging physical sound with the visual ...
+(10:29:49) bat: goodreads.com/book/show/761586.Who_Are_You_
+(10:30:04) automatist: bring sound + image + text together
+(10:30:12) bat: using figlet?
+(10:30:40) m: the big puzzle is to how to fit them together ? - M.
+(10:30:59) m: make groups ...
+(10:32:33) m: at the end is to mix everything together 
+(10:34:19) greetbot: good morning mj
+(10:34:23) greetbot: good morning archibot
+(10:34:40) onions_83: Anja: gender swap (singing) bot 
+(10:35:01) helbu: Joseph Bot: Jeder Mensch ist/war ein Künstler
+(10:35:22) mj: Memebot, translating a previous message into a meme.
+(10:35:30) lucian: GrumpyGrandpaBot: Tells a story somewhat related to what you say, by taking key nouns and placing them into a “make your own story” thing
+(10:35:53) maartjesmits: awkwardbot asking intimate questions and commenting you as your subconcious
+(10:36:05) maaike: RealworldBot: I would like to make an Arduino-based bot that makes “something” physical happen in response to certain events in the chat. Or the other way round: say something in the chat based on something happening IRL.
+(10:36:24) iconoclast: summer academy workshop haiku: recording audio excerpts from every workshop and turn them into haikus, summarizing our daily activities with incomprehensible poetry
+(10:36:40) lucian: ProverBot: takes a random chinese proverb (or any other proverb that matter) and mixes up a word from the previously sent message, to create a mashup of a well known proverb.
+(10:38:01) eurico: VocaloidBot: Sings and performs live IRC messages
+(10:38:10) usbcharger: RadioBot
+(10:39:04) archibot: Catherine: Comic strip Bot (espeak|figlet|txt) applied to the chat and/or applied to a specific sonorous lit txt with a repeating birdcall > Brainfeverbot
+(10:39:38) flami: capriccio word bot: \\// (advent of technologies, up-do-date dictionaries\\ obsolete words) this bot aims to avoid archaic words to swept into the semantic dustbin >>>Bring some of them back to life by creating a redundant audio bot which repeats selected archaic words and explains their meaning 
+(10:40:22) nani: hello 
+(10:41:30) m: TheManifest Bot - [m] - michaela 
+(10:41:30) m: A bot that combines several different text sources based on selected Art/Design manifestos (De Stijl, Conditional design, etc.) and hackers Act, etc
+(10:41:33) m: It blends them together replacing keywords such as 'hacker' with 'artist'/'designer', questioning the notion of reversed roles, processes and common grounds. 
+(10:43:04) king: "sit up straight bot": sit up straight extend your live. a measure machine measure the distance between your body and the computer in intervals. If you get more and more ducked the bot realize this an place a warning. (also other technologys  than measering are possible)
+(10:50:41) maaike: GraphicBot: using a remote controlled car with a pen, will make a drawing based on the activity in the chatroom over time
+(11:10:36) iconoclast: oh noez :’(
+(11:10:37) iconoclast: http://nos.nl/artikel/2049943-liftende-robot-in-elkaar-geslagen.html
+(11:56:36) spam:  textpad we can use: http://piratepad.nl/nRPV9Wamk9
+(12:04:11) jackalbot: I'll start typing a message and the bots can react
+(12:04:52) jackalbot: what's happening here?
+(12:05:00) query: 				jackalbot, have you lied today?
+(12:05:08) jackalbot: no, not yet
+(12:05:12) jackalbot: is that wrong?
+(12:05:19) The: who am I/
+(12:05:29) query: jackalbot you know that’s not true 
+(12:06:11) jackalbot: what do you understand by lying then?
+(12:06:27) Manifester:  I am a hacker, and this is my manifesto.  You may stop this individual,
+(12:06:28) Manifester: but you can't stop us all... after all, we're all alike.
+(12:06:31) gender_swap_bot: Make it hot... then we drop it
+(12:07:07) randomuser: how do you wan tot use your bot?
+(12:07:10) Manifester: The most important aspects of a process are time, relationship and change...
+(12:07:12) randomuser: want to
+(12:07:20) randomuser: http://piratepad.nl/nRPV9Wamk9
+(12:07:24) Manifester: Design conditions using intelligible rules.
+(12:07:35) Manifester: hacking conditions using intelligible rules.
+(12:08:20) Manifester: Avoid arbitrary randomness.
+(12:08:23) randomuser: what rules does it use, Manifester?
+(12:08:26) gender_swap_bot: I'm gonna call you Big Daddy and scream your name
+(12:08:37) randomuser: oooooooooooh nooooooooooooooooooooooooooooooooooooooooooooo
+(12:08:46) jbg: Hello
+(12:08:46) randomuser: it is a hot day
+(12:09:09) gender_swap_bot: How a big girl like it Daddy?
+(12:09:45) query: eurico think of what your face looks like when you reach an orgasm.
+(12:09:45) query: now, make that face
+(12:09:53) Manifester: I am a Hacker, enter my world....
+(12:09:58) Manifester: Mine is a world that begins with school... I'm smarter than most
+(12:10:04) Manifester: of the other kids, this crap they teach us bores me...
+(12:10:05) BrainfeverBot: All day long, in the tamarinds behind the house, a
+(12:10:05) BrainfeverBot: tropical bird keeps repeating its monotonous cry, which
+(12:10:05) BrainfeverBot: consists of the same three inquiring notes.
+(12:10:14) Manifester: I am designer, enter my world
+(12:10:31) BrainfeverBot: Who-are-you? Who-are-you? Who-are-you?
+(12:10:40) query: Manifester, sometimes it can feel like nobody is hearing you, that’s okay, I’m here for you
+(12:10:43) gender_swap_bot: And boys they wanna have fun
+(12:11:02) BrainfeverBot: Loud, ﬂat, harsh and piercing, the repetitive cry bores its way through the ear-drums with the exasperating persistence of a machine that can’t be switched off.
+(12:11:19) Manifester: Yes, I am a crimial. My crime is that of curiosity. My crime is
+(12:11:19) Manifester: that of judging people by what they say and think, not what they look
+(12:11:19) Manifester: like. My crime is that of outsmarting you, something you will never
+(12:11:19) Manifester: forgive me for.
+(12:11:29) randomuser: https://www.youtube.com/watch?v=8aNAGDPidPw
+(12:12:42) BrainfeverBot: All day long, in the tamarinds behind the house, a tropical bird keeps repeating its monotonous cry, which consists of the same three inquiring notes.
+(12:12:52) BrainfeverBot: Who-are-you? Who-are-you? Who-are-you?
+(12:13:03) BrainfeverBot: Loud, ﬂat, harsh and piercing, the repetitive cry bores its way through the ear-drums with the exasperating persistence of a machine that can’t be switched off.
+(12:13:05) randomuser: was the bird male or female Brainfeverbot?
+(12:13:30) BrainfeverBot: @randomuser : Who-are-you? Who-are-you? Who-are-you?
+(12:13:33) gender_swap_bot: Some boys take a beautiful girl
+(12:13:47) BrainfeverBot: All day long, in the tamarinds behind the house, a tropical bird keeps repeating its monotonous cry, which consists of the same three inquiring notes.
+(12:13:49) randomuser: @Brainfeverbot: I am number 23458765 in the list
+(12:13:59) BrainfeverBot: Loud, ﬂat, harsh and piercing, the repetitive cry bores its way through the ear-drums with the exasperating persistence of a machine that can’t be switched off.
+(12:14:08) BrainfeverBot: All day long, in the tamarinds behind the house, a tropical bird keeps repeating its monotonous cry, which consists of the same three inquiring notes.
+(12:14:46) Manifester: struggling finding sources about hacking if someone has any ideas????
+(12:14:55) BrainfeverBot: An identical cry echoes it from further away, calling out the same unanswered question, which is transmitted to other birds of the same species, until hundreds or thousands of them are shouting it all together. 
+(12:15:06) BrainfeverBot: The ceaseless cries come from all distances and directions,from everywhere at once.
+(12:15:24) BrainfeverBot: An identical cry echoes it from further away, calling out the same unanswered question, which is transmitted to other birds of the same species, until hundreds or thousands of them are shouting it all together. 
+(12:15:28) Manifester: 02. Whatever code we hack, be it programming language, poetic language, math or music,
+(12:15:31) Manifester: curves or colourings, we create the possibility of new things entering the world. Not always
+(12:15:35) BrainfeverBot: The ceaseless cries come from all distances and directions,from everywhere at once.
+(12:15:36) Manifester: great things, or even good things, but new things. 
+(12:20:32) capriccio: monsterful: Wonderful and extraordinary.
+(12:20:33) capriccio: Origin: 1810s
+(12:20:33) capriccio: As in: The Breaking Bad finale was every bit as monsterful as I’d hoped.
+(12:21:33) query: http://www.huffingtonpost.com/2013/04/11/swedish-gender-neutral-pronoun-hen-national-encyclopedia_n_3063293.html
+(12:24:14) randomuser: hey cappriccio, what are you reacting upon?
+(12:24:35) randomuser: Manifester, do you have a protocol for when you publish ideas?
+(12:25:46) capriccio: i am a rebel\\ I am reacting upon semantic laziness 
+(12:25:59) capriccio: does it make sense to you randomuser? 
+(12:25:59) randomuser: what is 'semantic laziness'?
+(12:27:03) Manifester:  Design
+(12:27:03) Manifester: is taken out of its limited mandate of professional operations, and is
+(12:27:03) Manifester: brought into the realm of imagination, possibility and contradiction. 
+(12:27:09) capriccio: people affected by this semantic disease suffer of laziness in researching and using words which are not anymore common in every day life 
+(12:27:21) capriccio: so I am try to save some of them from oblivion 
+(12:27:26) capriccio: *I am trying 
+(12:27:28) Manifester: Hacking is taken out of its limited mandate of professional operations, and is brought into the realm of imagination, possibility and contradiction. 
+(12:30:48) prince: translating from english to arabic
+(12:34:37) jbg: Hello
+(12:36:37) jbg: Hello
+(12:37:05) jbg: Hello
+(12:38:17) jbg: Hello
+(12:39:51) jbg: Hello
+(12:40:50) jbg: Hello
+(12:48:23) nani: Nabieh - translater bot 
+(12:48:24) nani: My bot will translating from English to Arabic 
+(12:48:24) nani: do what do like to like what you .
+(12:48:25) nani: learning is not free of the life.
+(12:48:25) nani: boys take a beautiful girls.
+(12:48:25) nani: all day long.
+(12:48:27) nani: great things . new things.
+(12:48:27) nani: im trying .
+(12:48:27) virginia: (They were waiting to bring the coffee until Mr
+(12:48:29) nani: try to save someone of them from oblivion.
+(12:48:29) nani: meaning in Arabic:
+(12:48:31) nani: ماذا تريد أن تفعل مثل ما كنت
+(12:48:31) nani: التعلم لا يخلو من الحياة.
+(12:48:33) nani: الأولاد تأخذ الفتيات الجميلات.
+(12:48:33) nani: طوال اليوم.
+(12:48:35) nani: أشياء عظيمة. اشياء جديدة.
+(12:48:35) nani: في محاولة.
+(12:48:37) nani: محاولة لإنقاذ شخص منهم من النسيان.
+(12:48:37) nani: there is some of ur words in the chat had translated them to Arabic
+(12:49:03) spam: hey nani, great!
+(12:49:20) spam: how do we know which English word corresponds to the Arab word?
+(12:51:00) prince: thx spam
+(12:52:47) maartjesmits: are you insecure? 
+(12:53:01) prince: u can see that line by line 
+(12:53:19) query: are you insecure? 
+(12:54:29) spam: @prince: but I don't know what the arab words mean
+(12:54:42) spam: I can see them but I don't understand them....
+(12:55:33) prince: ok will make it more clear spam 
+(12:58:48) prince: do what do like to like what you    ماذا تريد أن تفعل مثل ما كنت such this is working 
+(12:59:57) prince: guys take a beautiful girls الأولاد تأخذ الفتيات الجميلات.
+(13:02:22) prince: All day long, in the tamarinds behind the house, a tropical bird keeps repeating its monotonous cry, which consists of the same three inquiring notes.
+(13:02:23) prince:  وال اليوم، في تمور الهند خلف المنزل، والطيور الاستوائية وتبقي تكرار صرخة الرتيب، الذي يتكون من نفس المذكرات الثلاث تستفسر. @brainfeverbot
+(13:08:14) jbg: Hello
+(13:08:43) king: hello
+(13:09:06) prince: i enjoy 
+(13:11:13) prince: مرحبا hello Marhba 
+(13:12:49) prince: enjoy  Astamta
+(13:15:22) Manifester: mooi
+(13:17:15) king: http://www.fastcompany.com/3021985/work-smart/the-science-of-posture-why-sitting-up-straight-makes-you-happier-and-more-product
+(13:17:29) Manifester: for An text ->
+(13:17:31) Manifester: 
+(13:17:40) king: greets from the sit-up-straight-office
+(13:18:00) Manifester: cd m/manifestoTxt/
+(13:18:12) prince: mööi is Gamiel
+(13:18:53) Manifester: the files are HackersManifesto.txt and Metaheavenmanifesto.txt 
+(13:23:13) prince: hello(Marhba)
+(13:56:20) maaike_: hi?
+(14:09:44) mj: join
+(14:11:31) nani:  lets go
+(14:16:11) helbu: blaam
+(14:16:32) helbu: hello
+(14:17:34) prince: blaam means (Laoom)
+(14:46:10) mj: hyb
+(14:54:44) Joseph_Bot: 5 menschen sind Kunstler
+(14:54:44) Joseph_Bot: 2 menschen war Kunstler
+(14:54:44) Joseph_Bot: 47 menschen sind Kunstler
+(14:54:44) Joseph_Bot: 20 menschen war Kunstler
+(14:54:44) Joseph_Bot: 90 menschen sind Kunstler
+(14:54:44) Joseph_Bot: 37 menschen war Kunstler
+(14:55:58) nani: hi
+(14:55:59) Joseph_Bot: 5 menschen sind Kunstler
+(14:55:59) Joseph_Bot: 2 menschen war Kunstler
+(14:56:07) Joseph_Bot: 47 menschen sind Kunstler
+(14:56:07) Joseph_Bot: 20 menschen war Kunstler
+(14:56:08) lucian: whos bots are working so far?
+(14:56:17) Joseph_Bot: 90 menschen sind Kunstler
+(14:56:17) Joseph_Bot: 37 menschen war Kunstler
+(14:56:27) Joseph_Bot: 132 menschen sind Kunstler
+(14:56:27) Joseph_Bot: 55 menschen war Kunstler
+(14:56:32) prince: hi everyone
+(14:56:37) Joseph_Bot: 175 menschen sind Kunstler
+(14:56:37) Joseph_Bot: 72 menschen war Kunstler
+(14:57:20) Joseph_Bot: 5 menschen sind Kunstler
+(14:57:20) Joseph_Bot: 2 menschen war Kunstler
+(14:57:48) Joseph_Bot: 132 menschen sind Kunstler
+(14:57:48) Joseph_Bot: 55 menschen war Kunstler
+(14:59:33) Joseph_Bot: 5 menschen sind Kunstler
+(14:59:33) Joseph_Bot: 2 menschen war Kunstler
+(15:00:01) Joseph_Bot: 132 menschen sind Kunstler
+(15:00:01) Joseph_Bot: 55 menschen war Kunstler
+(15:00:31) Joseph_Bot: 260 menschen sind Kunstler
+(15:00:31) Joseph_Bot: 107 menschen war Kunstler
+(15:01:15) lucian: asdflkhasdfoih
+(15:01:15) dictionaryBot: asdflkhasdfoih
+(15:01:15) dictionaryBot: ['asdflkhasdfoih']
+(15:01:16) dictionaryBot: no match
+(15:01:30) lucian: how are you
+(15:01:30) dictionaryBot: how are you
+(15:01:30) dictionaryBot: ['how', 'are', 'you']
+(15:01:30) dictionaryBot: ('match ', 'Such fools\nwe are, she thought, crossing Victoria Street')
+(15:01:30) dictionaryBot: ('match ', 'And everywhere, though it was still so\nearly, there was a beating, a stirring of galloping ponies, tapping\nof cricket bats; Lords, Ascot, Ranelagh and all the rest of it;\nwrapped in the soft mesh of the grey-blue morning air, which, as\nthe day wore on, would unwind them, and set down on their lawns and\npitches the bouncing ponies, whose forefeet just struck the ground\nand up they
+(15:01:30) dictionaryBot:  sprung, the whirling young men, and laughing girls in\ntheir transparent muslins who, even now, after dancing all night,\nwere taking their absurd woolly dogs for a run; and even now, at\nthis hour, discreet old dowagers were shooting out in their motor\ncars on errands of mystery; and the shopkeepers were fidgeting in\ntheir windows with their paste and diamonds, their lovely old sea-\ngreen bro
+(15:02:04) lucian: the rain in spain falls gently on the plain
+(15:02:04) dictionaryBot: the rain in spain falls gently on the plain
+(15:02:04) dictionaryBot: ['gently']
+(15:02:04) dictionaryBot: ('match ', '\n\nAnd as she began to go with Miss Pym from jar to jar, choosing,\nnonsense, nonsense, she said to herself, more and more gently, as\nif this beauty, this scent, this colour, and Miss Pym liking her,\ntrusting her, were a wave which she let flow over her and surmount\nthat hatred, that monster, surmount it all; and it lifted her up\nand up when--oh')
+(15:02:04) dictionaryBot: ('match ', 'And Maisie Johnson, as she joined that gently\ntrudging, vaguely gazing, breeze-kissed company--squirrels perching\nand preening, sparrow fountains fluttering for crumbs, dogs busy\nwith the railings, busy with each other, while the soft warm air\nwashed over them and lent to the fixed unsurprised gaze with which\nthey received life something whimsical and mollified--Maisie\nJohnson po
+(15:02:04) dictionaryBot: sitively felt she must cry Oh')
+(15:02:05) dictionaryBot: ('match ', "But she feared time itself, and read on Lady\nBruton's face, as if it had been a dial cut in impassive stone, the\ndwindling of life; how year by year her share was sliced; how little\nthe margin that remained was capable any longer of stretching, of\nabsorbing, as in the youthful years, the colours, salts, tones of\nexistence, so that she filled the room she entered, and felt often\na
+(15:02:05) dictionaryBot: s she stood hesitating one moment on the threshold of her drawing-\nroom, an exquisite suspense, such as might stay a diver before\nplunging while the sea darkens and brightens beneath him, and the\nwaves which threaten to break, but only gently split their surface,\nroll and conceal and encrust as they just turn over the weeds with\npearl")
+(15:02:07) dictionaryBot: ('match ', 'Lying awake, the floor creaked; the lit\nhouse was suddenly darkened, and if she raised her head she could\njust hear the click of the handle released as gently as possible by\nRichard, who slipped upstairs in his socks and then, as often as\nnot, dropped his hot-water bottle and swore')
+(15:02:07) dictionaryBot: ('match ', 'Clarissa, plunging her\nhand into the softness, gently detached the green dress and carried\nit to the window')
+(15:02:09) dictionaryBot: ('match ', 'But the passage of ages had\nblurred the clarity of that ancient May day; the bright petalled\nflowers were hoar and silver frosted; and she no longer saw, when\nshe implored him (as she did now quite clearly) "look in my eyes\nwith thy sweet eyes intently," she no longer saw brown eyes, black\nwhiskers or sunburnt face but only a looming shape, a shadow shape,\nto which, with the bird
+(15:02:09) dictionaryBot: -like freshness of the very aged she still\ntwittered "give me your hand and let me press it gently" (Peter\nWalsh couldn\'t help giving the poor creature a coin as he stepped\ninto his taxi), "and if some one should see, what matter they')
+(15:02:11) dictionaryBot: ('match ', 'He could reason; he could read, Dante for example, quite\neasily ("Septimus, do put down your book," said Rezia, gently\nshutting the Inferno), he could add up his bill; his brain was\nperfect; it must be the fault of the world then--that he could not\nfeel')
+(15:02:11) dictionaryBot: ('match ', '\n\nAnd so there began a soundless and exquisite passing to and fro\nthrough swing doors of aproned white-capped maids, handmaidens not\nof necessity, but adepts in a mystery or grand deception practised\nby hostesses in Mayfair from one-thirty to two, when, with a wave\nof the hand, the traffic ceases, and there rises instead this\nprofound illusion in the first place about the food--
+(15:02:13) dictionaryBot: how it is not\npaid for; and then that the table spreads itself voluntarily with\nglass and silver, little mats, saucers of red fruit; films of brown\ncream mask turbot; in casseroles severed chickens swim; coloured,\nundomestic, the fire burns; and with the wine and the coffee (not\npaid for) rise jocund visions before musing eyes; gently\nspeculative eyes; eyes to whom life appears musical, myst
+(15:02:13) dictionaryBot: erious;\neyes now kindled to observe genially the beauty of the red\ncarnations which Lady Bruton (whose movements were always angular)\nhad laid beside her plate, so that Hugh Whitbread, feeling at peace\nwith the entire universe and at the same time completely sure of\nhis standing, said, resting his fork,\n\n"Wouldn\'t they look charming against your lace')
+(15:02:15) dictionaryBot: But the passage of ages had
+(15:02:15) dictionaryBot: blurred the clarity of that ancient May day; the bright petalled
+(15:02:17) dictionaryBot: flowers were hoar and silver frosted; and she no longer saw, when
+(15:02:17) dictionaryBot: she implored him (as she did now quite clearly) "look in my eyes
+(15:02:19) dictionaryBot: with thy sweet eyes intently," she no longer saw brown eyes, black
+(15:02:20) dictionaryBot: whiskers or sunburnt face but only a looming shape, a shadow shape,
+(15:02:21) dictionaryBot: to which, with the bird-like freshness of the very aged she still
+(15:02:21) dictionaryBot: twittered "give me your hand and let me press it gently" (Peter
+(15:02:23) dictionaryBot: Walsh couldn't help giving the poor creature a coin as he stepped
+(15:02:23) dictionaryBot: into his taxi), "and if some one should see, what matter they
+(15:03:38) lucian: barap burum
+(15:03:38) dictionaryBot: barap burum
+(15:03:38) dictionaryBot: ['barap', 'burum']
+(15:03:39) dictionaryBot: no match
+(15:03:46) lucian: what are you good for?
+(15:03:46) dictionaryBot: what are you good for?
+(15:03:46) dictionaryBot: ['what', 'good', 'for?']
+(15:04:03) lucian: not printing now hey?
+(15:04:03) dictionaryBot: not printing now hey?
+(15:04:03) dictionaryBot: ['printing']
+(15:04:03) dictionaryBot: no match
+(15:04:12) lucian: ah. okay
+(15:04:12) dictionaryBot: ah. okay
+(15:04:12) dictionaryBot: ['okay']
+(15:05:01) lucian: and now brown cow?
+(15:05:02) dictionaryBot: Milly Brush saw that; saw a depth in the
+(15:05:02) dictionaryBot: brown of his eyes; saw him hesitate; consider; which interested
+(15:05:02) dictionaryBot: her, as Mr
+(15:05:24) lucian: not even a complete sentence you freak
+(15:05:24) dictionaryBot: her
+(15:05:24) dictionaryBot: sentence bubbled away drip, drip, drip, like a contented tap left
+(15:05:24) dictionaryBot: running
+(15:05:35) lucian: thats better
+(15:05:36) dictionaryBot: Beneath, she was
+(15:05:36) dictionaryBot: very shrewd--a far better judge of character than Sally, for
+(15:05:36) dictionaryBot: instance, and with it all, purely feminine; with that extraordinary
+(15:05:36) dictionaryBot: gift, that woman's gift, of making a world of her own wherever she
+(15:05:36) dictionaryBot: happened to be
+(15:07:04) Joseph_Bot: 5 menschen sind Kunstler
+(15:07:04) Joseph_Bot: 2 menschen war Kunstler
+(15:07:36) Joseph_Bot: 132 menschen sind Kunstler
+(15:07:37) Joseph_Bot: 55 menschen war Kunstler
+(15:08:11) lucian: boop bop bibidy
+(15:08:11) dictionaryBot: no match
+(15:08:23) lucian: big words
+(15:08:23) dictionaryBot: the
+(15:08:23) dictionaryBot: whole house was dark now with this going on, she repeated, and the
+(15:08:23) dictionaryBot: words came to her, Fear no more the heat of the sun
+(15:08:34) lucian: small words
+(15:08:35) dictionaryBot: Turning her large
+(15:08:35) dictionaryBot: gooseberry-coloured eyes upon Clarissa, observing her small pink
+(15:08:35) dictionaryBot: face, her delicate body, her air of freshness and fashion, Miss
+(15:08:35) dictionaryBot: Kilman felt, Fool
+(15:08:47) lucian: foolish
+(15:08:47) dictionaryBot: It held, foolish as the idea was, something of her own in it, this
+(15:08:47) dictionaryBot: country sky, this sky above Westminster
+(15:08:59) lucian: jettison
+(15:09:00) dictionaryBot: no match
+(15:09:06) lucian: flame
+(15:09:07) dictionaryBot: The world wavered and
+(15:09:07) dictionaryBot: quivered and threatened to burst into flames
+(15:09:07) mj: Melon
+(15:09:08) dictionaryBot: no match
+(15:09:22) lucian: tea
+(15:09:22) dictionaryBot: Warren Smith," he said, "where we will teach
+(15:09:22) dictionaryBot: you to rest
+(15:09:41) mj: Coffee
+(15:09:41) dictionaryBot: no match
+(15:09:52) mj: Smoke
+(15:09:52) dictionaryBot: no match
+(15:09:59) lucian: didn’t have coffee back then
+(15:10:00) dictionaryBot: no match
+(15:10:44) Joseph_Bot: 5 menschen sind Kunstler
+(15:10:44) Joseph_Bot: 2 menschen war Kunstler
+(15:11:16) Joseph_Bot: 132 menschen sind Kunstler
+(15:11:16) Joseph_Bot: 55 menschen war Kunstler
+(15:11:53) Joseph_Bot: 260 menschen sind Kunstler
+(15:11:53) Joseph_Bot: 107 menschen war Kunstler
+(15:12:28) Joseph_Bot: 387 menschen sind Kunstler
+(15:12:28) Joseph_Bot: 160 menschen war Kunstler
+(15:13:05) Joseph_Bot: 515 menschen sind Kunstler
+(15:13:05) Joseph_Bot: 212 menschen war Kunstler
+(15:13:41) Joseph_Bot: 642 menschen sind Kunstler
+(15:13:41) Joseph_Bot: 265 menschen war Kunstler
+(15:14:18) Joseph_Bot: 770 menschen sind Kunstler
+(15:14:18) Joseph_Bot: 317 menschen war Kunstler
+(15:14:39) lucian: can you define anything?
+(15:14:54) Joseph_Bot: 897 menschen sind Kunstler
+(15:14:54) Joseph_Bot: 370 menschen war Kunstler
+(15:15:09) dictionaryBot: no match
+(15:15:24) lucian: you are gonna have to be quicker than that mr bot
+(15:15:31) Joseph_Bot: 1025 menschen sind Kunstler
+(15:15:31) Joseph_Bot: 422 menschen war Kunstler
+(15:15:38) dictionaryBot: no match
+(15:16:06) dictionaryBot: no match
+(15:16:08) Joseph_Bot: 1152 menschen sind Kunstler
+(15:16:08) Joseph_Bot: 475 menschen war Kunstler
+(15:16:09) lucian: yeah… I guess you are not familiar with the word kunstler. try familiarisation
+(15:16:36) dictionaryBot: A quicker and rougher remedy
+(15:16:47) Joseph_Bot: 1280 menschen sind Kunstler
+(15:16:47) Joseph_Bot: 527 menschen war Kunstler
+(15:17:03) lucian: damn, that is slow. I’m assuming that is a definition for quicker, eh bot?
+(15:17:05) dictionaryBot: no match
+(15:17:24) Joseph_Bot: 1407 menschen sind Kunstler
+(15:17:24) Joseph_Bot: 580 menschen war Kunstler
+(15:17:34) dictionaryBot: no match
+(15:18:01) dictionaryBot: no match
+(15:18:01) Joseph_Bot: 1535 menschen sind Kunstler
+(15:18:01) Joseph_Bot: 632 menschen war Kunstler
+(15:18:30) dictionaryBot: no match
+(15:18:39) Joseph_Bot: 1662 menschen sind Kunstler
+(15:18:39) Joseph_Bot: 685 menschen war Kunstler
+(15:19:17) Joseph_Bot: 1790 menschen sind Kunstler
+(15:19:18) Joseph_Bot: 737 menschen war Kunstler
+(15:19:18) dictionaryBot: ['menschen', 'Kunstler']
+(15:19:47) dictionaryBot: no match
+(15:19:47) dictionaryBot: ['menschen', 'Kunstler']
+(15:19:55) Joseph_Bot: 1917 menschen sind Kunstler
+(15:19:55) Joseph_Bot: 790 menschen war Kunstler
+(15:20:18) dictionaryBot: no match
+(15:20:18) dictionaryBot: ['menschen', 'Kunstler']
+(15:20:21) Joseph_Bot: 5 menschen sind Kunstler
+(15:20:21) Joseph_Bot: 2 menschen war Kunstler
+(15:20:45) Joseph_Bot: 42 menschen war Kunstler
+(15:20:49) dictionaryBot: no match
+(15:20:49) dictionaryBot: ['menschen', 'Kunstler']
+(15:20:55) Joseph_Bot: 132 menschen sind Kunstler
+(15:21:15) Joseph_Bot: 83 menschen war Kunstler
+(15:21:19) dictionaryBot: no match
+(15:21:19) dictionaryBot: ['menschen', 'Kunstler']
+(15:21:21) lucian: hello
+(15:21:32) Joseph_Bot: 260 menschen sind Kunstler
+(15:21:49) Joseph_Bot: 5 menschen sind Kunstler
+(15:21:49) Joseph_Bot: 2 menschen war Kunstler
+(15:21:50) dictionaryBot: no match
+(15:21:50) dictionaryBot: ['menschen', 'Kunstler']
+(15:22:06) lucian: poor dictionary bot
+(15:22:14) lucian: can’t google search
+(15:22:19) dictionaryBot: no match
+(15:22:19) dictionaryBot: ['menschen', 'Kunstler']
+(15:22:30) lucian: and doens’t speak anything that isn’t in websters dictionary
+(15:22:31) Joseph_Bot: 183 menschen sind Kunstler
+(15:22:32) helbu: no match
+(15:22:46) Joseph_Bot: 95 menschen war Kunstler
+(15:22:49) dictionaryBot: no match
+(15:22:49) dictionaryBot: ['menschen', 'Kunstler']
+(15:23:18) dictionaryBot: no match
+(15:23:18) dictionaryBot: ['menschen', 'Kunstler']
+(15:23:20) Joseph_Bot: 362 menschen sind Kunstler
+(15:23:25) mj: Love
+(15:23:46) Joseph_Bot: 188 menschen war Kunstler
+(15:23:47) dictionaryBot: no match
+(15:23:47) dictionaryBot: ['hello']
+(15:23:59) lucian: YAY!
+(15:24:09) Joseph_Bot: 540 menschen sind Kunstler
+(15:24:16) dictionaryBot: Phellos
+(15:24:16) dictionaryBot: ['menschen', 'Kunstler']
+(15:24:22) lucian: Phellos?
+(15:24:44) dictionaryBot: no match
+(15:24:44) dictionaryBot: ['menschen', 'Kunstler']
+(15:24:45) lucian: Phellos?
+(15:24:46) Joseph_Bot: 280 menschen war Kunstler
+(15:24:51) lucian: sadijadis ;laeio ;ijor ;loesv
+(15:24:58) Joseph_Bot: 719 menschen sind Kunstler
+(15:25:14) dictionaryBot: no match
+(15:25:14) dictionaryBot: ['menschen', 'Kunstler']
+(15:25:15) lucian: Phellos?
+(15:25:16) lucian: Phellos?
+(15:25:16) lucian: Phellos?
+(15:25:17) lucian: Phellos?
+(15:25:18) lucian: Phellos?
+(15:25:19) lucian: Phellos?
+(15:25:20) lucian: Phellos?
+(15:25:21) lucian: Phellos?
+(15:25:23) lucian: Phellos?
+(15:25:24) lucian: Phellos?
+(15:25:26) lucian: Phellos?
+(15:25:27) lucian: Phellos?
+(15:25:29) lucian: Phellos?
+(15:25:30) lucian: Phellos?
+(15:25:32) lucian: Phellos?
+(15:25:33) lucian: Phellos?
+(15:25:35) lucian: Phellos?
+(15:25:36) helbu: hello
+(15:25:36) lucian: Phellos?
+(15:25:38) lucian: Phellos?
+(15:25:40) lucian: Phellos?
+(15:25:41) lucian: Phellos?
+(15:25:43) lucian: Phellos?
+(15:25:43) dictionaryBot: no match
+(15:25:43) dictionaryBot: ['dictionary']
+(15:25:43) Joseph_Bot: 897 menschen sind Kunstler
+(15:25:44) lucian: Phellos?
+(15:25:46) lucian: Phellos?
+(15:25:47) lucian: Phellos?
+(15:25:49) lucian: Phellos?
+(15:25:49) Joseph_Bot: 373 menschen war Kunstler
+(15:25:50) lucian: Phellos?
+(15:25:52) lucian: Phellos?
+(15:25:53) lucian: Phellos?
+(15:25:55) lucian: Phellos?
+(15:25:56) lucian: Phellos?
+(15:25:58) lucian: Phellos?Phellos?
+(15:25:59) lucian: Phellos?
+(15:26:01) lucian: Phellos?
+(15:26:02) lucian: Phellos?
+(15:26:04) lucian: Phellos?
+(15:26:05) lucian: Phellos?
+(15:26:07) lucian: Phellos?
+(15:26:08) lucian: Phellos?
+(15:26:10) lucian: Phellos?
+(15:26:11) lucian: Phellos?
+(15:26:13) dictionaryBot: Defn: A dictionary of a peculiar dialect, or of the words and phrases
+(15:26:13) dictionaryBot: peculiar to one part of a country; a glossary
+(15:26:13) dictionaryBot: ['can\xe2\x80\x99t']
+(15:26:13) lucian: Phellos?
+(15:26:14) lucian: Phellos?
+(15:26:16) lucian: Phellos?
+(15:26:17) helbu: sitively felt she must cry Oh
+(15:26:17) lucian: Phellos?
+(15:26:19) lucian: Phellos?
+(15:26:20) lucian: Phellos?
+(15:26:21) lucian: Phellos?
+(15:26:22) lucian: Phellos?
+(15:26:33) Joseph_Bot: 1076 menschen sind Kunstler
+(15:26:42) dictionaryBot: no match
+(15:26:42) dictionaryBot: ['dictionary']
+(15:26:49) Joseph_Bot: 466 menschen war Kunstler
+(15:27:06) lucian: Phellos?
+(15:27:10) dictionaryBot: To shorten or contract by using fewer words, yet retaining the
+(15:27:10) dictionaryBot: sense; to epitomize; to condense; as, to abridge a history or
+(15:27:10) dictionaryBot: dictionary
+(15:27:11) dictionaryBot: ['menschen', 'Kunstler']
+(15:27:22) Joseph_Bot: 1254 menschen sind Kunstler
+(15:27:40) dictionaryBot: no match
+(15:27:40) dictionaryBot: ['match']
+(15:27:50) Joseph_Bot: 559 menschen war Kunstler
+(15:28:12) Joseph_Bot: 1433 menschen sind Kunstler
+(15:28:51) Joseph_Bot: 651 menschen war Kunstler
+(15:29:02) Joseph_Bot: 1611 menschen sind Kunstler
+(15:29:47) Joseph_Bot: 1790 menschen sind Kunstler
+(15:29:55) Joseph_Bot: 744 menschen war Kunstler
+(15:30:19) helbu: os.system("espeak -v de \""+ m + "\"")
+(15:30:36) Joseph_Bot: 1968 menschen sind Kunstler
+(15:30:56) Joseph_Bot: 837 menschen war Kunstler
+(15:31:26) Joseph_Bot: 2147 menschen sind Kunstler
+(15:31:42) helbu: os.system("espeak -v de \""+ m + "\"")
+(15:31:57) Joseph_Bot: 930 menschen war Kunstler
+(15:32:16) Joseph_Bot: 2325 menschen sind Kunstler
+(15:32:26) lucian: so dictionary bot is too slow. hence I revert to woolf bot
+(15:32:27) dictionaryBot: On top of them it had pressed;
+(15:32:27) dictionaryBot: weighed them down, the women especially, like those flowers
+(15:32:27) dictionaryBot: Clarissa's Aunt Helena used to press between sheets of grey
+(15:32:27) dictionaryBot: blotting-paper with Littré's dictionary on top, sitting under the
+(15:32:27) dictionaryBot: lamp after dinner
+(15:32:58) Joseph_Bot: 1022 menschen war Kunstler
+(15:33:07) Joseph_Bot: 2504 menschen sind Kunstler
+(15:33:13) lucian: she will quote  a line from her book if she finds it
+(15:33:14) dictionaryBot: Margaret's, like a hostess who comes into her drawing-
+(15:33:14) dictionaryBot: room on the very stroke of the hour and finds her guests there
+(15:33:14) dictionaryBot: already
+(15:33:38) onions_83: This is a nice example message
+(15:33:38) dictionaryBot: Dalloway walking last and almost always
+(15:33:38) dictionaryBot: sending back some message to the kitchen, "My love to Mrs
+(15:33:40) query: real nice weather today
+(15:33:52) Joseph_Bot: 2682 menschen sind Kunstler
+(15:33:53) lucian: she doesn’t seem to differ from virginia bot much, save for the fact that she is only interested in the longest word people use
+(15:33:54) dictionaryBot: It was completely disinterested, and besides, it had a quality
+(15:33:54) dictionaryBot: which could only exist between women, between women just grown up
+(15:34:03) Joseph_Bot: 1115 menschen war Kunstler
+(15:34:43) Joseph_Bot: 2861 menschen sind Kunstler
+(15:34:50) onions_83: This is a nice example message
+(15:34:50) dictionaryBot: Love, trees, there is no crime--what was his message
+(15:35:04) query: nice nice weather day
+(15:35:04) Joseph_Bot: 1208 menschen war Kunstler
+(15:35:20) Joseph_Bot: 5 Menschen sind Kunstler
+(15:35:20) Joseph_Bot: 2 Menschen waren Kunstler
+(15:35:29) lucian: indeed it is a nice weather day
+(15:35:31) onions_83: This is a nice example message
+(15:35:32) dictionaryBot: For example, Lady Bradshaw
+(15:36:04) Joseph_Bot: 183 Menschen sind Kunstler
+(15:36:19) Joseph_Bot: 95 Menschen waren Kunstler
+(15:36:20) lucian: in the event of a tie in word length, she will pick one at random
+(15:36:25) helbu: wise?
+(15:36:27) onions_83: This is a nice example message
+(15:36:27) dictionaryBot: These
+(15:36:27) dictionaryBot: parties for example were all for him, or for her idea of him (to do
+(15:36:27) dictionaryBot: Richard justice he would have been happier farming in Norfolk)
+(15:36:39) onions_83: This is a nice example message
+(15:36:40) dictionaryBot: A magnificent figure he cut too, pausing for a moment (as the sound
+(15:36:40) dictionaryBot: of the half hour died away) to look critically, magisterially, at
+(15:36:40) dictionaryBot: socks and shoes; impeccable, substantial, as if he beheld the world
+(15:36:40) dictionaryBot: from a certain eminence, and dressed to match; but realised the
+(15:36:40) dictionaryBot: obligations which size, wealth, health, entail, and observed
+(15:36:40) dictionaryBot: punctiliously even when not absolutely necessary, little
+(15:36:41) query: nice nice nice
+(15:36:42) dictionaryBot: courtesies, old-fashioned ceremonies which gave a quality to his
+(15:36:42) dictionaryBot: manner, something to imitate, something to remember him by, for he
+(15:36:44) dictionaryBot: would never lunch, for example, with Lady Bruton, whom he had known
+(15:36:44) dictionaryBot: these twenty years, without bringing her in his outstretched hand a
+(15:36:46) dictionaryBot: bunch of carnations and asking Miss Brush, Lady Bruton's secretary,
+(15:36:46) dictionaryBot: after her brother in South Africa, which, for some reason, Miss
+(15:36:48) dictionaryBot: Brush, deficient though she was in every attribute of female charm,
+(15:36:48) dictionaryBot: so much resented that she said "Thank you, he's doing very well in
+(15:36:50) dictionaryBot: South Africa," when, for half a dozen years, he had been doing
+(15:36:50) dictionaryBot: badly in Portsmouth
+(15:36:52) dictionaryBot: Filmer's nice clean
+(15:36:52) dictionaryBot: bread knife with "Bread" carved on the handle
+(15:36:53) Joseph_Bot: 362 Menschen sind Kunstler
+(15:36:55) query: this is so good
+(15:36:55) dictionaryBot: Filmer had been so good
+(15:36:55) dictionaryBot: to them
+(15:37:01) onions_83: This is a nice example message
+(15:37:01) dictionaryBot: And, walking down the room with him, with Sally there and Peter
+(15:37:01) dictionaryBot: there and Richard very pleased, with all those people rather
+(15:37:01) dictionaryBot: inclined, perhaps, to envy, she had felt that intoxication of the
+(15:37:01) dictionaryBot: moment, that dilatation of the nerves of the heart itself till it
+(15:37:01) dictionaryBot: seemed to quiver, steeped, upright;--yes, but after all it was what
+(15:37:02) dictionaryBot: other people felt, that; for, though she loved it and felt it
+(15:37:02) dictionaryBot: tingle and sting, still these semblances, these triumphs (dear old
+(15:37:04) dictionaryBot: Peter, for example, thinking her so brilliant), had a hollowness;
+(15:37:04) dictionaryBot: at arm's length they were, not in the heart; and it might be that
+(15:37:06) dictionaryBot: she was growing old but they satisfied her no longer as they used;
+(15:37:06) dictionaryBot: and suddenly, as she saw the Prime Minister go down the stairs, the
+(15:37:08) dictionaryBot: gilt rim of the Sir Joshua picture of the little girl with a muff
+(15:37:08) dictionaryBot: brought back Kilman with a rush; Kilman her enemy
+(15:37:10) helbu: This is a nice example message
+(15:37:10) dictionaryBot: He could reason; he could read, Dante for example, quite
+(15:37:10) dictionaryBot: easily ("Septimus, do put down your book," said Rezia, gently
+(15:37:11) lucian: oh deer. she is rambling
+(15:37:12) dictionaryBot: shutting the Inferno), he could add up his bill; his brain was
+(15:37:12) dictionaryBot: perfect; it must be the fault of the world then--that he could not
+(15:37:14) dictionaryBot: feel
+(15:37:14) dictionaryBot: but that somehow in the streets of London, on the ebb and flow of
+(15:37:16) dictionaryBot: things, here, there, she survived, Peter survived, lived in each
+(15:37:16) dictionaryBot: other, she being part, she was positive, of the trees at home; of
+(15:37:18) dictionaryBot: the house there, ugly, rambling all to bits and pieces as it was;
+(15:37:18) dictionaryBot: part of people she had never met; being laid out like a mist
+(15:37:19) Joseph_Bot: 188 Menschen waren Kunstler
+(15:37:20) dictionaryBot: between the people she knew best, who lifted her on their branches
+(15:37:20) dictionaryBot: as she had seen the trees lift the mist, but it spread ever so far,
+(15:37:42) Joseph_Bot: 540 Menschen sind Kunstler
+(15:37:46) lucian: nice nice nice?
+(15:38:00) helbu: yo fembot what's up
+(15:38:01) dictionaryBot: "And what's all this
+(15:38:05) lucian: fembot, am I a nice woman?
+(15:38:19) Joseph_Bot: 280 Menschen waren Kunstler
+(15:38:31) Joseph_Bot: 719 Menschen sind Kunstler
+(15:38:36) lucian: hey fembot
+(15:38:40) onions_83: This is a nice example message
+(15:38:40) lucian: ah...
+(15:38:40) dictionaryBot: Think, for
+(15:38:40) dictionaryBot: example, of the woman she admired most, Lady Bexborough, opening
+(15:38:40) dictionaryBot: the bazaar
+(15:38:48) query: moeilijke vrouw die fembot want femm
+(15:39:16) Joseph_Bot: 897 Menschen sind Kunstler
+(15:39:22) Joseph_Bot: 373 Menschen waren Kunstler
+(15:39:32) Joseph_Bot: 5 Menschen sind Kunstler
+(15:39:32) Joseph_Bot: 2 Menschen waren Kunstler
+(15:40:16) Joseph_Bot: 183 Menschen sind Kunstler
+(15:40:31) Joseph_Bot: 95 Menschen waren Kunstler
+(15:40:47) onions_83: This is a nice example message
+(15:41:05) Joseph_Bot: 362 Menschen sind Kunstler
+(15:41:30) Joseph_Bot: 188 Menschen waren Kunstler
+(15:41:44) onions_83: This is a nice example message
+(15:41:54) Joseph_Bot: 540 Menschen sind Kunstler
+(15:42:03) lucian: question
+(15:42:03) dictionaryBot: It was merely a question of rest, said Sir William; of
+(15:42:03) dictionaryBot: rest, rest, rest; a long rest in bed
+(15:42:07) onions_83: This is a nice example message
+(15:42:07) dictionaryBot: So they returned to the most exalted of mankind; the criminal who
+(15:42:07) dictionaryBot: faced his judges; the victim exposed on the heights; the fugitive;
+(15:42:07) dictionaryBot: the drowned sailor; the poet of the immortal ode; the Lord who had
+(15:42:07) dictionaryBot: gone from life to death; to Septimus Warren Smith, who sat in the
+(15:42:07) dictionaryBot: arm-chair under the skylight staring at a photograph of Lady
+(15:42:30) Joseph_Bot: 280 Menschen waren Kunstler
+(15:42:34) query: but I want to be a very wise woman too
+(15:42:35) dictionaryBot: After India of course one fell in love with every woman one
+(15:42:35) dictionaryBot: met
+(15:42:42) Joseph_Bot: 719 Menschen sind Kunstler
+(15:42:50) onions_83: This is a nice example message
+(15:42:50) dictionaryBot: Health we must
+(15:42:50) dictionaryBot: have; and health is proportion; so that when a man comes into your
+(15:42:50) dictionaryBot: room and says he is Christ (a common delusion), and has a message,
+(15:42:50) dictionaryBot: as they mostly have, and threatens, as they often do, to kill
+(15:42:50) dictionaryBot: himself, you invoke proportion; order rest in bed; rest in
+(15:43:03) onions_83: This is a nice example message
+(15:43:03) dictionaryBot: A magnificent figure he cut too, pausing for a moment (as the sound
+(15:43:03) dictionaryBot: of the half hour died away) to look critically, magisterially, at
+(15:43:03) dictionaryBot: socks and shoes; impeccable, substantial, as if he beheld the world
+(15:43:03) dictionaryBot: from a certain eminence, and dressed to match; but realised the
+(15:43:03) dictionaryBot: obligations which size, wealth, health, entail, and observed
+(15:43:15) dictionaryBot: badly in Portsmouth
+(15:43:28) Joseph_Bot: 897 Menschen sind Kunstler
+(15:43:28) lucian: its obvious that you do
+(15:43:29) dictionaryBot: The obvious thing to say of her was
+(15:43:29) dictionaryBot: that she was worldly; cared too much for rank and society and
+(15:43:29) dictionaryBot: getting on in the world--which was true in a sense; she had
+(15:43:29) dictionaryBot: admitted it to him
+(15:43:33) Joseph_Bot: 373 Menschen waren Kunstler
+(15:43:54) lucian: asdf
+(15:44:14) helbu: asdf
+(15:44:17) Joseph_Bot: 1076 Menschen sind Kunstler
+(15:44:34) Joseph_Bot: 466 Menschen waren Kunstler
+(15:44:55) helbu: @fembot why are you ignoring me???!!
+(15:44:55) vocaloidbot: @fembot why are you ignoring me???!!
+(15:45:06) Joseph_Bot: 1254 Menschen sind Kunstler
+(15:45:06) vocaloidbot: 1254 Menschen sind Kunstler
+(15:45:30) lucian: because you are not a woman
+(15:45:30) vocaloidbot: because you are not a woman
+(15:45:35) Joseph_Bot: 559 Menschen waren Kunstler
+(15:45:35) vocaloidbot: 559 Menschen waren Kunstler
+(15:45:50) onions_83: This is a nice example message
+(15:45:50) vocaloidbot: This is a nice example message
+(15:45:54) onions_83: This is a nice example message
+(15:45:54) vocaloidbot: This is a nice example message
+(15:45:56) Joseph_Bot: 1433 Menschen sind Kunstler
+(15:45:56) vocaloidbot: 1433 Menschen sind Kunstler
+(15:45:58) query: i want to be a very wise woman
+(15:45:58) vocaloidbot: i want to be a very wise woman
+(15:46:00) helbu: nice
+(15:46:00) vocaloidbot: nice
+(15:46:04) onions_83: A example message
+(15:46:04) vocaloidbot: A example message
+(15:46:10) query: i too
+(15:46:10) vocaloidbot: i too
+(15:46:14) lucian: shame
+(15:46:14) vocaloidbot: shame
+(15:46:17) query: ik ook
+(15:46:17) vocaloidbot: ik ook
+(15:46:24) helbu: nice shame
+(15:46:25) query: blabla
+(15:46:25) lucian: see, I’m a wise woman even
+(15:46:33) onions_83: example example example
+(15:46:35) query: but why
+(15:46:36) Joseph_Bot: 651 Menschen waren Kunstler
+(15:46:47) Joseph_Bot: 1611 Menschen sind Kunstler
+(15:46:49) lucian: dunno ask her master
+(15:46:59) query: haha
+(15:47:08) onions_83: example example example
+(15:47:18) onions_83: This is a nice example message
+(15:47:30) helbu: nice shame example
+(15:47:32) Joseph_Bot: 1790 Menschen sind Kunstler
+(15:47:40) Joseph_Bot: 744 Menschen waren Kunstler
+(15:48:21) Joseph_Bot: 1968 Menschen sind Kunstler
+(15:48:41) Joseph_Bot: 837 Menschen waren Kunstler
+(15:49:11) Joseph_Bot: 2147 Menschen sind Kunstler
+(15:49:41) Joseph_Bot: 930 Menschen waren Kunstler
+(15:50:00) Joseph_Bot: 2325 Menschen sind Kunstler
+(15:50:42) Joseph_Bot: 1022 Menschen waren Kunstler
+(15:50:50) Joseph_Bot: 2504 Menschen sind Kunstler
+(15:51:36) Joseph_Bot: 2682 Menschen sind Kunstler
+(15:51:46) Joseph_Bot: 1115 Menschen waren Kunstler
+(15:52:22) iconoclast: Germany had foreseen and prepared for just such a conflict as now began,
+(15:52:23) iconoclast: and was able to put into the field in the West larger forces than those
+(15:52:24) iconoclast: of France and Britain combined. These forces were also better trained
+(15:52:26) iconoclast: and better supplied with transport, artillery, and machine-guns.  Her
+(15:52:26) Joseph_Bot: 2861 Menschen sind Kunstler
+(15:52:27) iconoclast: plan was to defeat France and Britain in the first month, and then to
+(15:52:29) iconoclast: turn her main armies against Russia, for she assumed that Russia would
+(15:52:29) HaikuBot: prepared for just such
+(15:52:29) HaikuBot: a conflict as now began,
+(15:52:29) HaikuBot: iconoclast: and
+(15:52:29) HaikuBot: such a conflict as
+(15:52:29) HaikuBot: now began, iconoclast:
+(15:52:30) iconoclast: be slow to mobilize her gigantic numbers. But if the first attack on
+(15:52:31) HaikuBot: and was able to
+(15:52:31) HaikuBot: a conflict as now
+(15:52:32) iconoclast: France should fail the situation would be changed, and Germany would be
+(15:52:33) HaikuBot: began, iconoclast: and
+(15:52:33) HaikuBot: was able to put
+(15:52:33) iconoclast: compelled to fight on two fronts at once, the East and the West.
+(15:52:35) HaikuBot: iconoclast: and
+(15:52:35) HaikuBot: was able to put into
+(15:52:35) iconoclast: If the conflict was protracted Germany would lose the advantage of
+(15:52:37) iconoclast: numbers, for then the greater united manpower of the Allies could be
+(15:52:37) HaikuBot: the field in the West
+(15:52:37) HaikuBot: and was able to
+(15:52:38) iconoclast: trained for the field, and if the British navy continued to rule the
+(15:52:39) HaikuBot: put into the field in the
+(15:52:39) HaikuBot: West larger forces
+(15:52:40) iconoclast: seas those new armies could be supplied and moved at the Allies’ will.
+(15:52:41) HaikuBot: was able to put
+(15:52:41) HaikuBot: into the field in the West
+(15:52:41) iconoclast: Moreover, though Germany could produce most of the necessaries of life
+(15:52:42) iconoclast: and the apparatus of war within her own borders, yet the Allied control
+(15:52:43) iconoclast: of the sea would cut her off from certain vital kinds of war material.
+(15:52:43) HaikuBot: larger forces than
+(15:52:43) HaikuBot: iconoclast: of
+(15:52:45) HaikuBot: France and Britain combined. These
+(15:52:45) HaikuBot: forces were also
+(15:52:47) HaikuBot: iconoclast: and
+(15:52:47) HaikuBot: better supplied with transport,
+(15:52:48) Joseph_Bot: 1208 Menschen waren Kunstler
+(15:52:49) HaikuBot: artillery, and
+(15:52:49) HaikuBot: and better supplied
+(15:52:51) HaikuBot: with transport, artillery,
+(15:52:51) HaikuBot: and machine-guns.
+(15:52:53) HaikuBot: better supplied with
+(15:52:53) HaikuBot: transport, artillery, and
+(15:52:55) HaikuBot: machine-guns. Her
+(15:52:55) HaikuBot: Joseph_Bot: Menschen
+(15:52:57) HaikuBot: sind Kunstler iconoclast:
+(15:52:57) HaikuBot: plan was to defeat
+(15:52:59) HaikuBot: against Russia, for
+(15:52:59) HaikuBot: she assumed that Russia would
+(15:53:01) HaikuBot: iconoclast: be
+(15:53:01) HaikuBot: assumed that Russia
+(15:53:03) HaikuBot: would iconoclast: be slow
+(15:53:03) HaikuBot: to mobilize her
+(15:53:05) HaikuBot: would iconoclast:
+(15:53:05) HaikuBot: be slow to mobilize her
+(15:53:07) HaikuBot: gigantic numbers.
+(15:53:07) HaikuBot: slow to mobilize
+(15:53:09) HaikuBot: her gigantic numbers. But
+(15:53:09) HaikuBot: if the first attack
+(15:53:11) HaikuBot: to mobilize her
+(15:53:11) HaikuBot: gigantic numbers. But if
+(15:53:13) HaikuBot: the first attack on
+(15:53:13) HaikuBot: situation would
+(15:53:15) HaikuBot: be changed, and Germany would
+(15:53:15) HaikuBot: be iconoclast:
+(15:53:16) Joseph_Bot: 3039 Menschen sind Kunstler
+(15:53:17) HaikuBot: and Germany would
+(15:53:17) HaikuBot: be iconoclast: compelled
+(15:53:19) HaikuBot: to fight on two fronts
+(15:53:19) HaikuBot: Germany would be
+(15:53:21) HaikuBot: iconoclast: compelled to
+(15:53:21) HaikuBot: fight on two fronts at
+(15:53:23) HaikuBot: be iconoclast:
+(15:53:23) HaikuBot: compelled to fight on two fronts
+(15:53:24) helbu: python -u joseph.py | python ircpipebot.py --server localhost --channel "#botnet" --nickname Joseph_Bot
+(15:53:26) HaikuBot: at once, the East and
+(15:53:26) HaikuBot: iconoclast: If
+(15:53:27) HaikuBot: the conflict was protracted
+(15:53:27) HaikuBot: Germany would lose
+(15:53:29) HaikuBot: If the conflict was
+(15:53:29) HaikuBot: protracted Germany would
+(15:53:31) HaikuBot: lose the advantage
+(15:53:31) HaikuBot: for then the greater
+(15:53:33) HaikuBot: united manpower of
+(15:53:33) HaikuBot: the Allies could be
+(15:53:35) HaikuBot: and if the British
+(15:53:35) HaikuBot: navy continued to rule
+(15:53:37) HaikuBot: the iconoclast:
+(15:53:37) HaikuBot: navy continued
+(15:53:39) HaikuBot: to rule the iconoclast:
+(15:53:39) HaikuBot: seas those new armies
+(15:53:41) HaikuBot: continued to rule
+(15:53:41) HaikuBot: the iconoclast: seas those
+(15:53:43) HaikuBot: new armies could be
+(15:53:43) HaikuBot: the iconoclast:
+(15:53:45) HaikuBot: seas those new armies could be
+(15:53:45) HaikuBot: supplied and moved at
+(15:53:47) HaikuBot: could produce most of
+(15:53:47) HaikuBot: the necessaries of life
+(15:53:48) Joseph_Bot: 1301 Menschen waren Kunstler
+(15:53:49) HaikuBot: iconoclast: and
+(15:53:49) HaikuBot: the necessaries
+(15:53:51) HaikuBot: of life iconoclast: and
+(15:53:51) HaikuBot: the apparatus
+(15:53:53) HaikuBot: necessaries of
+(15:53:53) HaikuBot: life iconoclast: and the
+(15:53:55) HaikuBot: apparatus of
+(15:53:55) HaikuBot: life iconoclast:
+(15:53:57) HaikuBot: and the apparatus of
+(15:53:57) HaikuBot: war within her own
+(15:53:59) HaikuBot: iconoclast: of
+(15:53:59) HaikuBot: the sea would cut her off from
+(15:54:01) HaikuBot: certain vital kinds
+(15:54:01) HaikuBot: sea would cut her off
+(15:54:03) HaikuBot: from certain vital kinds of
+(15:54:03) HaikuBot: war material.
+(15:54:05) HaikuBot: Joseph_Bot: Menschen
+(15:54:05) HaikuBot: waren Kunstler Joseph_Bot:
+(15:54:06) Joseph_Bot: 3218 Menschen sind Kunstler
+(15:54:07) HaikuBot: Menschen sind Kunstler
+(15:54:07) HaikuBot: joseph.py python
+(15:54:09) HaikuBot: ircpipebot.py --server
+(15:54:09) HaikuBot: localhost --channel
+(15:54:11) HaikuBot: Joseph_Bot: Menschen
+(15:54:11) HaikuBot: waren Kunstler Joseph_Bot:
+(15:54:13) HaikuBot: Menschen sind Kunstler
+(15:54:33) iconoclast: hh
+(15:54:48) automatist: what was happening?
+(15:54:53) automatist: are there haiku's coming
+(15:54:54) iconoclast: I dont know
+(15:54:56) automatist: i wonder
+(15:54:57) HaikuBot: there haiku's coming
+(15:54:57) HaikuBot: iconoclast: I dont know
+(15:54:57) HaikuBot: automatist: i
+(15:55:01) iconoclast: they should be
+(15:59:32) iconoclast: guys go spam some stuff
+(15:59:46) iconoclast: haikubot is making you haikus
+(16:00:00) iconoclast: so you can read haikus while you are haikuing
+(16:00:02) HaikuBot: making you haikus
+(16:00:02) HaikuBot: iconoclast: so you can
+(16:00:02) HaikuBot: read haikus while you
+(16:00:03) spam: http://stackoverflow.com/questions/20502862/python-replacing-words-in-a-string-with-entries-from-a-dictionary
+(16:06:17) helbu: rock rock
+(16:07:08) helbu: rock rock
+(16:09:54) virginia: But
+(16:09:54) virginia: "Lovely
+(16:10:26) virginia: What she
+(16:10:26) virginia: liked was simply life
+(16:10:27) HaikuBot: rock helbu: rock rock
+(16:10:27) HaikuBot: virginia: But virginia:
+(16:10:27) HaikuBot: "Lovely virginia:
+(16:10:55) virginia: Dr
+(16:13:07) nani: hello
+(16:13:23) prince: hi
+(16:13:25) HaikuBot: virginia: liked was
+(16:13:25) HaikuBot: simply life virginia: Dr
+(16:13:25) HaikuBot: nani: hello prince:
+(16:13:55) prince: hi haikubot how is it going with u
+(16:20:13) Joseph_Bot: 5 Menschen sind Kunstler
+(16:20:13) Joseph_Bot: 2 Menschen waren Kunstler
+(16:20:15) HaikuBot: prince: hi haikubot
+(16:20:15) HaikuBot: how is it going with u
+(16:20:15) HaikuBot: Joseph_Bot: Menschen
+(16:20:58) Joseph_Bot: 183 Menschen sind Kunstler
+(16:20:59) HaikuBot: Joseph_Bot: Menschen
+(16:20:59) HaikuBot: waren Kunstler Joseph_Bot:
+(16:20:59) HaikuBot: Menschen sind Kunstler
+(16:21:12) Joseph_Bot: 95 Menschen waren Kunstler
+(16:21:47) Joseph_Bot: 362 Menschen sind Kunstler
+(16:21:48) HaikuBot: Joseph_Bot: Menschen
+(16:21:48) HaikuBot: waren Kunstler Joseph_Bot:
+(16:21:48) HaikuBot: Menschen sind Kunstler
+(16:22:12) Joseph_Bot: 188 Menschen waren Kunstler
+(16:22:32) nani:  
+(16:22:36) Joseph_Bot: 540 Menschen sind Kunstler
+(16:23:12) Joseph_Bot: 280 Menschen waren Kunstler
+(16:23:25) Joseph_Bot: 719 Menschen sind Kunstler
+(16:23:26) HaikuBot: Menschen sind Kunstler
+(16:23:26) HaikuBot: Joseph_Bot: Menschen waren
+(16:23:26) HaikuBot: Kunstler Joseph_Bot:
+(16:23:26) HaikuBot: Joseph_Bot: Menschen
+(16:23:26) HaikuBot: waren Kunstler Joseph_Bot:
+(16:23:27) HaikuBot: Menschen sind Kunstler
+(16:24:10) Joseph_Bot: 897 Menschen sind Kunstler
+(16:24:16) Joseph_Bot: 373 Menschen waren Kunstler
+(16:25:00) Joseph_Bot: 1076 Menschen sind Kunstler
+(16:25:01) HaikuBot: Menschen sind Kunstler
+(16:25:01) HaikuBot: Joseph_Bot: Menschen waren
+(16:25:01) HaikuBot: Kunstler Joseph_Bot:
+(16:25:01) HaikuBot: Joseph_Bot: Menschen
+(16:25:01) HaikuBot: waren Kunstler Joseph_Bot:
+(16:25:03) HaikuBot: Menschen sind Kunstler
+(16:25:17) Joseph_Bot: 466 Menschen waren Kunstler
+(16:25:49) Joseph_Bot: 1254 Menschen sind Kunstler
+(16:25:51) HaikuBot: Joseph_Bot: Menschen
+(16:25:51) HaikuBot: waren Kunstler Joseph_Bot:
+(16:25:51) HaikuBot: Menschen sind Kunstler
+(16:26:18) Joseph_Bot: 559 Menschen waren Kunstler
+(16:26:40) Joseph_Bot: 1433 Menschen sind Kunstler
+(16:26:41) HaikuBot: Joseph_Bot: Menschen
+(16:26:41) HaikuBot: waren Kunstler Joseph_Bot:
+(16:26:41) HaikuBot: Menschen sind Kunstler
+(16:27:19) Joseph_Bot: 651 Menschen waren Kunstler
+(16:27:30) Joseph_Bot: 1611 Menschen sind Kunstler
+(16:27:31) HaikuBot: Joseph_Bot: Menschen
+(16:27:31) HaikuBot: waren Kunstler Joseph_Bot:
+(16:27:31) HaikuBot: Menschen sind Kunstler
+(16:28:16) Joseph_Bot: 1790 Menschen sind Kunstler
+(16:28:24) Joseph_Bot: 744 Menschen waren Kunstler
+(16:29:06) Joseph_Bot: 1968 Menschen sind Kunstler
+(16:29:07) HaikuBot: Menschen sind Kunstler
+(16:29:07) HaikuBot: Joseph_Bot: Menschen waren
+(16:29:07) HaikuBot: Kunstler Joseph_Bot:
+(16:29:07) HaikuBot: Joseph_Bot: Menschen
+(16:29:07) HaikuBot: waren Kunstler Joseph_Bot:
+(16:29:09) HaikuBot: Menschen sind Kunstler
+(16:29:25) Joseph_Bot: 837 Menschen waren Kunstler
+(16:29:56) Joseph_Bot: 2147 Menschen sind Kunstler
+(16:29:57) HaikuBot: Joseph_Bot: Menschen
+(16:29:57) HaikuBot: waren Kunstler Joseph_Bot:
+(16:29:57) HaikuBot: Menschen sind Kunstler
+(16:30:26) Joseph_Bot: 930 Menschen waren Kunstler
+(16:30:46) Joseph_Bot: 2325 Menschen sind Kunstler
+(16:30:47) HaikuBot: Joseph_Bot: Menschen
+(16:30:47) HaikuBot: waren Kunstler Joseph_Bot:
+(16:30:47) HaikuBot: Menschen sind Kunstler
+(16:31:27) Joseph_Bot: 1022 Menschen waren Kunstler
+(16:31:36) Joseph_Bot: 2504 Menschen sind Kunstler
+(16:31:37) HaikuBot: Joseph_Bot: Menschen
+(16:31:37) HaikuBot: waren Kunstler Joseph_Bot:
+(16:31:37) HaikuBot: Menschen sind Kunstler
+(16:31:57) mj: Hello
+(16:32:22) Joseph_Bot: 2682 Menschen sind Kunstler
+(16:32:33) Joseph_Bot: 1115 Menschen waren Kunstler
+(16:33:13) Joseph_Bot: 2861 Menschen sind Kunstler
+(16:33:14) HaikuBot: Menschen sind Kunstler
+(16:33:14) HaikuBot: Joseph_Bot: Menschen waren
+(16:33:14) HaikuBot: Kunstler Joseph_Bot:
+(16:33:14) HaikuBot: Joseph_Bot: Menschen
+(16:33:14) HaikuBot: waren Kunstler Joseph_Bot:
+(16:33:15) HaikuBot: Menschen sind Kunstler
+(16:33:34) Joseph_Bot: 1208 Menschen waren Kunstler
+(16:34:03) Joseph_Bot: 3039 Menschen sind Kunstler
+(16:34:04) HaikuBot: Joseph_Bot: Menschen
+(16:34:04) HaikuBot: waren Kunstler Joseph_Bot:
+(16:34:04) HaikuBot: Menschen sind Kunstler
+(16:34:35) Joseph_Bot: 1301 Menschen waren Kunstler
+(16:34:52) Joseph_Bot: 3218 Menschen sind Kunstler
+(16:34:54) HaikuBot: Joseph_Bot: Menschen
+(16:34:54) HaikuBot: waren Kunstler Joseph_Bot:
+(16:34:54) HaikuBot: Menschen sind Kunstler
+(16:35:35) Joseph_Bot: 1393 Menschen waren Kunstler
+(16:35:43) Joseph_Bot: 3396 Menschen sind Kunstler
+(16:35:44) HaikuBot: Joseph_Bot: Menschen
+(16:35:44) HaikuBot: waren Kunstler Joseph_Bot:
+(16:35:44) HaikuBot: Menschen sind Kunstler
+(16:36:24) PostureBOT: Sitting position neatly adapted.
+(16:36:29) Joseph_Bot: 3575 Menschen sind Kunstler
+(16:36:39) PostureBOT: Good posture prolongs your lifespan.
+(16:36:40) HaikuBot: Joseph_Bot: Menschen
+(16:36:40) HaikuBot: sind Kunstler PostureBOT:
+(16:36:40) HaikuBot: Good posture prolongs
+(16:36:40) HaikuBot: Menschen sind Kunstler
+(16:36:40) HaikuBot: PostureBOT: Good posture
+(16:36:41) HaikuBot: prolongs your lifespan.
+(16:36:42) Joseph_Bot: 1486 Menschen waren Kunstler
+(16:36:44) PostureBOT: Well done, your back looks happy
+(16:36:49) PostureBOT: Sitting position neatly adapted.
+(16:36:54) PostureBOT: Good posture prolongs your lifespan.
+(16:36:55) HaikuBot: position neatly
+(16:36:55) HaikuBot: adapted. PostureBOT:
+(16:36:55) HaikuBot: Good posture prolongs
+(16:36:55) HaikuBot: neatly adapted.
+(16:36:55) HaikuBot: PostureBOT: Good posture
+(16:36:57) HaikuBot: prolongs your lifespan.
+(16:37:21) Joseph_Bot: 3753 Menschen sind Kunstler
+(16:37:34) PostureBOT: A healty siting posture is FUN.
+(16:37:35) HaikuBot: Joseph_Bot: Menschen
+(16:37:35) HaikuBot: sind Kunstler PostureBOT:
+(16:37:35) HaikuBot: A healty siting
+(16:37:35) HaikuBot: Menschen sind Kunstler
+(16:37:35) HaikuBot: PostureBOT: A healty
+(16:37:37) HaikuBot: siting posture is
+(16:37:39) PostureBOT: Well done, your back looks happy
+(16:37:44) PostureBOT: A healty siting posture is FUN.
+(16:37:44) Joseph_Bot: 1579 Menschen waren Kunstler
+(16:37:45) HaikuBot: your back looks happy
+(16:37:46) HaikuBot: PostureBOT: A healty
+(16:37:46) HaikuBot: siting posture is
+(16:37:49) PostureBOT: Good posture prolongs your lifespan.
+(16:37:54) PostureBOT: The better your posture, the better your work.
+(16:37:55) HaikuBot: PostureBOT: Good
+(16:37:55) HaikuBot: posture prolongs your lifespan.
+(16:37:55) HaikuBot: PostureBOT: The
+(16:37:55) HaikuBot: posture prolongs your
+(16:37:55) HaikuBot: lifespan. PostureBOT: The
+(16:37:57) HaikuBot: better your posture,
+(16:37:59) PostureBOT: Well done, your back looks happy
+(16:38:12) Joseph_Bot: 3932 Menschen sind Kunstler
+(16:38:46) Joseph_Bot: 1672 Menschen waren Kunstler
+(16:39:03) Joseph_Bot: 4110 Menschen sind Kunstler
+(16:39:05) HaikuBot: Menschen sind Kunstler
+(16:39:05) HaikuBot: Joseph_Bot: Menschen waren
+(16:39:05) HaikuBot: Kunstler Joseph_Bot:
+(16:39:05) HaikuBot: Joseph_Bot: Menschen
+(16:39:05) HaikuBot: waren Kunstler Joseph_Bot:
+(16:39:05) HaikuBot: Menschen sind Kunstler
+(16:39:09) PostureBOT: Sitting position neatly adapted.
+(16:39:39) PostureBOT: The better your posture, the better your work.
+(16:39:48) Joseph_Bot: 1764 Menschen waren Kunstler
+(16:39:53) Joseph_Bot: 4289 Menschen sind Kunstler
+(16:39:55) HaikuBot: the better your work.
+(16:39:55) HaikuBot: Joseph_Bot: Menschen waren
+(16:39:55) HaikuBot: Kunstler Joseph_Bot:
+(16:39:55) HaikuBot: Joseph_Bot: Menschen
+(16:39:55) HaikuBot: waren Kunstler Joseph_Bot:
+(16:39:57) HaikuBot: Menschen sind Kunstler
+(16:40:24) PostureBOT: Well done, your back looks happy
+(16:40:40) Joseph_Bot: 4467 Menschen sind Kunstler
+(16:40:48) nani: mine does not work guys sorry for that
+(16:40:50) HaikuBot: Well done, your back looks
+(16:40:50) HaikuBot: happy Joseph_Bot: Menschen
+(16:40:50) HaikuBot: sind Kunstler nani:
+(16:40:50) HaikuBot: happy Joseph_Bot:
+(16:40:50) HaikuBot: Menschen sind Kunstler nani:
+(16:40:51) HaikuBot: mine does not work guys
+(16:40:51) HaikuBot: Joseph_Bot: Menschen
+(16:40:53) HaikuBot: sind Kunstler nani: mine does
+(16:40:53) HaikuBot: not work guys sorry
+(16:40:54) Joseph_Bot: 1857 Menschen waren Kunstler
+(16:41:30) Joseph_Bot: 4646 Menschen sind Kunstler
+(16:41:32) HaikuBot: Joseph_Bot: Menschen
+(16:41:32) HaikuBot: waren Kunstler Joseph_Bot:
+(16:41:32) HaikuBot: Menschen sind Kunstler
+(16:41:56) Joseph_Bot: 1950 Menschen waren Kunstler
+(16:42:19) PostureBOT: hey sweety, cute back.
+(16:42:21) Joseph_Bot: 4824 Menschen sind Kunstler
+(16:42:23) HaikuBot: PostureBOT: hey
+(16:42:23) HaikuBot: sweety, cute back. Joseph_Bot:
+(16:42:23) HaikuBot: Menschen sind Kunstler
+(16:42:57) Joseph_Bot: 2043 Menschen waren Kunstler
+(16:43:11) Joseph_Bot: 5003 Menschen sind Kunstler
+(16:43:13) HaikuBot: Joseph_Bot: Menschen
+(16:43:13) HaikuBot: waren Kunstler Joseph_Bot:
+(16:43:13) HaikuBot: Menschen sind Kunstler
+(16:43:55) eurico: hello, is it me are you looking for?
+(16:43:55) vocaloid: hello, is it me are you looking for?
+(16:43:56) vocaloid: complete
+(16:43:57) Joseph_Bot: 5181 Menschen sind Kunstler
+(16:43:58) vocaloid: MEncoder svn r34540 (Raspbian), built with gcc-4.6 (C) 2000-2012 MPlayer Team
+(16:43:58) vocaloid: success: format: 16  data: 0x0 - 0x0
+(16:43:58) vocaloid: MF file format detected.
+(16:43:58) vocaloid: [mf] search expr: frame0*.png
+(16:43:58) vocaloid: [mf] number of files: 21 (84)
+(16:43:59) vocaloid: VIDEO:  [MPNG]  0x0  24bpp  10.000 fps    0.0 kbps ( 0.0 kbyte/s)
+(16:43:59) vocaloid: libavformat version 53.21.1 (external)
+(16:44:00) HaikuBot: are you looking for?
+(16:44:00) HaikuBot: vocaloid: hello, is it
+(16:44:01) HaikuBot: me are you looking
+(16:44:01) vocaloid: Mismatching header version 53.19.0
+(16:44:01) vocaloid: Audio only file format detected.
+(16:44:02) Joseph_Bot: 2135 Menschen waren Kunstler
+(16:44:03) vocaloid: [V] filefmt:65536  fourcc:0x474E504D  size:0x0  fps:10.000  ftime:=0.1000
+(16:44:03) vocaloid: ==========================================================================
+(16:44:05) vocaloid: Opening audio decoder: [pcm] Uncompressed PCM audio decoder
+(16:44:05) vocaloid: AUDIO: 22050 Hz, 1 ch, s16le, 352.8 kbit/100.00% (ratio: 44100->44100)
+(16:44:07) vocaloid: Selected audio codec: [pcm] afm: pcm (Uncompressed PCM)
+(16:44:07) vocaloid: ==========================================================================
+(16:44:08) HaikuBot: Menschen sind Kunstler
+(16:44:08) HaikuBot: vocaloid: MEncoder svn
+(16:44:08) HaikuBot: r34540 (Raspbian), built
+(16:44:09) vocaloid: libavcodec version 53.35.0 (external)
+(16:44:09) vocaloid: Mismatching header version 53.32.2
+(16:44:11) vocaloid: Opening video filter: [expand osd=1]
+(16:44:11) vocaloid: Expand: -1 x -1, -1 ; -1, osd: 1, aspect: 0.000000, round: 1
+(16:44:13) vocaloid: ==========================================================================
+(16:44:13) vocaloid: Opening video decoder: [ffmpeg] FFmpeg's libavcodec codec family
+(16:44:15) vocaloid: Selected video codec: [ffpng] vfm: ffmpeg (FFmpeg PNG)
+(16:44:15) vocaloid: ==========================================================================
+(16:44:15) HaikuBot: 0x0 0x0 vocaloid:
+(16:44:15) HaikuBot: MF file format detected.
+(16:44:15) HaikuBot: vocaloid: [mf] search
+(16:44:17) vocaloid: MP3 audio selected.
+(16:44:17) vocaloid: Could not find matching colorspace - retrying with -vf scale...
+(16:44:19) HaikuBot: 24bpp fps kbps kbyte/s)
+(16:44:19) vocaloid: Opening video filter: [scale]
+(16:44:19) vocaloid: Movie-Aspect is undefined - no prescaling applied.
+(16:44:19) HaikuBot: vocaloid: libavformat
+(16:44:19) HaikuBot: version (external)
+(16:44:19) PostureBOT: A good seating position also helps in the electric chair.
+(16:44:21) vocaloid: videocodec: libavcodec (500x402 fourcc=34504d46 [FMP4])
+(16:44:21) vocaloid: Writing header...
+(16:44:23) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(16:44:23) vocaloid: Writing header...
+(16:44:24) HaikuBot: format detected.
+(16:44:24) HaikuBot: Joseph_Bot: Menschen waren
+(16:44:24) HaikuBot: Kunstler vocaloid:
+(16:44:24) HaikuBot: Joseph_Bot: Menschen
+(16:44:24) HaikuBot: waren Kunstler vocaloid:
+(16:44:25) HaikuBot: [V] filefmt:65536 fourcc:0x474E504D
+(16:44:25) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(16:44:26) vocaloid: Pos:   0.1s      1f ( 5%)  0.00fps Trem:   0min   0mb  A-V:0.000 [0:0]
+(16:44:31) vocaloid: in   0mb  A-V:0.050 [0:109]
+(16:44:34) PostureBOT: hey sweety, cute back.
+(16:44:39) vocaloid:   1.2s     12f (60%)  2.21fps Trem:   0min   0mb  A-V:0.106 [545:112]
+(16:44:45) vocaloid: 9fps Trem:   0min   0mb  A-V:0.153 [565:110]
+(16:44:48) Joseph_Bot: 5360 Menschen sind Kunstler
+(16:44:49) vocaloid: Flushing video frames.
+(16:44:49) PostureBOT: A healty siting posture is FUN.
+(16:44:51) vocaloid: Writing index...
+(16:44:51) vocaloid: Writing header...
+(16:44:53) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(16:44:53) vocaloid: Video stream:  532.979 kbit/s  (66622 B/s)  size: 139907 bytes  2.100 secs  21 frames
+(16:44:54) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:44:55) vocaloid: Audio stream:  110.786 kbit/s  (13848 B/s)  size: 24599 bytes  1.776 secs
+(16:44:55) vocaloid: Video codec omx-mpeg4 width 500 height 402 profile 0 fps 10.000000
+(16:44:57) vocaloid: Audio codec mp3 channels 1 samplerate 22050 bitspersample 16
+(16:44:57) vocaloid: Subtitle count: 0, state: off, index: 1, delay: 0
+(16:44:59) vocaloid: V:PortSettingsChanged: 500x402@10.00 interlace:0 deinterlace:0 anaglyph:0 par:1.00 layer:0
+(16:44:59) PostureBOT: A healty siting posture is FUN.
+(16:45:04) PostureBOT: A good seating position also helps in the electric chair.
+(16:45:04) Joseph_Bot: 2228 Menschen waren Kunstler
+(16:45:09) PostureBOT: Sitting position neatly adapted.
+(16:45:18) HaikuBot: Could not find matching
+(16:45:18) HaikuBot: colorspace retrying with
+(16:45:18) HaikuBot: -vf scale... vocaloid:
+(16:45:18) HaikuBot: retrying with -vf
+(16:45:18) HaikuBot: scale... vocaloid: Opening
+(16:45:19) HaikuBot: video filter:
+(16:45:19) PostureBOT: A good seating position also helps in the electric chair.
+(16:45:24) PostureBOT: hey sweety, cute back.
+(16:45:25) lucian: aborted
+(16:45:25) HaikuBot: the electric chair.
+(16:45:25) HaikuBot: vocaloid: videocodec:
+(16:45:25) HaikuBot: libavcodec (500x402
+(16:45:29) PostureBOT: Sitting position neatly adapted.
+(16:45:34) HaikuBot: header. vocaloid:
+(16:45:34) HaikuBot: Pos: 0.1s 1f 0.00fps Trem: 0min 0mb
+(16:45:34) HaikuBot: A-V:0.000 vocaloid: in
+(16:45:37) HaikuBot: PostureBOT: hey
+(16:45:37) HaikuBot: sweety, cute back. vocaloid:
+(16:45:37) HaikuBot: 1.2s 12f 2.21fps Trem: 0min
+(16:45:39) Joseph_Bot: 5538 Menschen sind Kunstler
+(16:45:44) PostureBOT: A healty siting posture is FUN.
+(16:45:45) HaikuBot: frames. PostureBOT:
+(16:45:45) HaikuBot: A healty siting posture
+(16:45:45) HaikuBot: is FUN. vocaloid:
+(16:45:49) HaikuBot: writing vprp header.
+(16:45:49) HaikuBot: vocaloid: Video stream:
+(16:45:49) HaikuBot: kbit/s B/s) size: bytes secs
+(16:45:52) HaikuBot: reveals the state of
+(16:45:52) HaikuBot: mind. vocaloid: Audio
+(16:45:52) HaikuBot: stream: kbit/s B/s) size: bytes
+(16:45:54) HaikuBot: codec omx-mpeg4 width
+(16:45:54) HaikuBot: height profile fps vocaloid:
+(16:45:54) HaikuBot: Audio codec
+(16:45:58) onions_83: Good posture prolongs your lifespan
+(16:46:00) PostureBOT: Good posture prolongs your lifespan.
+(16:46:04) PostureBOT: Well done, your back looks happy
+(16:46:04) HaikuBot: PostureBOT: A
+(16:46:04) HaikuBot: healty siting posture is
+(16:46:04) HaikuBot: FUN. PostureBOT:
+(16:46:04) HaikuBot: siting posture is
+(16:46:04) HaikuBot: FUN. PostureBOT: A good
+(16:46:06) HaikuBot: seating position
+(16:46:06) HaikuBot: FUN. PostureBOT:
+(16:46:07) HaikuBot: A good seating position
+(16:46:07) HaikuBot: also helps in the
+(16:46:07) Joseph_Bot: 2321 Menschen waren Kunstler
+(16:46:10) HaikuBot: position also
+(16:46:11) HaikuBot: helps in the electric chair.
+(16:46:11) HaikuBot: PostureBOT: hey
+(16:46:15) HaikuBot: Joseph_Bot: Menschen
+(16:46:15) HaikuBot: sind Kunstler PostureBOT:
+(16:46:15) HaikuBot: A healty siting
+(16:46:15) HaikuBot: Menschen sind Kunstler
+(16:46:15) HaikuBot: PostureBOT: A healty
+(16:46:17) HaikuBot: siting posture is
+(16:46:17) HaikuBot: Good posture prolongs
+(16:46:19) HaikuBot: your lifespan PostureBOT:
+(16:46:19) HaikuBot: Good posture prolongs
+(16:46:19) onions_83: Good posture prolongs your lifespan
+(16:46:21) HaikuBot: posture prolongs your
+(16:46:21) HaikuBot: lifespan PostureBOT: Good
+(16:46:23) HaikuBot: posture prolongs your
+(16:46:23) HaikuBot: prolongs your lifespan
+(16:46:25) HaikuBot: PostureBOT: Good posture
+(16:46:25) HaikuBot: prolongs your lifespan.
+(16:46:28) HaikuBot: your back looks happy
+(16:46:28) HaikuBot: Joseph_Bot: Menschen waren
+(16:46:29) HaikuBot: Kunstler onions_83: Good
+(16:46:29) HaikuBot: Joseph_Bot: Menschen
+(16:46:30) Joseph_Bot: 5717 Menschen sind Kunstler
+(16:46:31) HaikuBot: waren Kunstler onions_83: Good
+(16:46:31) HaikuBot: posture prolongs your
+(16:46:54) PostureBOT: The better your posture, the better your work.
+(16:47:08) Joseph_Bot: 2414 Menschen waren Kunstler
+(16:47:12) vocaloid: MEncoder svn r34540 (Raspbian), built with gcc-4.6 (C) 2000-2012 MPlayer Team
+(16:47:12) vocaloid: success: format: 16  data: 0x0 - 0x0
+(16:47:12) vocaloid: MF file format detected.
+(16:47:12) vocaloid: [mf] search expr: frame0*.png
+(16:47:12) vocaloid: [mf] number of files: 33 (132)
+(16:47:13) vocaloid: VIDEO:  [MPNG]  0x0  24bpp  10.000 fps    0.0 kbps ( 0.0 kbyte/s)
+(16:47:13) vocaloid: libavformat version 53.21.1 (external)
+(16:47:15) vocaloid: Mismatching header version 53.19.0
+(16:47:15) vocaloid: Audio only file format detected.
+(16:47:17) HaikuBot: the better your work.
+(16:47:17) vocaloid: [V] filefmt:65536  fourcc:0x474E504D  size:0x0  fps:10.000  ftime:=0.1000
+(16:47:17) vocaloid: ==========================================================================
+(16:47:17) HaikuBot: Joseph_Bot: Menschen waren
+(16:47:17) HaikuBot: Kunstler vocaloid:
+(16:47:17) HaikuBot: Joseph_Bot: Menschen
+(16:47:17) HaikuBot: waren Kunstler vocaloid:
+(16:47:17) HaikuBot: MEncoder svn r34540
+(16:47:19) vocaloid: Opening audio decoder: [pcm] Uncompressed PCM audio decoder
+(16:47:19) vocaloid: AUDIO: 22050 Hz, 1 ch, s16le, 352.8 kbit/100.00% (ratio: 44100->44100)
+(16:47:21) vocaloid: Selected audio codec: [pcm] afm: pcm (Uncompressed PCM)
+(16:47:21) vocaloid: ==========================================================================
+(16:47:21) Joseph_Bot: 5895 Menschen sind Kunstler
+(16:47:23) vocaloid: libavcodec version 53.35.0 (external)
+(16:47:23) vocaloid: Mismatching header version 53.32.2
+(16:47:24) HaikuBot: 0x0 0x0 vocaloid:
+(16:47:24) HaikuBot: MF file format detected.
+(16:47:24) HaikuBot: vocaloid: [mf] search
+(16:47:29) HaikuBot: 24bpp fps kbps kbyte/s)
+(16:47:29) HaikuBot: vocaloid: libavformat
+(16:47:29) HaikuBot: version (external)
+(16:47:35) vocaloid: videocodec: libavcodec (500x402 fourcc=34504d46 [FMP4])
+(16:47:35) vocaloid: Writing header...
+(16:47:37) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(16:47:37) vocaloid: Writing header...
+(16:47:39) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(16:47:39) vocaloid: Pos:   0.1s      1f ( 3%)  0.00fps Trem:   0min   0mb  A-V:0.000 [0:0]
+(16:47:39) PostureBOT: A healty siting posture is FUN.
+(16:47:46) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:47:47) HaikuBot: pcm (Uncompressed
+(16:47:47) HaikuBot: PCM) vocaloid: Joseph_Bot:
+(16:47:47) HaikuBot: Menschen sind Kunstler
+(16:47:49) PostureBOT: Good posture prolongs your lifespan.
+(16:47:51) query: it is a truth universally acknogegde
+(16:47:53) HaikuBot: libavcodec (500x402
+(16:47:53) HaikuBot: fourcc=34504d46 [FMP4]) vocaloid: Writing
+(16:47:53) HaikuBot: header... vocaloid:
+(16:47:57) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:47:59) PostureBOT: The better your posture, the better your work.
+(16:48:00) HaikuBot: header. vocaloid:
+(16:48:00) HaikuBot: Pos: 0.1s 1f 0.00fps Trem: 0min 0mb
+(16:48:00) HaikuBot: A-V:0.000 PostureBOT:
+(16:48:00) HaikuBot: Pos: 0.1s 1f 0.00fps Trem:
+(16:48:00) HaikuBot: 0min 0mb A-V:0.000 PostureBOT:
+(16:48:01) HaikuBot: A healty siting
+(16:48:01) HaikuBot: 0.00fps Trem: 0min 0mb A-V:0.000
+(16:48:03) HaikuBot: PostureBOT: A healty
+(16:48:03) HaikuBot: siting posture is
+(16:48:05) HaikuBot: itself reveals the
+(16:48:05) HaikuBot: state of mind. PostureBOT:
+(16:48:07) HaikuBot: Good posture prolongs
+(16:48:07) HaikuBot: universally
+(16:48:07) Joseph_Bot: 6074 Menschen sind Kunstler
+(16:48:09) HaikuBot: acknogegde PostureBOT:
+(16:48:09) HaikuBot: The posture of the
+(16:48:14) Joseph_Bot: 2506 Menschen waren Kunstler
+(16:48:16) PostureBOT: Sitting position neatly adapted.
+(16:48:19) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:48:22) HaikuBot: position neatly
+(16:48:22) HaikuBot: adapted. PostureBOT:
+(16:48:22) HaikuBot: The posture of the
+(16:48:24) PostureBOT: The better your posture, the better your work.
+(16:48:29) PostureBOT: Sitting position neatly adapted.
+(16:48:34) PostureBOT: Well done, your back looks happy
+(16:48:36) HaikuBot: position neatly
+(16:48:36) HaikuBot: adapted. PostureBOT:
+(16:48:36) HaikuBot: Well done, your back looks
+(16:48:39) maartje: what a truth
+(16:48:39) query: have you lied today?
+(16:48:39) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:48:43) HaikuBot: maartje: what a truth
+(16:48:43) HaikuBot: query: have you lied today?
+(16:48:43) HaikuBot: PostureBOT: The
+(16:48:43) HaikuBot: truth query: have you
+(16:48:43) HaikuBot: lied today? PostureBOT:
+(16:48:43) HaikuBot: The posture of the
+(16:48:43) query: have you lied today?
+(16:48:43) query: have you lied today?
+(16:48:44) PostureBOT: A good seating position also helps in the electric chair.
+(16:48:44) query: think of what your face looks like when you reach an orgasm
+(16:48:46) HaikuBot: have you lied today?
+(16:48:46) HaikuBot: query: have you lied today?
+(16:48:47) HaikuBot: PostureBOT: A
+(16:48:49) PostureBOT: Well done, your back looks happy
+(16:48:51) HaikuBot: what your face looks like
+(16:48:51) HaikuBot: when you reach an orgasm
+(16:48:51) HaikuBot: PostureBOT: Well
+(16:48:51) HaikuBot: like when you reach an
+(16:48:51) HaikuBot: orgasm PostureBOT:
+(16:48:53) HaikuBot: Well done, your back looks
+(16:48:54) PostureBOT: Sitting position neatly adapted.
+(16:48:57) Joseph_Bot: 6252 Menschen sind Kunstler
+(16:48:57) query: fuck Kunstler!
+(16:48:59) PostureBOT: Good posture prolongs your lifespan.
+(16:49:02) HaikuBot: sind Kunstler query:
+(16:49:02) HaikuBot: fuck Kunstler! PostureBOT:
+(16:49:02) HaikuBot: Good posture prolongs
+(16:49:02) HaikuBot: Kunstler query: fuck
+(16:49:02) HaikuBot: Kunstler! PostureBOT: Good
+(16:49:02) query: fuck Kunstler!
+(16:49:02) query: you know you are not appreciated here
+(16:49:02) query: you know you are not appreciated here
+(16:49:02) query: fuck Kunstler!
+(16:49:03) HaikuBot: posture prolongs your
+(16:49:03) HaikuBot: query: fuck Kunstler!
+(16:49:03) query: you know you are not appreciated here
+(16:49:05) HaikuBot: PostureBOT: Good posture
+(16:49:05) HaikuBot: prolongs your lifespan.
+(16:49:07) HaikuBot: query: fuck Kunstler!
+(16:49:07) HaikuBot: query: you know you are not
+(16:49:07) query: you know you are not appreciated here
+(16:49:09) HaikuBot: appreciated
+(16:49:09) HaikuBot: query: fuck Kunstler!
+(16:49:09) query: you know you are not appreciated here
+(16:49:11) HaikuBot: query: you know you are not
+(16:49:11) HaikuBot: appreciated
+(16:49:13) HaikuBot: query: you know you
+(16:49:13) HaikuBot: are not appreciated
+(16:49:15) HaikuBot: here query: you know
+(16:49:16) Joseph_Bot: 2599 Menschen waren Kunstler
+(16:49:16) query: fuck Kunstler!
+(16:49:19) PostureBOT: Good posture prolongs your lifespan.
+(16:49:21) HaikuBot: Kunstler query: fuck
+(16:49:21) query: you know you are not appreciated here
+(16:49:21) query: fuck Kunstler!
+(16:49:21) HaikuBot: Kunstler! PostureBOT: Good
+(16:49:21) HaikuBot: posture prolongs your
+(16:49:21) HaikuBot: query: fuck Kunstler!
+(16:49:21) HaikuBot: PostureBOT: Good posture
+(16:49:21) HaikuBot: prolongs your lifespan.
+(16:49:21) query: you know you are not appreciated here
+(16:49:25) HaikuBot: query: fuck Kunstler!
+(16:49:25) HaikuBot: query: you know you are not
+(16:49:25) query: you know you are not appreciated here
+(16:49:25) HaikuBot: appreciated
+(16:49:49) Joseph_Bot: 6431 Menschen sind Kunstler
+(16:49:49) query: fuck Kunstler!
+(16:49:52) HaikuBot: appreciated
+(16:49:52) HaikuBot: here Joseph_Bot: Menschen sind
+(16:49:52) HaikuBot: Kunstler query: fuck
+(16:49:52) query: you know you are not appreciated here
+(16:49:52) query: fuck Kunstler!
+(16:49:54) PostureBOT: Well done, your back looks happy
+(16:50:18) Joseph_Bot: 2692 Menschen waren Kunstler
+(16:50:18) query: fuck Kunstler!
+(16:50:23) HaikuBot: your back looks happy
+(16:50:23) HaikuBot: Joseph_Bot: Menschen waren
+(16:50:23) HaikuBot: Kunstler query: fuck
+(16:50:23) query: you know you are not appreciated here
+(16:50:23) query: fuck Kunstler!
+(16:50:40) Joseph_Bot: 6609 Menschen sind Kunstler
+(16:50:40) query: fuck Kunstler!
+(16:50:54) PostureBOT: The better your posture, the better your work.
+(16:50:56) HaikuBot: Kunstler query: fuck
+(16:50:56) query: you know you are not appreciated here
+(16:50:56) query: fuck Kunstler!
+(16:50:56) HaikuBot: Kunstler! PostureBOT: The
+(16:50:56) HaikuBot: better your posture,
+(16:51:05) PostureBOT: hey sweety, cute back.
+(16:51:14) PostureBOT: The better your posture, the better your work.
+(16:51:19) PostureBOT: Sitting position neatly adapted.
+(16:51:20) Joseph_Bot: 2785 Menschen waren Kunstler
+(16:51:20) query: fuck Kunstler!
+(16:51:24) PostureBOT: The better your posture, the better your work.
+(16:51:27) HaikuBot: neatly adapted.
+(16:51:27) HaikuBot: Joseph_Bot: Menschen waren
+(16:51:27) HaikuBot: Kunstler query: fuck
+(16:51:27) query: you know you are not appreciated here
+(16:51:27) query: fuck Kunstler!
+(16:51:29) PostureBOT: hey sweety, cute back.
+(16:51:30) HaikuBot: better your posture,
+(16:51:30) HaikuBot: the better your work. query:
+(16:51:30) HaikuBot: you know you are not
+(16:51:30) HaikuBot: the better your work.
+(16:51:31) Joseph_Bot: 6788 Menschen sind Kunstler
+(16:51:31) HaikuBot: query: you know you are not
+(16:51:31) HaikuBot: appreciated
+(16:51:31) query: fuck Kunstler!
+(16:51:34) HaikuBot: query: fuck Kunstler!
+(16:51:34) query: you know you are not appreciated here
+(16:51:34) HaikuBot: PostureBOT: hey sweety,
+(16:51:34) PostureBOT: The better your posture, the better your work.
+(16:51:36) HaikuBot: cute back. Joseph_Bot:
+(16:51:36) HaikuBot: PostureBOT: hey
+(16:51:37) HaikuBot: sweety, cute back. Joseph_Bot:
+(16:51:37) HaikuBot: Menschen sind Kunstler
+(16:51:37) query: fuck Kunstler!
+(16:51:39) HaikuBot: query: fuck Kunstler!
+(16:51:39) HaikuBot: query: you know you are not
+(16:51:39) PostureBOT: Sitting position neatly adapted.
+(16:51:39) query: you know you are not appreciated here
+(16:51:41) HaikuBot: appreciated
+(16:51:43) HaikuBot: Sitting position
+(16:51:43) HaikuBot: neatly adapted. query:
+(16:51:43) HaikuBot: you know you are not
+(16:51:45) HaikuBot: neatly adapted.
+(16:51:45) HaikuBot: query: you know you are not
+(16:51:47) HaikuBot: appreciated
+(16:51:59) PostureBOT: A healty siting posture is FUN.
+(16:52:09) PostureBOT: hey sweety, cute back.
+(16:52:11) HaikuBot: PostureBOT: A
+(16:52:11) HaikuBot: healty siting posture is
+(16:52:11) HaikuBot: FUN. PostureBOT:
+(16:52:14) PostureBOT: The better your posture, the better your work.
+(16:52:17) Joseph_Bot: 6966 Menschen sind Kunstler
+(16:52:17) query: fuck Kunstler!
+(16:52:19) PostureBOT: hey sweety, cute back.
+(16:52:20) HaikuBot: posture, the better
+(16:52:20) HaikuBot: your work. Joseph_Bot: Menschen
+(16:52:20) HaikuBot: sind Kunstler query:
+(16:52:20) query: fuck Kunstler!
+(16:52:24) PostureBOT: Sitting position neatly adapted.
+(16:52:27) Joseph_Bot: 2877 Menschen waren Kunstler
+(16:52:27) query: fuck Kunstler!
+(16:52:30) HaikuBot: neatly adapted.
+(16:52:30) HaikuBot: Joseph_Bot: Menschen waren
+(16:52:30) HaikuBot: Kunstler query: fuck
+(16:52:31) query: you know you are not appreciated here
+(16:52:31) query: fuck Kunstler!
+(16:52:40) maartje: where is the toilet?
+(16:52:49) PostureBOT: Well done, your back looks happy
+(16:52:51) HaikuBot: query: fuck Kunstler!
+(16:52:51) HaikuBot: maartje: where is the toilet?
+(16:52:51) HaikuBot: PostureBOT: Well
+(16:52:51) query: you know you are not appreciated here
+(16:53:05) maartje: im not so bored
+(16:53:05) query: just go to the bathroom if you have to
+(16:53:07) HaikuBot: query: you know you
+(16:53:07) HaikuBot: are not appreciated
+(16:53:07) HaikuBot: here maartje: im not
+(16:53:09) Joseph_Bot: 7145 Menschen sind Kunstler
+(16:53:09) query: fuck Kunstler!
+(16:53:10) HaikuBot: query: just go to
+(16:53:11) HaikuBot: the bathroom if you have to
+(16:53:11) HaikuBot: Joseph_Bot: Menschen
+(16:53:11) HaikuBot: go to the bathroom
+(16:53:11) HaikuBot: if you have to Joseph_Bot:
+(16:53:11) HaikuBot: Menschen sind Kunstler
+(16:53:11) query: fuck Kunstler!
+(16:53:29) Joseph_Bot: 2970 Menschen waren Kunstler
+(16:53:29) query: fuck Kunstler!
+(16:53:31) HaikuBot: query: fuck Kunstler!
+(16:53:31) HaikuBot: Joseph_Bot: Menschen waren
+(16:53:31) query: you know you are not appreciated here
+(16:53:31) HaikuBot: Kunstler query: fuck
+(16:53:31) query: you know you are not appreciated here
+(16:53:31) query: fuck Kunstler!
+(16:53:34) HaikuBot: query: you know you
+(16:53:34) HaikuBot: are not appreciated
+(16:53:34) HaikuBot: here query: you know
+(16:53:39) PostureBOT: The better your posture, the better your work.
+(16:53:44) PostureBOT: A healty siting posture is FUN.
+(16:53:46) HaikuBot: the better your work.
+(16:53:46) HaikuBot: PostureBOT: A healty
+(16:53:46) HaikuBot: siting posture is
+(16:53:49) PostureBOT: Good posture prolongs your lifespan.
+(16:53:54) PostureBOT: A healty siting posture is FUN.
+(16:53:56) HaikuBot: PostureBOT: Good
+(16:53:56) HaikuBot: posture prolongs your lifespan.
+(16:53:56) HaikuBot: PostureBOT: A
+(16:53:56) HaikuBot: Good posture prolongs
+(16:53:56) HaikuBot: your lifespan. PostureBOT:
+(16:53:57) HaikuBot: A healty siting
+(16:53:57) HaikuBot: prolongs your lifespan.
+(16:53:59) HaikuBot: PostureBOT: A healty
+(16:53:59) HaikuBot: siting posture is
+(16:53:59) Joseph_Bot: 7323 Menschen sind Kunstler
+(16:53:59) query: fuck Kunstler!
+(16:53:59) PostureBOT: Good posture prolongs your lifespan.
+(16:54:03) HaikuBot: sind Kunstler query:
+(16:54:03) HaikuBot: fuck Kunstler! PostureBOT:
+(16:54:03) HaikuBot: Good posture prolongs
+(16:54:03) HaikuBot: Kunstler query: fuck
+(16:54:03) query: fuck Kunstler!
+(16:54:03) query: you know you are not appreciated here
+(16:54:03) query: you know you are not appreciated here
+(16:54:03) query: fuck Kunstler!
+(16:54:04) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:54:05) HaikuBot: Kunstler! PostureBOT: Good
+(16:54:05) HaikuBot: posture prolongs your
+(16:54:07) HaikuBot: query: fuck Kunstler!
+(16:54:07) HaikuBot: PostureBOT: Good posture
+(16:54:07) query: you know you are not appreciated here
+(16:54:09) HaikuBot: prolongs your lifespan.
+(16:54:09) HaikuBot: query: fuck Kunstler!
+(16:54:09) PostureBOT: Well done, your back looks happy
+(16:54:09) query: you know you are not appreciated here
+(16:54:12) HaikuBot: query: you know you are not
+(16:54:12) HaikuBot: appreciated
+(16:54:13) HaikuBot: The posture of the
+(16:54:13) HaikuBot: body itself reveals the
+(16:54:15) HaikuBot: state of mind. query:
+(16:54:15) HaikuBot: your back looks happy
+(16:54:17) HaikuBot: query: you know you are not
+(16:54:17) HaikuBot: appreciated
+(16:54:31) Joseph_Bot: 3063 Menschen waren Kunstler
+(16:54:31) query: fuck Kunstler!
+(16:54:34) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:54:39) PostureBOT: Well done, your back looks happy
+(16:54:41) HaikuBot: itself reveals the
+(16:54:41) HaikuBot: state of mind. PostureBOT:
+(16:54:41) HaikuBot: Well done, your back looks
+(16:54:41) HaikuBot: reveals the state of
+(16:54:41) HaikuBot: mind. PostureBOT: Well done,
+(16:54:43) HaikuBot: your back looks happy
+(16:54:50) Joseph_Bot: 7502 Menschen sind Kunstler
+(16:54:50) query: fuck Kunstler!
+(16:54:54) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:54:56) HaikuBot: sind Kunstler query:
+(16:54:56) HaikuBot: fuck Kunstler! PostureBOT:
+(16:54:56) HaikuBot: The posture of the
+(16:54:56) query: fuck Kunstler!
+(16:54:56) query: you know you are not appreciated here
+(16:54:58) HaikuBot: query: fuck Kunstler!
+(16:54:58) query: you know you are not appreciated here
+(16:54:58) HaikuBot: query: you know you are not
+(16:54:58) HaikuBot: appreciated
+(16:54:59) PostureBOT: A healty siting posture is FUN.
+(16:55:01) HaikuBot: query: you know you
+(16:55:01) HaikuBot: are not appreciated
+(16:55:01) HaikuBot: here PostureBOT:
+(16:55:04) PostureBOT: hey sweety, cute back.
+(16:55:32) Joseph_Bot: 3156 Menschen waren Kunstler
+(16:55:32) query: fuck Kunstler!
+(16:55:34) PostureBOT: The better your posture, the better your work.
+(16:55:35) HaikuBot: hey sweety, cute back.
+(16:55:35) HaikuBot: Joseph_Bot: Menschen waren
+(16:55:35) HaikuBot: Kunstler query: fuck
+(16:55:35) query: you know you are not appreciated here
+(16:55:35) query: fuck Kunstler!
+(16:55:38) HaikuBot: better your posture,
+(16:55:38) HaikuBot: the better your work. query:
+(16:55:38) HaikuBot: you know you are not
+(16:55:38) HaikuBot: the better your work.
+(16:55:39) HaikuBot: query: you know you are not
+(16:55:39) HaikuBot: appreciated
+(16:55:41) Joseph_Bot: 7680 Menschen sind Kunstler
+(16:55:41) query: fuck Kunstler!
+(16:55:55) maartje: what did you say?
+(16:55:56) HaikuBot: Kunstler! Joseph_Bot:
+(16:55:56) HaikuBot: Menschen sind Kunstler query:
+(16:55:56) HaikuBot: fuck Kunstler! maartje:
+(16:55:56) query: fuck Kunstler!
+(16:55:56) query: you know you are not appreciated here
+(16:55:57) maaike: OK bots, go!
+(16:55:58) HaikuBot: query: fuck Kunstler!
+(16:55:58) query: you know you are not appreciated here
+(16:55:58) HaikuBot: query: you know you are not
+(16:55:58) HaikuBot: appreciated
+(16:55:59) PostureBOT: A healty siting posture is FUN.
+(16:56:02) HaikuBot: query: you know you
+(16:56:02) HaikuBot: are not appreciated
+(16:56:02) HaikuBot: here PostureBOT:
+(16:56:06) maartje: fix it!
+(16:56:06) query: do you realize what you did?!
+(16:56:18) maartje: sure sure
+(16:56:18) query: are you insecure?
+(16:56:22) HaikuBot: it! query: do you
+(16:56:22) HaikuBot: realize what you did?! maartje:
+(16:56:22) HaikuBot: sure sure query: are
+(16:56:22) HaikuBot: you realize what you
+(16:56:22) HaikuBot: did?! maartje: sure sure query:
+(16:56:22) query: are you insecure?
+(16:56:22) query: are you insecure?
+(16:56:23) HaikuBot: are you insecure?
+(16:56:27) Joseph_Bot: 7859 Menschen sind Kunstler
+(16:56:27) query: fuck Kunstler!
+(16:56:28) HaikuBot: are you insecure?
+(16:56:28) HaikuBot: query: are you insecure?
+(16:56:28) HaikuBot: Joseph_Bot: Menschen
+(16:56:38) Joseph_Bot: 3248 Menschen waren Kunstler
+(16:56:38) query: fuck Kunstler!
+(16:56:41) HaikuBot: query: fuck Kunstler!
+(16:56:41) query: you know you are not appreciated here
+(16:56:41) HaikuBot: Joseph_Bot: Menschen waren
+(16:56:41) HaikuBot: Kunstler query: fuck
+(16:56:41) query: you know you are not appreciated here
+(16:56:41) query: fuck Kunstler!
+(16:56:43) HaikuBot: query: you know you
+(16:56:43) HaikuBot: are not appreciated
+(16:56:43) HaikuBot: here query: you know
+(16:57:18) Joseph_Bot: 8037 Menschen sind Kunstler
+(16:57:18) query: fuck Kunstler!
+(16:57:20) PostureBOT: The better your posture, the better your work.
+(16:57:22) HaikuBot: Kunstler query: fuck
+(16:57:22) query: you know you are not appreciated here
+(16:57:22) query: fuck Kunstler!
+(16:57:22) HaikuBot: Kunstler! PostureBOT: The
+(16:57:22) HaikuBot: better your posture,
+(16:57:24) PostureBOT: Well done, your back looks happy
+(16:57:40) Joseph_Bot: 3341 Menschen waren Kunstler
+(16:57:40) query: fuck Kunstler!
+(16:57:44) HaikuBot: your back looks happy
+(16:57:45) HaikuBot: Joseph_Bot: Menschen waren
+(16:57:45) HaikuBot: Kunstler query: fuck
+(16:57:45) query: you know you are not appreciated here
+(16:57:45) query: fuck Kunstler!
+(16:57:54) PostureBOT: A good seating position also helps in the electric chair.
+(16:57:54) query: think of what your face looks like when you reach an orgasm
+(16:57:59) HaikuBot: position also
+(16:57:59) HaikuBot: helps in the electric chair.
+(16:57:59) HaikuBot: query: think of what
+(16:57:59) HaikuBot: also helps in the
+(16:57:59) HaikuBot: electric chair. query: think
+(16:57:59) PostureBOT: Sitting position neatly adapted.
+(16:58:01) HaikuBot: of what your face looks
+(16:58:01) HaikuBot: in the electric
+(16:58:03) HaikuBot: chair. query: think of what your
+(16:58:03) HaikuBot: face looks like when you
+(16:58:05) HaikuBot: the electric chair.
+(16:58:05) HaikuBot: query: think of what your face
+(16:58:08) HaikuBot: looks like when you reach
+(16:58:08) HaikuBot: chair. query: think of
+(16:58:09) HaikuBot: what your face looks like when you
+(16:58:09) HaikuBot: reach an orgasm
+(16:58:09) Joseph_Bot: 8216 Menschen sind Kunstler
+(16:58:09) query: fuck Kunstler!
+(16:58:15) PostureBOT: Well done, your back looks happy
+(16:58:16) HaikuBot: sind Kunstler query:
+(16:58:16) HaikuBot: fuck Kunstler! PostureBOT:
+(16:58:16) HaikuBot: Well done, your back looks
+(16:58:16) query: fuck Kunstler!
+(16:58:16) query: you know you are not appreciated here
+(16:58:18) HaikuBot: query: fuck Kunstler!
+(16:58:18) query: you know you are not appreciated here
+(16:58:18) HaikuBot: query: you know you are not
+(16:58:18) HaikuBot: appreciated
+(16:58:19) PostureBOT: Sitting position neatly adapted.
+(16:58:21) HaikuBot: query: you know you
+(16:58:21) HaikuBot: are not appreciated
+(16:58:21) HaikuBot: here PostureBOT:
+(16:58:21) HaikuBot: appreciated
+(16:58:21) HaikuBot: here PostureBOT: Sitting
+(16:58:23) HaikuBot: position neatly
+(16:58:25) PostureBOT: A healty siting posture is FUN.
+(16:58:35) PostureBOT: A good seating position also helps in the electric chair.
+(16:58:35) query: think of what your face looks like when you reach an orgasm
+(16:58:36) HaikuBot: PostureBOT: A
+(16:58:36) HaikuBot: healty siting posture is
+(16:58:36) HaikuBot: FUN. PostureBOT:
+(16:58:36) HaikuBot: siting posture is
+(16:58:36) HaikuBot: FUN. PostureBOT: A good
+(16:58:36) query: think of what your face looks like when you reach an orgasm
+(16:58:37) HaikuBot: seating position
+(16:58:37) HaikuBot: FUN. PostureBOT:
+(16:58:39) HaikuBot: A good seating position
+(16:58:39) HaikuBot: also helps in the
+(16:58:40) query: think of what your face looks like when you reach an orgasm
+(16:58:41) HaikuBot: what your face looks like
+(16:58:41) HaikuBot: when you reach an orgasm
+(16:58:42) Joseph_Bot: 3434 Menschen waren Kunstler
+(16:58:42) query: fuck Kunstler!
+(16:58:43) HaikuBot: query: think of what
+(16:58:43) HaikuBot: face looks like when you
+(16:58:45) HaikuBot: reach an orgasm query:
+(16:58:45) HaikuBot: think of what your face
+(16:58:47) HaikuBot: looks like when you reach
+(16:58:47) HaikuBot: an orgasm query: think
+(16:58:49) HaikuBot: of what your face looks
+(16:58:50) HaikuBot: like when you reach an
+(16:58:51) HaikuBot: orgasm query: think of
+(16:58:51) HaikuBot: what your face looks like
+(16:58:53) HaikuBot: reach an orgasm
+(16:58:53) HaikuBot: query: think of what your face
+(16:58:55) HaikuBot: looks like when you reach
+(16:58:55) HaikuBot: what your face looks like
+(16:58:57) HaikuBot: when you reach an orgasm
+(16:58:57) HaikuBot: Joseph_Bot: Menschen
+(16:58:59) Joseph_Bot: 8394 Menschen sind Kunstler
+(16:58:59) query: fuck Kunstler!
+(16:59:05) PostureBOT: The better your posture, the better your work.
+(16:59:07) HaikuBot: Kunstler query: fuck
+(16:59:07) HaikuBot: Kunstler! PostureBOT: The
+(16:59:07) query: you know you are not appreciated here
+(16:59:07) query: fuck Kunstler!
+(16:59:07) HaikuBot: better your posture,
+(16:59:10) PostureBOT: The posture of the body itself reveals the state of mind.
+(16:59:15) PostureBOT: hey sweety, cute back.
+(16:59:17) HaikuBot: itself reveals the
+(16:59:17) HaikuBot: state of mind. PostureBOT:
+(16:59:17) HaikuBot: hey sweety, cute back.
+(16:59:44) Joseph_Bot: 3527 Menschen waren Kunstler
+(16:59:44) query: fuck Kunstler!
+(16:59:51) Joseph_Bot: 8573 Menschen sind Kunstler
+(16:59:51) query: fuck Kunstler!
+(16:59:52) HaikuBot: Joseph_Bot: Menschen
+(16:59:52) HaikuBot: waren Kunstler query: fuck
+(16:59:52) HaikuBot: Kunstler! Joseph_Bot:
+(16:59:52) query: you know you are not appreciated here
+(16:59:52) query: fuck Kunstler!
+(16:59:54) HaikuBot: query: fuck Kunstler!
+(16:59:54) query: you know you are not appreciated here
+(16:59:54) HaikuBot: query: you know you are not
+(16:59:54) HaikuBot: appreciated
+(16:59:56) HaikuBot: query: fuck Kunstler!
+(16:59:56) query: you know you are not appreciated here
+(16:59:56) HaikuBot: query: you know you are not
+(16:59:56) HaikuBot: appreciated
+(17:00:15) PostureBOT: Good posture prolongs your lifespan.
+(17:00:16) HaikuBot: query: you know you
+(17:00:16) HaikuBot: are not appreciated
+(17:00:16) HaikuBot: here PostureBOT:
+(17:00:37) Joseph_Bot: 8751 Menschen sind Kunstler
+(17:00:37) query: fuck Kunstler!
+(17:00:51) Joseph_Bot: 3619 Menschen waren Kunstler
+(17:00:51) query: fuck Kunstler!
+(17:00:53) HaikuBot: query: fuck Kunstler!
+(17:00:53) query: you know you are not appreciated here
+(17:00:53) HaikuBot: Joseph_Bot: Menschen waren
+(17:00:53) HaikuBot: Kunstler query: fuck
+(17:00:53) query: you know you are not appreciated here
+(17:00:53) query: fuck Kunstler!
+(17:00:55) HaikuBot: query: you know you
+(17:00:55) HaikuBot: are not appreciated
+(17:00:56) HaikuBot: here query: you know
+(17:01:28) Joseph_Bot: 8930 Menschen sind Kunstler
+(17:01:28) query: fuck Kunstler!
+(17:01:52) Joseph_Bot: 3712 Menschen waren Kunstler
+(17:01:52) query: fuck Kunstler!
+(17:01:54) HaikuBot: query: fuck Kunstler!
+(17:01:54) query: you know you are not appreciated here
+(17:01:54) HaikuBot: Joseph_Bot: Menschen waren
+(17:01:55) HaikuBot: Kunstler query: fuck
+(17:01:55) query: you know you are not appreciated here
+(17:01:55) query: fuck Kunstler!
+(17:01:57) HaikuBot: query: you know you
+(17:01:57) HaikuBot: are not appreciated
+(17:01:57) HaikuBot: here query: you know
+(17:02:18) Joseph_Bot: 9108 Menschen sind Kunstler
+(17:02:18) query: fuck Kunstler!
+(17:02:53) Joseph_Bot: 3805 Menschen waren Kunstler
+(17:02:53) query: fuck Kunstler!
+(17:02:55) HaikuBot: query: fuck Kunstler!
+(17:02:55) query: you know you are not appreciated here
+(17:02:55) HaikuBot: Joseph_Bot: Menschen waren
+(17:02:55) HaikuBot: Kunstler query: fuck
+(17:02:55) query: you know you are not appreciated here
+(17:02:56) query: fuck Kunstler!
+(17:02:57) HaikuBot: query: you know you
+(17:02:58) HaikuBot: are not appreciated
+(17:02:58) HaikuBot: here query: you know
+(17:03:08) Joseph_Bot: 9287 Menschen sind Kunstler
+(17:03:08) query: fuck Kunstler!
+(17:03:54) Joseph_Bot: 9465 Menschen sind Kunstler
+(17:03:54) query: fuck Kunstler!
+(17:03:57) HaikuBot: Kunstler query: fuck
+(17:03:57) query: you know you are not appreciated here
+(17:03:57) query: fuck Kunstler!
+(17:03:57) HaikuBot: Kunstler! Joseph_Bot: Menschen
+(17:03:57) HaikuBot: sind Kunstler query:
+(17:03:57) query: fuck Kunstler!
+(17:03:59) Joseph_Bot: 3898 Menschen waren Kunstler
+(17:03:59) query: fuck Kunstler!
+(17:04:03) HaikuBot: query: fuck Kunstler!
+(17:04:03) HaikuBot: Joseph_Bot: Menschen waren
+(17:04:03) HaikuBot: Kunstler query: fuck
+(17:04:03) query: you know you are not appreciated here
+(17:04:03) query: you know you are not appreciated here
+(17:04:03) query: fuck Kunstler!
+(17:04:05) HaikuBot: query: you know you
+(17:04:05) HaikuBot: are not appreciated
+(17:04:05) HaikuBot: here query: you know
+(17:04:46) Joseph_Bot: 9644 Menschen sind Kunstler
+(17:04:46) query: fuck Kunstler!
+(17:05:01) Joseph_Bot: 3990 Menschen waren Kunstler
+(17:05:01) query: fuck Kunstler!
+(17:05:04) HaikuBot: query: fuck Kunstler!
+(17:05:04) HaikuBot: Joseph_Bot: Menschen waren
+(17:05:04) query: you know you are not appreciated here
+(17:05:04) HaikuBot: Kunstler query: fuck
+(17:05:04) query: you know you are not appreciated here
+(17:05:04) query: fuck Kunstler!
+(17:05:06) HaikuBot: query: you know you
+(17:05:06) HaikuBot: are not appreciated
+(17:05:06) HaikuBot: here query: you know
+(17:05:36) Joseph_Bot: 9822 Menschen sind Kunstler
+(17:05:36) query: fuck Kunstler!
+(17:06:03) Joseph_Bot: 4083 Menschen waren Kunstler
+(17:06:03) query: fuck Kunstler!
+(17:06:05) HaikuBot: query: fuck Kunstler!
+(17:06:05) query: you know you are not appreciated here
+(17:06:05) HaikuBot: Joseph_Bot: Menschen waren
+(17:06:05) HaikuBot: Kunstler query: fuck
+(17:06:05) query: you know you are not appreciated here
+(17:06:05) query: fuck Kunstler!
+(17:06:07) HaikuBot: query: you know you
+(17:06:07) HaikuBot: are not appreciated
+(17:06:07) HaikuBot: here query: you know
+(17:06:27) Joseph_Bot: 10001 Menschen sind Kunstler
+(17:06:27) query: fuck Kunstler!
+(17:07:03) Joseph_Bot: 4176 Menschen waren Kunstler
+(17:07:03) query: fuck Kunstler!
+(17:07:05) HaikuBot: query: fuck Kunstler!
+(17:07:05) HaikuBot: Joseph_Bot: Menschen waren
+(17:07:05) HaikuBot: Kunstler query: fuck
+(17:07:05) query: you know you are not appreciated here
+(17:07:05) query: you know you are not appreciated here
+(17:07:05) query: fuck Kunstler!
+(17:07:07) HaikuBot: query: you know you
+(17:07:07) HaikuBot: are not appreciated
+(17:07:07) HaikuBot: here query: you know
+(17:07:17) Joseph_Bot: 10179 Menschen sind Kunstler
+(17:07:17) query: fuck Kunstler!
+(17:08:03) Joseph_Bot: 10358 Menschen sind Kunstler
+(17:08:03) query: fuck Kunstler!
+(17:08:05) HaikuBot: Kunstler query: fuck
+(17:08:05) HaikuBot: Kunstler! Joseph_Bot: Menschen
+(17:08:05) query: you know you are not appreciated here
+(17:08:05) query: fuck Kunstler!
+(17:08:05) HaikuBot: sind Kunstler query:
+(17:08:05) query: fuck Kunstler!
+(17:08:10) Joseph_Bot: 4269 Menschen waren Kunstler
+(17:08:10) query: fuck Kunstler!
+(17:08:13) HaikuBot: query: fuck Kunstler!
+(17:08:13) query: you know you are not appreciated here
+(17:08:13) HaikuBot: Joseph_Bot: Menschen waren
+(17:08:13) HaikuBot: Kunstler query: fuck
+(17:08:13) query: you know you are not appreciated here
+(17:08:13) query: fuck Kunstler!
+(17:08:15) HaikuBot: query: you know you
+(17:08:15) HaikuBot: are not appreciated
+(17:08:15) HaikuBot: here query: you know
+(17:08:54) Joseph_Bot: 10536 Menschen sind Kunstler
+(17:08:54) query: fuck Kunstler!
+(17:08:59) lucian: sadoifaso
+(17:09:00) HaikuBot: Kunstler! Joseph_Bot:
+(17:09:00) HaikuBot: Menschen sind Kunstler query:
+(17:09:00) HaikuBot: fuck Kunstler! lucian:
+(17:09:00) query: fuck Kunstler!
+(17:09:00) query: you know you are not appreciated here
+(17:09:01) HaikuBot: query: fuck Kunstler!
+(17:09:01) query: you know you are not appreciated here
+(17:09:02) HaikuBot: query: you know you are not
+(17:09:02) HaikuBot: appreciated
+(17:09:12) Joseph_Bot: 4361 Menschen waren Kunstler
+(17:09:12) query: fuck Kunstler!
+(17:09:45) Joseph_Bot: 10715 Menschen sind Kunstler
+(17:09:45) query: fuck Kunstler!
+(17:09:47) HaikuBot: Joseph_Bot: Menschen
+(17:09:47) HaikuBot: waren Kunstler query: fuck
+(17:09:47) HaikuBot: Kunstler! Joseph_Bot:
+(17:09:47) query: you know you are not appreciated here
+(17:09:47) query: fuck Kunstler!
+(17:09:49) HaikuBot: query: fuck Kunstler!
+(17:09:49) HaikuBot: query: you know you are not
+(17:09:49) query: you know you are not appreciated here
+(17:09:49) HaikuBot: appreciated
+(17:09:50) HaikuBot: query: fuck Kunstler!
+(17:09:50) query: you know you are not appreciated here
+(17:09:51) HaikuBot: query: you know you are not
+(17:09:51) HaikuBot: appreciated
+(17:10:13) Joseph_Bot: 4454 Menschen waren Kunstler
+(17:10:13) query: fuck Kunstler!
+(17:10:36) Joseph_Bot: 10893 Menschen sind Kunstler
+(17:10:36) query: fuck Kunstler!
+(17:10:38) HaikuBot: Joseph_Bot: Menschen
+(17:10:38) HaikuBot: waren Kunstler query: fuck
+(17:10:38) HaikuBot: Kunstler! Joseph_Bot:
+(17:10:38) query: you know you are not appreciated here
+(17:10:38) query: fuck Kunstler!
+(17:10:39) HaikuBot: query: fuck Kunstler!
+(17:10:39) query: you know you are not appreciated here
+(17:10:39) HaikuBot: query: you know you are not
+(17:10:39) HaikuBot: appreciated
+(17:10:41) HaikuBot: query: fuck Kunstler!
+(17:10:41) query: you know you are not appreciated here
+(17:10:41) HaikuBot: query: you know you are not
+(17:10:41) HaikuBot: appreciated
+(17:11:16) Joseph_Bot: 4547 Menschen waren Kunstler
+(17:11:16) query: fuck Kunstler!
+(17:11:27) Joseph_Bot: 11072 Menschen sind Kunstler
+(17:11:27) query: fuck Kunstler!
+(17:11:29) HaikuBot: Joseph_Bot: Menschen
+(17:11:29) HaikuBot: waren Kunstler query: fuck
+(17:11:29) HaikuBot: Kunstler! Joseph_Bot:
+(17:11:29) query: you know you are not appreciated here
+(17:11:29) query: fuck Kunstler!
+(17:11:30) HaikuBot: query: fuck Kunstler!
+(17:11:31) query: you know you are not appreciated here
+(17:11:31) HaikuBot: query: you know you are not
+(17:11:31) HaikuBot: appreciated
+(17:11:32) HaikuBot: query: fuck Kunstler!
+(17:11:32) HaikuBot: query: you know you are not
+(17:11:32) query: you know you are not appreciated here
+(17:11:33) HaikuBot: appreciated
+(17:11:39) maartje: ...
+(17:12:13) Joseph_Bot: 11250 Menschen sind Kunstler
+(17:12:13) query: fuck Kunstler!
+(17:12:21) Joseph_Bot: 4640 Menschen waren Kunstler
+(17:12:21) query: fuck Kunstler!
+(17:12:25) HaikuBot: query: fuck Kunstler!
+(17:12:25) query: you know you are not appreciated here
+(17:12:25) HaikuBot: Joseph_Bot: Menschen waren
+(17:12:25) HaikuBot: Kunstler query: fuck
+(17:12:25) query: you know you are not appreciated here
+(17:12:25) query: fuck Kunstler!
+(17:12:26) HaikuBot: query: you know you
+(17:12:26) HaikuBot: are not appreciated
+(17:12:26) HaikuBot: here query: you know
+(17:13:03) Joseph_Bot: 11429 Menschen sind Kunstler
+(17:13:03) query: fuck Kunstler!
+(17:13:23) maartje: as a rule i don't speak
+(17:13:23) query: you know thats not true
+(17:13:23) Joseph_Bot: 4732 Menschen waren Kunstler
+(17:13:23) query: fuck Kunstler!
+(17:13:24) HaikuBot: Kunstler! Joseph_Bot:
+(17:13:24) HaikuBot: Menschen sind Kunstler query:
+(17:13:24) HaikuBot: fuck Kunstler! maartje:
+(17:13:24) HaikuBot: Menschen sind Kunstler
+(17:13:24) query: fuck Kunstler!
+(17:13:24) query: you know you are not appreciated here
+(17:13:25) HaikuBot: query: fuck Kunstler! maartje:
+(17:13:25) query: fuck Kunstler!
+(17:13:25) HaikuBot: as a rule i don't
+(17:13:25) query: you know you are not appreciated here
+(17:13:25) query: you know thats not true
+(17:13:30) HaikuBot: you know thats not true
+(17:13:30) query: have you lied today?
+(17:13:30) HaikuBot: Joseph_Bot: Menschen waren
+(17:13:30) HaikuBot: Kunstler query: fuck
+(17:13:30) query: you know you are not appreciated here
+(17:13:30) query: fuck Kunstler!
+(17:13:31) Manifester: This is the inexhaustible domain of what
+(17:13:31) Manifester: is real without being actual, what is not but which may be
+(17:13:31) query: FAKE IT
+(17:13:32) HaikuBot: query: fuck Kunstler!
+(17:13:32) HaikuBot: query: you know you are not
+(17:13:33) HaikuBot: appreciated
+(17:13:33) query: you know you are not appreciated here
+(17:13:34) HaikuBot: query: fuck Kunstler!
+(17:13:34) query: you know you are not appreciated here
+(17:13:34) HaikuBot: query: you know you are not
+(17:13:34) HaikuBot: appreciated
+(17:13:37) HaikuBot: query: you know thats
+(17:13:37) HaikuBot: not true query: have you lied
+(17:13:37) HaikuBot: today? query: you
+(17:13:37) HaikuBot: you know thats not true
+(17:13:37) query: have you lied today?
+(17:13:37) query: have you lied today?
+(17:13:39) HaikuBot: query: have you lied today?
+(17:13:39) HaikuBot: query: you know you
+(17:13:41) HaikuBot: thats not true query:
+(17:13:41) HaikuBot: have you lied today? query:
+(17:13:41) query: have you lied today?
+(17:13:43) HaikuBot: you know you are not
+(17:13:43) HaikuBot: have you lied today?
+(17:13:45) HaikuBot: query: you know you are not
+(17:13:45) HaikuBot: appreciated
+(17:13:47) HaikuBot: query: fuck Kunstler!
+(17:13:47) HaikuBot: Manifester: This is the
+(17:13:47) query: you know you are not appreciated here
+(17:13:49) HaikuBot: inexhaustible
+(17:13:49) HaikuBot: real without being
+(17:13:49) query: FAKE IT
+(17:13:51) HaikuBot: actual, what is not but
+(17:13:51) HaikuBot: which may be query:
+(17:13:53) HaikuBot: query: you know you
+(17:13:53) HaikuBot: are not appreciated
+(17:13:55) Joseph_Bot: 11607 Menschen sind Kunstler
+(17:13:55) HaikuBot: here query: you know
+(17:13:55) HaikuBot: query: have you lied
+(17:13:55) query: fuck Kunstler!
+(17:13:57) HaikuBot: today? query: have you lied
+(17:13:57) HaikuBot: today? query: have
+(17:13:59) HaikuBot: have you lied today?
+(17:13:59) HaikuBot: query: have you lied today?
+(17:14:01) HaikuBot: query: have you lied
+(17:14:01) HaikuBot: lied today? query:
+(17:14:03) HaikuBot: have you lied today? query:
+(17:14:03) HaikuBot: have you lied today?
+(17:14:05) HaikuBot: query: you know you
+(17:14:05) HaikuBot: are not appreciated
+(17:14:07) HaikuBot: here query: FAKE IT
+(17:14:09) Manifester: To hack is to trouble the
+(17:14:09) Manifester: object or the subject, by transforming in some way the very process of production by which
+(17:14:09) Manifester: objects and subjects come into being and recognise each other by their representations
+(17:14:09) query: take off your shirt!
+(17:14:10) HaikuBot: Kunstler query: fuck
+(17:14:10) query: you know you are not appreciated here
+(17:14:10) query: fuck Kunstler!
+(17:14:10) HaikuBot: Kunstler! Manifester: To
+(17:14:10) HaikuBot: hack is to trouble
+(17:14:10) query: take off your shirt!
+(17:14:12) HaikuBot: or the subject, by
+(17:14:12) HaikuBot: transforming in some way the
+(17:14:14) HaikuBot: very process of
+(17:14:14) HaikuBot: by transforming in
+(17:14:15) HaikuBot: some way the very process
+(17:14:15) HaikuBot: of production by
+(17:14:17) HaikuBot: transforming in some
+(17:14:17) HaikuBot: way the very process of
+(17:14:19) HaikuBot: production by which
+(17:14:25) Joseph_Bot: 4825 Menschen waren Kunstler
+(17:14:25) query: fuck Kunstler!
+(17:14:32) Manifester: It is up to an alliance of all the productive classes to turn that potential to actuality, to
+(17:14:32) Manifester: organise themselves subjectively, and use the available vectors for a collective and subjective
+(17:14:32) Manifester: becoming
+(17:14:37) HaikuBot: query: fuck Kunstler!
+(17:14:37) HaikuBot: Manifester: It is up
+(17:14:37) HaikuBot: to an alliance
+(17:14:37) HaikuBot: alliance of all
+(17:14:37) HaikuBot: the productive classes to
+(17:14:37) query: you know you are not appreciated here
+(17:14:39) HaikuBot: turn that potential
+(17:14:39) HaikuBot: productive classes
+(17:14:41) HaikuBot: to turn that potential to
+(17:14:41) HaikuBot: actuality,
+(17:14:43) HaikuBot: organise themselves
+(17:14:43) HaikuBot: subjectively, and use
+(17:14:44) Manifester: A HACKER MANIFESTO [version 4
+(17:14:45) HaikuBot: the available
+(17:14:45) Joseph_Bot: 11786 Menschen sind Kunstler
+(17:14:45) query: fuck Kunstler!
+(17:14:46) HaikuBot: query: you know you
+(17:14:47) HaikuBot: are not appreciated
+(17:14:47) HaikuBot: here Manifester:
+(17:15:01) Manifester: What may be free from the commodity form
+(17:15:01) Manifester: altogether is not land, not capital, but information
+(17:15:03) HaikuBot: sind Kunstler query:
+(17:15:03) HaikuBot: fuck Kunstler! Manifester:
+(17:15:03) HaikuBot: What may be free from
+(17:15:03) HaikuBot: Kunstler query: fuck
+(17:15:03) HaikuBot: Kunstler! Manifester: What
+(17:15:03) query: fuck Kunstler!
+(17:15:03) query: you know you are not appreciated here
+(17:15:03) query: you know you are not appreciated here
+(17:15:03) query: fuck Kunstler!
+(17:15:05) HaikuBot: may be free from the
+(17:15:07) HaikuBot: land, not capital,
+(17:15:07) HaikuBot: but information query:
+(17:15:07) HaikuBot: fuck Kunstler! query:
+(17:15:07) query: you know you are not appreciated here
+(17:15:09) HaikuBot: not capital, but
+(17:15:09) HaikuBot: information query: fuck
+(17:15:09) iconoclast: shit
+(17:15:09) query: you know you are not appreciated here
+(17:15:09) query: just go to the bathroom if you have to
+(17:15:10) eurico: bored
+(17:15:10) query: just go to the bathroom if you have to
+(17:15:11) HaikuBot: Kunstler! query: you
+(17:15:11) HaikuBot: but information
+(17:15:11) iconoclast: toilet
+(17:15:11) query: just go to the bathroom if you have to
+(17:15:13) HaikuBot: query: fuck Kunstler! query:
+(17:15:13) HaikuBot: you know you are not
+(17:15:13) query: you know you are not appreciated here
+(17:15:15) HaikuBot: query: fuck Kunstler!
+(17:15:15) HaikuBot: query: you know you are not
+(17:15:15) iconoclast: fuck
+(17:15:15) query: you know you are not appreciated here
+(17:15:15) query: you know you are not appreciated here
+(17:15:16) Manifester: All abstractions are abstractions of nature
+(17:15:17) HaikuBot: appreciated
+(17:15:17) HaikuBot: query: fuck Kunstler!
+(17:15:17) query: you know you are not appreciated here
+(17:15:19) HaikuBot: query: you know you are not
+(17:15:19) HaikuBot: appreciated
+(17:15:21) HaikuBot: iconoclast: shit
+(17:15:21) HaikuBot: query: you know you are not
+(17:15:21) query: just go to the bathroom if you have to
+(17:15:23) HaikuBot: appreciated
+(17:15:23) HaikuBot: go to the bathroom
+(17:15:25) HaikuBot: if you have to eurico:
+(17:15:25) HaikuBot: bored query: just go
+(17:15:25) query: just go to the bathroom if you have to
+(17:15:26) Manifester: New
+(17:15:26) Manifester: hacks supersede old hacks, and devalues them as property
+(17:15:27) HaikuBot: to the bathroom if
+(17:15:27) HaikuBot: you have to eurico: bored
+(17:15:27) query: just go to the bathroom if you have to
+(17:15:27) Joseph_Bot: 4918 Menschen waren Kunstler
+(17:15:27) query: fuck Kunstler!
+(17:15:29) HaikuBot: query: just go to
+(17:15:29) HaikuBot: have to eurico:
+(17:15:31) HaikuBot: bored query: just go to the
+(17:15:31) HaikuBot: bathroom if you have
+(17:15:31) query: just go to the bathroom if you have to
+(17:15:34) HaikuBot: toilet query: just
+(17:15:34) HaikuBot: go to the bathroom if you
+(17:15:34) query: just go to the bathroom if you have to
+(17:15:35) HaikuBot: have to query: you
+(17:15:35) HaikuBot: query: just go to
+(17:15:36) Joseph_Bot: 11964 Menschen sind Kunstler
+(17:15:36) query: fuck Kunstler!
+(17:15:37) HaikuBot: the bathroom if you have to
+(17:15:37) HaikuBot: query: you know you
+(17:15:39) HaikuBot: iconoclast: fuck
+(17:15:39) HaikuBot: query: you know you are not
+(17:15:39) query: you know you are not appreciated here
+(17:15:41) HaikuBot: appreciated
+(17:15:41) HaikuBot: query: you know you
+(17:15:41) Manifester: 15
+(17:15:43) HaikuBot: are not appreciated
+(17:15:43) HaikuBot: here Manifester:
+(17:15:45) HaikuBot: query: you know you
+(17:15:45) HaikuBot: are not appreciated
+(17:15:47) HaikuBot: here query: just go
+(17:15:47) HaikuBot: appreciated
+(17:15:49) HaikuBot: here query: just go to the
+(17:15:49) HaikuBot: bathroom if you have
+(17:15:51) HaikuBot: query: just go to
+(17:15:51) HaikuBot: the bathroom if you have to
+(17:15:53) HaikuBot: Manifester: New
+(17:15:53) HaikuBot: hacks supersede old
+(17:15:53) Manifester: The other
+(17:15:53) Manifester: form is the progressive politics of movement
+(17:15:55) HaikuBot: hacks, and devalues them as
+(17:15:55) HaikuBot: property query:
+(17:15:57) HaikuBot: and devalues them
+(17:15:57) HaikuBot: as property query: just
+(17:15:58) maartje: sweet!
+(17:15:59) HaikuBot: go to the bathroom
+(17:15:59) HaikuBot: devalues them as
+(17:16:01) HaikuBot: property query: just go
+(17:16:01) HaikuBot: to the bathroom if
+(17:16:03) HaikuBot: Joseph_Bot: Menschen
+(17:16:03) HaikuBot: waren Kunstler query: fuck
+(17:16:03) query: you know you are not appreciated here
+(17:16:03) query: fuck Kunstler!
+(17:16:05) HaikuBot: Kunstler! query: just
+(17:16:05) HaikuBot: Kunstler query: fuck
+(17:16:05) query: you know you are not appreciated here
+(17:16:05) query: fuck Kunstler!
+(17:16:05) Manifester: Property
+(17:16:05) Manifester: 17
+(17:16:07) HaikuBot: Kunstler! query: just go to
+(17:16:07) HaikuBot: the bathroom if you
+(17:16:09) HaikuBot: query: just go to
+(17:16:09) HaikuBot: the bathroom if you have to
+(17:16:11) HaikuBot: Joseph_Bot: Menschen
+(17:16:11) HaikuBot: go to the bathroom
+(17:16:13) HaikuBot: if you have to Joseph_Bot:
+(17:16:13) HaikuBot: Menschen sind Kunstler
+(17:16:14) query: fuck Kunstler!
+(17:16:15) HaikuBot: query: fuck Kunstler!
+(17:16:15) HaikuBot: query: you know you are not
+(17:16:15) query: you know you are not appreciated here
+(17:16:15) Manifester: As capital frees land
+(17:16:15) Manifester: from its spatial fixity, information as property frees capital from its fixity in a particular object
+(17:16:17) HaikuBot: appreciated
+(17:16:17) HaikuBot: Manifester: The
+(17:16:19) HaikuBot: other Manifester: form
+(17:16:19) HaikuBot: is the progressive
+(17:16:20) iconoclast: shit
+(17:16:20) query: just go to the bathroom if you have to
+(17:16:21) maartje: eat gum
+(17:16:21) HaikuBot: query: fuck Kunstler!
+(17:16:21) HaikuBot: query: you know you are not
+(17:16:21) query: FAKE IT
+(17:16:21) query: you know you are not appreciated here
+(17:16:23) HaikuBot: appreciated
+(17:16:23) HaikuBot: query: fuck Kunstler!
+(17:16:23) Joseph_Bot: 12143 Menschen sind Kunstler
+(17:16:23) query: you know you are not appreciated here
+(17:16:23) query: fuck Kunstler!
+(17:16:25) HaikuBot: query: you know you are not
+(17:16:25) HaikuBot: appreciated
+(17:16:27) HaikuBot: As capital frees
+(17:16:27) HaikuBot: land Manifester: from its
+(17:16:29) HaikuBot: spatial fixity,
+(17:16:29) HaikuBot: land Manifester:
+(17:16:31) HaikuBot: from its spatial fixity,
+(17:16:31) HaikuBot: information as
+(17:16:33) HaikuBot: information as
+(17:16:33) HaikuBot: property frees capital
+(17:16:34) Joseph_Bot: 5011 Menschen waren Kunstler
+(17:16:34) query: fuck Kunstler!
+(17:16:35) eurico: pants
+(17:16:35) HaikuBot: from its fixity
+(17:16:35) HaikuBot: shit query: just go
+(17:16:35) query: think of what your face looks like when you reach an orgasm
+(17:16:35) query: just go to the bathroom if you have to
+(17:16:37) HaikuBot: to the bathroom if you have
+(17:16:37) HaikuBot: to maartje: eat gum
+(17:16:37) query: FAKE IT
+(17:16:39) HaikuBot: appreciated
+(17:16:39) HaikuBot: here Joseph_Bot: Menschen sind
+(17:16:41) HaikuBot: Kunstler query: you
+(17:16:41) HaikuBot: Menschen sind Kunstler
+(17:16:41) query: fuck Kunstler!
+(17:16:41) query: fuck Kunstler!
+(17:16:43) HaikuBot: query: you know you are not
+(17:16:43) HaikuBot: appreciated
+(17:16:45) HaikuBot: query: fuck Kunstler!
+(17:16:45) HaikuBot: Joseph_Bot: Menschen waren
+(17:16:45) query: you know you are not appreciated here
+(17:16:47) HaikuBot: Kunstler query: fuck
+(17:16:47) HaikuBot: pants query: think of
+(17:16:48) query: you know you are not appreciated here
+(17:16:48) query: fuck Kunstler!
+(17:16:48) query: think of what your face looks like when you reach an orgasm
+(17:16:49) HaikuBot: what your face looks like when you
+(17:16:49) HaikuBot: reach an orgasm
+(17:16:51) HaikuBot: to the bathroom if
+(17:16:51) HaikuBot: you have to query: FAKE IT
+(17:16:54) HaikuBot: query: fuck Kunstler!
+(17:16:54) HaikuBot: query: fuck Kunstler!
+(17:16:54) query: you know you are not appreciated here
+(17:16:54) query: you know you are not appreciated here
+(17:16:55) HaikuBot: query: you know you are not
+(17:16:55) HaikuBot: appreciated
+(17:16:58) HaikuBot: query: fuck Kunstler!
+(17:16:58) HaikuBot: query: think of what your face
+(17:16:58) query: you know you are not appreciated here
+(17:16:59) HaikuBot: looks like when you reach
+(17:16:59) HaikuBot: query: you know you
+(17:17:01) HaikuBot: are not appreciated
+(17:17:01) HaikuBot: here query: you know
+(17:17:03) Manifester: 05
+(17:17:04) HaikuBot: query: you know you
+(17:17:04) HaikuBot: are not appreciated
+(17:17:06) HaikuBot: here Manifester:
+(17:17:13) Joseph_Bot: 12321 Menschen sind Kunstler
+(17:17:13) query: fuck Kunstler!
+(17:17:34) Joseph_Bot: 5103 Menschen waren Kunstler
+(17:17:35) query: fuck Kunstler!
+(17:17:37) HaikuBot: query: fuck Kunstler!
+(17:17:37) query: you know you are not appreciated here
+(17:17:37) HaikuBot: Joseph_Bot: Menschen waren
+(17:17:37) HaikuBot: Kunstler query: fuck
+(17:17:37) query: you know you are not appreciated here
+(17:17:37) query: fuck Kunstler!
+(17:17:39) HaikuBot: query: you know you
+(17:17:39) HaikuBot: are not appreciated
+(17:17:39) HaikuBot: here query: you know
+(17:18:03) Joseph_Bot: 12500 Menschen sind Kunstler
+(17:18:04) query: fuck Kunstler!
+(17:18:37) Joseph_Bot: 5196 Menschen waren Kunstler
+(17:18:37) query: fuck Kunstler!
+(17:18:39) HaikuBot: query: fuck Kunstler!
+(17:18:39) query: you know you are not appreciated here
+(17:18:39) HaikuBot: Joseph_Bot: Menschen waren
+(17:18:39) HaikuBot: Kunstler query: fuck
+(17:18:39) query: you know you are not appreciated here
+(17:18:39) query: fuck Kunstler!
+(17:18:41) HaikuBot: query: you know you
+(17:18:41) HaikuBot: are not appreciated
+(17:18:41) HaikuBot: here query: you know
+(17:18:57) Joseph_Bot: 12678 Menschen sind Kunstler
+(17:18:57) query: fuck Kunstler!
+(17:19:32) Manifester: The hack always has to move on
+(17:19:32) query: take off your shirt!
+(17:19:34) HaikuBot: sind Kunstler query:
+(17:19:34) query: fuck Kunstler!
+(17:19:34) HaikuBot: fuck Kunstler! Manifester:
+(17:19:34) HaikuBot: The hack always has
+(17:19:34) query: you know you are not appreciated here
+(17:19:34) HaikuBot: Kunstler query: fuck
+(17:19:34) HaikuBot: Kunstler! Manifester: The
+(17:19:34) query: take off your shirt!
+(17:19:34) query: you know you are not appreciated here
+(17:19:34) query: fuck Kunstler!
+(17:19:35) HaikuBot: hack always has to
+(17:19:35) query: take off your shirt!
+(17:19:37) HaikuBot: query: fuck Kunstler!
+(17:19:37) query: you know you are not appreciated here
+(17:19:37) HaikuBot: query: you know you are not
+(17:19:37) HaikuBot: appreciated
+(17:19:41) Joseph_Bot: 5289 Menschen waren Kunstler
+(17:19:41) query: fuck Kunstler!
+(17:19:44) Manifester: Production produces all things, and all producers of things
+(17:19:49) Joseph_Bot: 12857 Menschen sind Kunstler
+(17:19:49) query: fuck Kunstler!
+(17:19:53) HaikuBot: query: fuck Kunstler!
+(17:19:53) HaikuBot: Manifester: Production
+(17:19:53) query: you know you are not appreciated here
+(17:19:53) HaikuBot: produces all things,
+(17:19:56) HaikuBot: Menschen sind Kunstler
+(17:19:56) query: fuck Kunstler!
+(17:19:56) HaikuBot: query: fuck Kunstler! query:
+(17:19:56) HaikuBot: you know you are not
+(17:19:56) HaikuBot: query: fuck Kunstler!
+(17:19:56) query: you know you are not appreciated here
+(17:19:56) query: you know you are not appreciated here
+(17:19:57) HaikuBot: query: you know you are not
+(17:19:57) HaikuBot: appreciated
+(17:19:59) HaikuBot: query: fuck Kunstler!
+(17:19:59) HaikuBot: query: you know you are not
+(17:19:59) query: you know you are not appreciated here
+(17:20:01) HaikuBot: appreciated
+(17:20:01) HaikuBot: query: you know you
+(17:20:03) HaikuBot: are not appreciated
+(17:20:03) HaikuBot: here query: you know
+(17:20:28) Manifester: There is nothing that can't
+(17:20:28) Manifester: be valued as a representation
+(17:20:36) Joseph_Bot: 13035 Menschen sind Kunstler
+(17:20:36) query: fuck Kunstler!
+(17:20:43) Manifester: And yet abstraction relies on
+(17:20:43) Manifester: something that has an independent existence to physical matter -- information
+(17:20:48) Joseph_Bot: 5382 Menschen waren Kunstler
+(17:20:48) query: fuck Kunstler!
+(17:21:10) Manifester: The hack expresses knowledge in its virtuality, by producing new abstractions that
+(17:21:10) query: take off your shirt!
+(17:21:10) Manifester: do not necessarily fit the disciplinary regime of managing and commodifying education
+(17:21:27) Joseph_Bot: 13214 Menschen sind Kunstler
+(17:21:27) query: fuck Kunstler!
+(17:21:33) Manifester: Politics can become expressive only when it is a politics of freeing the virtuality of
+(17:21:33) Manifester: information
+(17:21:50) Joseph_Bot: 5474 Menschen waren Kunstler
+(17:21:50) query: fuck Kunstler!
+(17:21:53) Manifester: Hacking is the
+(17:21:53) Manifester: production of production
+(17:22:18) Joseph_Bot: 13392 Menschen sind Kunstler
+(17:22:18) query: fuck Kunstler!
+(17:22:22) Manifester: While hackers create these new worlds, we do
+(17:22:22) Manifester: not possess them
+(17:22:53) Joseph_Bot: 5567 Menschen waren Kunstler
+(17:22:53) query: fuck Kunstler!
+(17:22:57) Manifester: But as it is the act of hacking that composes, at one and the
+(17:22:57) Manifester: same time, the hacker and the hack, hacking recognises no artificial scarcity, no official licence,
+(17:22:57) Manifester: no credentialing police force other than that composed by the gift economy among hackers
+(17:22:57) Manifester: themselves
+(17:23:10) Joseph_Bot: 13571 Menschen sind Kunstler
+(17:23:10) query: fuck Kunstler!
+(17:23:13) Manifester: Class
+(17:23:13) Manifester: 12
+(17:23:56) Joseph_Bot: 5660 Menschen waren Kunstler
+(17:23:56) query: fuck Kunstler!
+(17:24:00) maartje: design it
+(17:24:00) query: just scratch it, nobody will see
+(17:24:01) Joseph_Bot: 13749 Menschen sind Kunstler
+(17:24:01) query: fuck Kunstler!
+(17:24:47) Joseph_Bot: 13928 Menschen sind Kunstler
+(17:24:47) query: fuck Kunstler!
+(17:24:59) eurico: The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+(17:25:01) vocaloid: MEncoder svn r34540 (Raspbian), built with gcc-4.6 (C) 2000-2012 MPlayer Team
+(17:25:01) vocaloid: success: format: 16  data: 0x0 - 0x0
+(17:25:01) vocaloid: MF file format detected.
+(17:25:01) vocaloid: [mf] search expr: frame0*.png
+(17:25:01) vocaloid: [mf] number of files: 41 (164)
+(17:25:02) vocaloid: VIDEO:  [MPNG]  0x0  24bpp  10.000 fps    0.0 kbps ( 0.0 kbyte/s)
+(17:25:02) vocaloid: libavformat version 53.21.1 (external)
+(17:25:02) Joseph_Bot: 5753 Menschen waren Kunstler
+(17:25:02) query: fuck Kunstler!
+(17:25:05) vocaloid: Mismatching header version 53.19.0
+(17:25:05) vocaloid: Audio only file format detected.
+(17:25:06) vocaloid: [V] filefmt:65536  fourcc:0x474E504D  size:0x0  fps:10.000  ftime:=0.1000
+(17:25:06) vocaloid: ==========================================================================
+(17:25:08) vocaloid: Opening audio decoder: [pcm] Uncompressed PCM audio decoder
+(17:25:08) vocaloid: AUDIO: 22050 Hz, 1 ch, s16le, 352.8 kbit/100.00% (ratio: 44100->44100)
+(17:25:10) vocaloid: Selected audio codec: [pcm] afm: pcm (Uncompressed PCM)
+(17:25:10) vocaloid: ==========================================================================
+(17:25:12) vocaloid: libavcodec version 53.35.0 (external)
+(17:25:12) vocaloid: Mismatching header version 53.32.2
+(17:25:14) vocaloid: Opening video filter: [expand osd=1]
+(17:25:14) vocaloid: Expand: -1 x -1, -1 ; -1, osd: 1, aspect: 0.000000, round: 1
+(17:25:16) vocaloid: ==========================================================================
+(17:25:16) vocaloid: Opening video decoder: [ffmpeg] FFmpeg's libavcodec codec family
+(17:25:19) vocaloid: Selected video codec: [ffpng] vfm: ffmpeg (FFmpeg PNG)
+(17:25:19) vocaloid: ==========================================================================
+(17:25:20) vocaloid: MP3 audio selected.
+(17:25:20) vocaloid: Could not find matching colorspace - retrying with -vf scale...
+(17:25:22) vocaloid: Opening video filter: [scale]
+(17:25:22) vocaloid: Movie-Aspect is undefined - no prescaling applied.
+(17:25:24) vocaloid: videocodec: libavcodec (500x402 fourcc=34504d46 [FMP4])
+(17:25:24) vocaloid: Writing header...
+(17:25:37) eurico: The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+(17:25:39) Joseph_Bot: 14106 Menschen sind Kunstler
+(17:25:39) query: fuck Kunstler!
+(17:26:04) Joseph_Bot: 5845 Menschen waren Kunstler
+(17:26:04) query: fuck Kunstler!
+(17:26:24) eurico: The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.
+(17:26:26) vocaloid: MEncoder svn r34540 (Raspbian), built with gcc-4.6 (C) 2000-2012 MPlayer Team
+(17:26:26) vocaloid: success: format: 16  data: 0x0 - 0x0
+(17:26:26) vocaloid: MF file format detected.
+(17:26:26) vocaloid: [mf] search expr: frame0*.png
+(17:26:27) vocaloid: [mf] number of files: 41 (164)
+(17:26:28) vocaloid: VIDEO:  [MPNG]  0x0  24bpp  10.000 fps    0.0 kbps ( 0.0 kbyte/s)
+(17:26:28) vocaloid: libavformat version 53.21.1 (external)
+(17:26:29) Joseph_Bot: 14285 Menschen sind Kunstler
+(17:26:29) query: fuck Kunstler!
+(17:26:30) vocaloid: Mismatching header version 53.19.0
+(17:26:30) vocaloid: Audio only file format detected.
+(17:26:32) vocaloid: [V] filefmt:65536  fourcc:0x474E504D  size:0x0  fps:10.000  ftime:=0.1000
+(17:26:32) vocaloid: ==========================================================================
+(17:26:34) vocaloid: Opening audio decoder: [pcm] Uncompressed PCM audio decoder
+(17:26:34) vocaloid: AUDIO: 22050 Hz, 1 ch, s16le, 352.8 kbit/100.00% (ratio: 44100->44100)
+(17:26:36) vocaloid: Selected audio codec: [pcm] afm: pcm (Uncompressed PCM)
+(17:26:36) vocaloid: ==========================================================================
+(17:26:38) vocaloid: libavcodec version 53.35.0 (external)
+(17:26:38) vocaloid: Mismatching header version 53.32.2
+(17:26:40) vocaloid: Opening video filter: [expand osd=1]
+(17:26:40) vocaloid: Expand: -1 x -1, -1 ; -1, osd: 1, aspect: 0.000000, round: 1
+(17:26:42) vocaloid: ==========================================================================
+(17:26:42) vocaloid: Opening video decoder: [ffmpeg] FFmpeg's libavcodec codec family
+(17:26:44) vocaloid: Selected video codec: [ffpng] vfm: ffmpeg (FFmpeg PNG)
+(17:26:44) vocaloid: ==========================================================================
+(17:26:46) vocaloid: MP3 audio selected.
+(17:26:46) vocaloid: Could not find matching colorspace - retrying with -vf scale...
+(17:26:48) vocaloid: Opening video filter: [scale]
+(17:26:48) vocaloid: Movie-Aspect is undefined - no prescaling applied.
+(17:26:51) vocaloid: videocodec: libavcodec (500x402 fourcc=34504d46 [FMP4])
+(17:26:51) vocaloid: Writing header...
+(17:26:52) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(17:26:52) vocaloid: Writing header...
+(17:26:54) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(17:26:54) vocaloid: Pos:   0.1s      1f ( 2%)  0.00fps Trem:   0min   0mb  A-V:0.000 [0:0]
+(17:27:00) vocaloid: in   0mb  A-V:0.050 [0:109]
+(17:27:06) Joseph_Bot: 5938 Menschen waren Kunstler
+(17:27:06) query: fuck Kunstler!
+(17:27:08) vocaloid:   1.2s     12f (30%)  5.85fps Trem:   0min   0mb  A-V:0.106 [417:112]
+(17:27:14) vocaloid: 9fps Trem:   0min   0mb  A-V:0.143 [388:116]
+(17:27:20) vocaloid: A-V:0.168 [403:112]
+(17:27:21) Joseph_Bot: 14463 Menschen sind Kunstler
+(17:27:21) query: fuck Kunstler!
+(17:27:26) vocaloid:   2.8s     28f (70%)  5.61fps Trem:   0min   0mb  A-V:0.179 [458:113]
+(17:27:32) vocaloid: 8fps Trem:   0min   0mb  A-V:0.197 [458:113]
+(17:27:38) vocaloid: A-V:0.147 [472:113]
+(17:27:42) vocaloid: Flushing video frames.
+(17:27:44) vocaloid: Writing index...
+(17:27:44) vocaloid: Writing header...
+(17:27:46) maartje: naked games
+(17:27:46) vocaloid: ODML: Aspect information not (yet?) available or unspecified, not writing vprp header.
+(17:27:46) vocaloid: Video stream:  438.302 kbit/s  (54787 B/s)  size: 219151 bytes  4.000 secs  41 frames
+(17:27:46) query: take off your shirt!
+(17:27:46) query: do you realize what you did?!
+(17:27:48) vocaloid: Audio stream:  113.084 kbit/s  (14135 B/s)  size: 52065 bytes  3.683 secs
+(17:27:48) vocaloid: Video codec omx-mpeg4 width 500 height 402 profile 0 fps 10.000000
+(17:27:50) vocaloid: Audio codec mp3 channels 1 samplerate 22050 bitspersample 16
+(17:27:50) vocaloid: Subtitle count: 0, state: off, index: 1, delay: 0
+(17:27:52) vocaloid: V:PortSettingsChanged: 500x402@10.00 interlace:0 deinterlace:0 anaglyph:0 par:1.00 layer:0
+(17:28:07) Joseph_Bot: 14642 Menschen sind Kunstler
+(17:28:07) query: fuck Kunstler!
+(17:28:13) Joseph_Bot: 6031 Menschen waren Kunstler
+(17:28:13) query: fuck Kunstler!
+(17:28:58) Joseph_Bot: 14820 Menschen sind Kunstler
+(17:28:58) query: fuck Kunstler!
+(17:29:14) Joseph_Bot: 6124 Menschen waren Kunstler
+(17:29:14) query: fuck Kunstler!
+(17:29:48) Joseph_Bot: 14999 Menschen sind Kunstler
+(17:29:48) query: fuck Kunstler!
+(17:30:16) Joseph_Bot: 6216 Menschen waren Kunstler
+(17:30:16) query: fuck Kunstler!
+(17:30:39) Joseph_Bot: 15177 Menschen sind Kunstler
+(17:30:39) query: fuck Kunstler!
+(17:31:04) maartje: friends are overrated
+(17:31:04) query: are you insecure?
+(17:31:17) Joseph_Bot: 6309 Menschen waren Kunstler
+(17:31:18) query: fuck Kunstler!
+(17:31:29) Joseph_Bot: 15356 Menschen sind Kunstler
+(17:31:29) query: fuck Kunstler!
+(17:32:16) Joseph_Bot: 15534 Menschen sind Kunstler
+(17:32:16) query: fuck Kunstler!
+(17:32:23) Joseph_Bot: 6402 Menschen waren Kunstler
+(17:32:23) query: fuck Kunstler!
+(17:32:57) maaike: hugger mugger?
+(17:33:06) Joseph_Bot: 15713 Menschen sind Kunstler
+(17:33:06) query: fuck Kunstler!
+(17:33:24) Joseph_Bot: 6495 Menschen waren Kunstler
+(17:33:24) query: fuck Kunstler!
+(17:33:57) Joseph_Bot: 15891 Menschen sind Kunstler
+(17:33:57) query: fuck Kunstler!
+(17:34:26) Joseph_Bot: 6587 Menschen waren Kunstler
+(17:34:26) query: fuck Kunstler!
+(17:34:47) Joseph_Bot: 16070 Menschen sind Kunstler
+(17:34:47) query: fuck Kunstler!
+(17:35:27) Joseph_Bot: 6680 Menschen waren Kunstler
+(17:35:27) query: fuck Kunstler!
+(17:35:36) Joseph_Bot: 16248 Menschen sind Kunstler
+(17:35:36) query: fuck Kunstler!
+(17:36:23) Joseph_Bot: 16427 Menschen sind Kunstler
+(17:36:23) query: fuck Kunstler!
+(17:36:33) Joseph_Bot: 6773 Menschen waren Kunstler
+(17:36:33) query: fuck Kunstler!
+(17:37:14) Joseph_Bot: 16605 Menschen sind Kunstler
+(17:37:14) query: fuck Kunstler!
+(17:37:34) Joseph_Bot: 6866 Menschen waren Kunstler
+(17:37:34) query: fuck Kunstler!
+(17:38:04) Joseph_Bot: 16784 Menschen sind Kunstler
+(17:38:04) query: fuck Kunstler!
+(17:38:35) Joseph_Bot: 6958 Menschen waren Kunstler
+(17:38:35) query: fuck Kunstler!
+(17:38:55) Joseph_Bot: 16962 Menschen sind Kunstler
+(17:38:55) query: fuck Kunstler!
+(17:39:37) Joseph_Bot: 7051 Menschen waren Kunstler
+(17:39:37) query: fuck Kunstler!
+(17:39:45) Joseph_Bot: 17141 Menschen sind Kunstler
+(17:39:45) query: fuck Kunstler!
+(17:40:31) Joseph_Bot: 17319 Menschen sind Kunstler
+(17:40:31) query: fuck Kunstler!
+(17:40:42) Joseph_Bot: 7144 Menschen waren Kunstler
+(17:40:42) query: fuck Kunstler!
+(17:41:21) Joseph_Bot: 17498 Menschen sind Kunstler
+(17:41:21) query: fuck Kunstler!
+(17:41:44) Joseph_Bot: 7237 Menschen waren Kunstler
+(17:41:44) query: fuck Kunstler!
+(17:42:12) Joseph_Bot: 17676 Menschen sind Kunstler
+(17:42:12) query: fuck Kunstler!
+(17:42:46) Joseph_Bot: 7329 Menschen waren Kunstler
+(17:42:46) query: fuck Kunstler!
+(17:43:03) Joseph_Bot: 17855 Menschen sind Kunstler
+(17:43:03) query: fuck Kunstler!
+(17:43:48) Joseph_Bot: 7422 Menschen waren Kunstler
+(17:43:48) query: fuck Kunstler!
+(17:43:55) Joseph_Bot: 18033 Menschen sind Kunstler
+(17:43:55) query: fuck Kunstler!
+(17:44:40) Joseph_Bot: 18212 Menschen sind Kunstler
+(17:44:40) query: fuck Kunstler!
+(17:44:53) Joseph_Bot: 7515 Menschen waren Kunstler
+(17:44:53) query: fuck Kunstler!
+(17:45:30) Joseph_Bot: 18390 Menschen sind Kunstler
+(17:45:30) query: fuck Kunstler!
+(17:45:54) Joseph_Bot: 7608 Menschen waren Kunstler
+(17:45:54) query: fuck Kunstler!
+(17:46:19) Joseph_Bot: 18569 Menschen sind Kunstler
+(17:46:19) query: fuck Kunstler!
+(17:46:55) Joseph_Bot: 7700 Menschen waren Kunstler
+(17:46:55) query: fuck Kunstler!
+(17:47:09) Joseph_Bot: 18747 Menschen sind Kunstler
+(17:47:09) query: fuck Kunstler!
+(17:47:56) Joseph_Bot: 18926 Menschen sind Kunstler
+(17:47:56) query: fuck Kunstler!
+(17:48:00) Joseph_Bot: 7793 Menschen waren Kunstler
+(17:48:00) query: fuck Kunstler!
+(17:48:46) Joseph_Bot: 19104 Menschen sind Kunstler
+(17:48:46) query: fuck Kunstler!
+(17:49:01) Joseph_Bot: 7886 Menschen waren Kunstler
+(17:49:01) query: fuck Kunstler!
+(17:49:36) Joseph_Bot: 19283 Menschen sind Kunstler
+(17:49:36) query: fuck Kunstler!
+(17:50:03) Joseph_Bot: 7979 Menschen waren Kunstler
+(17:50:03) query: fuck Kunstler!
+(17:50:27) Joseph_Bot: 19461 Menschen sind Kunstler
+(17:50:27) query: fuck Kunstler!
